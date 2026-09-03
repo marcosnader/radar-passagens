@@ -1,0 +1,352 @@
+{
+  "generated_at": "2026-09-03T21:31:09+00:00",
+  "currency": "EUR",
+  "monitors": [
+    {
+      "id": "m1",
+      "route": "GRU → NYC",
+      "query": {
+        "departure_id": "GRU",
+        "arrival_id": "JFK,EWR",
+        "outbound_date": "2026-10-02",
+        "return_date": null,
+        "type": 2,
+        "travel_class": 3,
+        "stops": 1
+      },
+      "cabin": "executiva",
+      "cheapest": {
+        "price": 3033,
+        "airline": "United",
+        "flight_numbers": [
+          "UA 148"
+        ],
+        "depart": "2026-10-02 21:00",
+        "arrive": "2026-10-03 05:35",
+        "from": "GRU",
+        "to": "EWR",
+        "stops": 0,
+        "duration_min": 575,
+        "travel_class": "Business Class"
+      },
+      "by_airline": [
+        {
+          "price": 3033,
+          "airline": "United",
+          "flight_numbers": [
+            "UA 148"
+          ],
+          "depart": "2026-10-02 21:00",
+          "arrive": "2026-10-03 05:35",
+          "from": "GRU",
+          "to": "EWR",
+          "stops": 0,
+          "duration_min": 575,
+          "travel_class": "Business Class"
+        },
+        {
+          "price": 3288,
+          "airline": "American",
+          "flight_numbers": [
+            "AA 950"
+          ],
+          "depart": "2026-10-02 22:30",
+          "arrive": "2026-10-03 07:05",
+          "from": "GRU",
+          "to": "JFK",
+          "stops": 0,
+          "duration_min": 575,
+          "travel_class": "Business Class"
+        },
+        {
+          "price": 5163,
+          "airline": "Delta",
+          "flight_numbers": [
+            "DL 226"
+          ],
+          "depart": "2026-10-02 20:30",
+          "arrive": "2026-10-03 05:29",
+          "from": "GRU",
+          "to": "JFK",
+          "stops": 0,
+          "duration_min": 599,
+          "travel_class": "Business Class"
+        },
+        {
+          "price": 5163,
+          "airline": "LATAM",
+          "flight_numbers": [
+            "LA 8180"
+          ],
+          "depart": "2026-10-02 22:50",
+          "arrive": "2026-10-03 07:45",
+          "from": "GRU",
+          "to": "JFK",
+          "stops": 0,
+          "duration_min": 595,
+          "travel_class": "Business Class"
+        }
+      ],
+      "options_count": 4,
+      "price_insights": null,
+      "error": null
+    },
+    {
+      "id": "m2",
+      "route": "NYC → Paris",
+      "query": {
+        "departure_id": "JFK,EWR",
+        "arrival_id": "CDG,ORY",
+        "outbound_date": "2026-10-06",
+        "return_date": null,
+        "type": 2,
+        "travel_class": 3,
+        "stops": 1
+      },
+      "cabin": "executiva",
+      "cheapest": {
+        "price": 1904,
+        "airline": "La Compagnie",
+        "flight_numbers": [
+          "B0 101"
+        ],
+        "depart": "2026-10-06 19:00",
+        "arrive": "2026-10-07 08:40",
+        "from": "EWR",
+        "to": "ORY",
+        "stops": 0,
+        "duration_min": 460,
+        "travel_class": "Business Class"
+      },
+      "by_airline": [
+        {
+          "price": 1904,
+          "airline": "La Compagnie",
+          "flight_numbers": [
+            "B0 101"
+          ],
+          "depart": "2026-10-06 19:00",
+          "arrive": "2026-10-07 08:40",
+          "from": "EWR",
+          "to": "ORY",
+          "stops": 0,
+          "duration_min": 460,
+          "travel_class": "Business Class"
+        },
+        {
+          "price": 2243,
+          "airline": "American",
+          "flight_numbers": [
+            "AA 42"
+          ],
+          "depart": "2026-10-06 17:50",
+          "arrive": "2026-10-07 07:20",
+          "from": "JFK",
+          "to": "CDG",
+          "stops": 0,
+          "duration_min": 450,
+          "travel_class": "Business Class"
+        },
+        {
+          "price": 2286,
+          "airline": "Air France",
+          "flight_numbers": [
+            "AF 9"
+          ],
+          "depart": "2026-10-06 23:30",
+          "arrive": "2026-10-07 12:55",
+          "from": "JFK",
+          "to": "CDG",
+          "stops": 0,
+          "duration_min": 445,
+          "travel_class": "Business Class"
+        },
+        {
+          "price": 2630,
+          "airline": "JetBlue",
+          "flight_numbers": [
+            "B6 1407"
+          ],
+          "depart": "2026-10-06 19:33",
+          "arrive": "2026-10-07 09:15",
+          "from": "JFK",
+          "to": "CDG",
+          "stops": 0,
+          "duration_min": 462,
+          "travel_class": "Business Class"
+        },
+        {
+          "price": 3124,
+          "airline": "United",
+          "flight_numbers": [
+            "UA 57"
+          ],
+          "depart": "2026-10-06 17:35",
+          "arrive": "2026-10-07 07:05",
+          "from": "EWR",
+          "to": "CDG",
+          "stops": 0,
+          "duration_min": 450,
+          "travel_class": "Business Class"
+        }
+      ],
+      "options_count": 14,
+      "price_insights": null,
+      "error": null
+    },
+    {
+      "id": "m3",
+      "route": "CDG → GRU",
+      "query": {
+        "departure_id": "CDG",
+        "arrival_id": "GRU",
+        "outbound_date": "2026-10-25",
+        "return_date": null,
+        "type": 2,
+        "travel_class": 3,
+        "stops": 1
+      },
+      "cabin": "executiva",
+      "cheapest": {
+        "price": 4634,
+        "airline": "Air France",
+        "flight_numbers": [
+          "AF 460"
+        ],
+        "depart": "2026-10-25 10:25",
+        "arrive": "2026-10-25 18:25",
+        "from": "CDG",
+        "to": "GRU",
+        "stops": 0,
+        "duration_min": 720,
+        "travel_class": "Business Class"
+      },
+      "by_airline": [
+        {
+          "price": 4634,
+          "airline": "Air France",
+          "flight_numbers": [
+            "AF 460"
+          ],
+          "depart": "2026-10-25 10:25",
+          "arrive": "2026-10-25 18:25",
+          "from": "CDG",
+          "to": "GRU",
+          "stops": 0,
+          "duration_min": 720,
+          "travel_class": "Business Class"
+        }
+      ],
+      "options_count": 2,
+      "price_insights": null,
+      "error": null
+    },
+    {
+      "id": "m4",
+      "route": "GRU ⇄ CDG (econômica)",
+      "query": {
+        "departure_id": "GRU",
+        "arrival_id": "CDG",
+        "outbound_date": "2026-10-09",
+        "return_date": "2026-10-25",
+        "type": 1,
+        "travel_class": 1,
+        "stops": 1
+      },
+      "cabin": "econômica",
+      "cheapest": {
+        "price": 1355,
+        "airline": "Air France",
+        "flight_numbers": [
+          "AF 453"
+        ],
+        "depart": "2026-10-09 14:40",
+        "arrive": "2026-10-10 07:05",
+        "from": "GRU",
+        "to": "CDG",
+        "stops": 0,
+        "duration_min": 685,
+        "travel_class": "Economy"
+      },
+      "by_airline": [
+        {
+          "price": 1355,
+          "airline": "Air France",
+          "flight_numbers": [
+            "AF 453"
+          ],
+          "depart": "2026-10-09 14:40",
+          "arrive": "2026-10-10 07:05",
+          "from": "GRU",
+          "to": "CDG",
+          "stops": 0,
+          "duration_min": 685,
+          "travel_class": "Economy"
+        }
+      ],
+      "options_count": 2,
+      "price_insights": null,
+      "error": null
+    },
+    {
+      "id": "m6",
+      "route": "GRU ⇄ CDG (executiva)",
+      "query": {
+        "departure_id": "GRU",
+        "arrival_id": "CDG",
+        "outbound_date": "2026-10-09",
+        "return_date": "2026-11-21",
+        "type": 1,
+        "travel_class": 3,
+        "stops": 1
+      },
+      "cabin": "executiva",
+      "cheapest": {
+        "price": 7023,
+        "airline": "Air France",
+        "flight_numbers": [
+          "AF 453"
+        ],
+        "depart": "2026-10-09 14:40",
+        "arrive": "2026-10-10 07:05",
+        "from": "GRU",
+        "to": "CDG",
+        "stops": 0,
+        "duration_min": 685,
+        "travel_class": "Business Class"
+      },
+      "by_airline": [
+        {
+          "price": 7023,
+          "airline": "Air France",
+          "flight_numbers": [
+            "AF 453"
+          ],
+          "depart": "2026-10-09 14:40",
+          "arrive": "2026-10-10 07:05",
+          "from": "GRU",
+          "to": "CDG",
+          "stops": 0,
+          "duration_min": 685,
+          "travel_class": "Business Class"
+        }
+      ],
+      "options_count": 2,
+      "price_insights": null,
+      "error": null
+    }
+  ],
+  "serpapi_account": {
+    "plan_name": "Free Plan",
+    "searches_per_month": 250,
+    "plan_searches_left": 244,
+    "extra_credits": 0,
+    "total_searches_left": 244,
+    "this_month_usage": 6,
+    "plan_renewal_date": "2026-10-03",
+    "account_rate_limit_per_hour": 250,
+    "this_hour_searches": 4,
+    "checked_at": "2026-09-03T21:31:47+00:00",
+    "error": null
+  }
+}

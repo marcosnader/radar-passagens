@@ -1,0 +1,183 @@
+{
+ "search_metadata": {
+  "id": "6a99e733ae39f36379006e7e",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/k8os3UhS2am1bOI5VoW8QGNByj3dEqh19zrohL_wI0s/6a99e733ae39f36379006e7e.json",
+  "markdown_endpoint": "https://serpapi.com/searches/k8os3UhS2am1bOI5VoW8QGNByj3dEqh19zrohL_wI0s/6a99e733ae39f36379006e7e.md",
+  "created_at": "2026-09-03 21:31:31 UTC",
+  "processed_at": "2026-09-03 21:31:31 UTC",
+  "google_flights_url": "https://www.google.com/travel/flights?hl=en&gl=br&curr=EUR&tfs=CBwQAhooEgoyMDI2LTEwLTA5KAA6AkxBOgJBVmoHCAESA0dSVXIHCAESA0NERxooEgoyMDI2LTEwLTI1KAA6AkxBOgJBVmoHCAESA0NER3IHCAESA0dSVUABSAFwAZgBAQ&tfu=EgIIAQ",
+  "raw_html_file": "https://serpapi.com/searches/k8os3UhS2am1bOI5VoW8QGNByj3dEqh19zrohL_wI0s/6a99e733ae39f36379006e7e.html",
+  "prettify_html_file": "https://serpapi.com/searches/k8os3UhS2am1bOI5VoW8QGNByj3dEqh19zrohL_wI0s/6a99e733ae39f36379006e7e.prettify",
+  "total_time_taken": 2.59
+ },
+ "search_parameters": {
+  "engine": "google_flights",
+  "hl": "en",
+  "gl": "br",
+  "type": "1",
+  "departure_id": "GRU",
+  "arrival_id": "CDG",
+  "outbound_date": "2026-10-09",
+  "return_date": "2026-10-25",
+  "travel_class": 1,
+  "adults": 1,
+  "stops": 1,
+  "exclude_airlines": "LA,AV",
+  "currency": "EUR",
+  "deep_search": true
+ },
+ "other_flights": [
+  {
+   "flights": [
+    {
+     "departure_airport": {
+      "name": "São Paulo/Guarulhos–Governor André Franco Montoro International Airport",
+      "id": "GRU",
+      "time": "2026-10-09 14:40"
+     },
+     "arrival_airport": {
+      "name": "Aéroport de Paris-Charles de Gaulle",
+      "id": "CDG",
+      "time": "2026-10-10 07:05"
+     },
+     "duration": 685,
+     "airplane": "Boeing 777",
+     "airline": "Air France",
+     "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AF.png",
+     "travel_class": "Economy",
+     "flight_number": "AF 453",
+     "legroom": "32 in",
+     "extensions": [
+      "Above average legroom (32 in)",
+      "Free Wi-Fi",
+      "In-seat power & USB outlets",
+      "On-demand video",
+      "Carbon emissions estimate: 639 kg"
+     ],
+     "overnight": true
+    }
+   ],
+   "total_duration": 685,
+   "carbon_emissions": {
+    "this_flight": 639000,
+    "typical_for_this_route": 580000,
+    "difference_percent": 10
+   },
+   "price": 1355,
+   "type": "Round trip",
+   "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AF.png",
+   "extensions": [
+    "Checked baggage for a fee",
+    "Fare non-refundable, taxes may be refundable",
+    "Ticket changes for a fee",
+    "Bag and fare conditions depend on the return flight"
+   ],
+   "departure_token": "WyJDalJJUTBSeWRuTTVkVEZ5YkRoQlFXVkVWVUZDUnkwdExTMHRMV05sWjNVeE15MXVNVUZCUVVGQlIzRmFOWHBOVDNCMlRYRkJFZ1ZCUmpRMU14b0xDUEtoQ0JBQ0dnTkZWVkk0SEhDanpnaz0iLFtbIkdSVSIsIjIwMjYtMTAtMDkiLCJDREciLG51bGwsIkFGIiwiNDUzIl1dXQ=="
+  },
+  {
+   "flights": [
+    {
+     "departure_airport": {
+      "name": "São Paulo/Guarulhos–Governor André Franco Montoro International Airport",
+      "id": "GRU",
+      "time": "2026-10-09 19:35"
+     },
+     "arrival_airport": {
+      "name": "Aéroport de Paris-Charles de Gaulle",
+      "id": "CDG",
+      "time": "2026-10-10 11:55"
+     },
+     "duration": 680,
+     "airplane": "Airbus A350",
+     "airline": "Air France",
+     "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AF.png",
+     "travel_class": "Economy",
+     "flight_number": "AF 459",
+     "legroom": "31 in",
+     "extensions": [
+      "Average legroom (31 in)",
+      "In-seat USB outlet",
+      "On-demand video",
+      "Carbon emissions estimate: 512 kg"
+     ],
+     "overnight": true
+    }
+   ],
+   "total_duration": 680,
+   "carbon_emissions": {
+    "this_flight": 512000,
+    "typical_for_this_route": 580000,
+    "difference_percent": -12
+   },
+   "price": 1411,
+   "type": "Round trip",
+   "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AF.png",
+   "extensions": [
+    "Checked baggage for a fee",
+    "Fare non-refundable, taxes may be refundable",
+    "Ticket changes for a fee",
+    "Bag and fare conditions depend on the return flight"
+   ],
+   "departure_token": "WyJDalJJUTBSeWRuTTVkVEZ5YkRoQlFXVkVWVUZDUnkwdExTMHRMV05sWjNVeE15MXVNVUZCUVVGQlIzRmFOWHBOVDNCMlRYRkJFZ1ZCUmpRMU9Sb0xDT0hOQ0JBQ0dnTkZWVkk0SEhDbGdRbz0iLFtbIkdSVSIsIjIwMjYtMTAtMDkiLCJDREciLG51bGwsIkFGIiwiNDU5Il1dXQ=="
+  }
+ ],
+ "airports": [
+  {
+   "departure": [
+    {
+     "airport": {
+      "id": "GRU",
+      "name": "São Paulo/Guarulhos–Governor André Franco Montoro International Airport"
+     },
+     "city": "São Paulo",
+     "country": "Brazil",
+     "country_code": "BR",
+     "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTkx9athZsBRDrcQSs15lBM_on9PkrTwz-ySvt8J6pcJZSuqg14GFxUPDm1FgV3ckvtmLWX0pDDIkRldw",
+     "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ4D5SB4Yfugl7neBSWCiZ5gRiYxGRSSCYavaGuPsXj1q6Hk3Gv5C78US7ZqeotwTy5BX6xGe9CpXQkvQM45Mjnol7egb_CdoPyBoVeqB8"
+    }
+   ],
+   "arrival": [
+    {
+     "airport": {
+      "id": "CDG",
+      "name": "Aéroport de Paris-Charles de Gaulle"
+     },
+     "city": "Paris",
+     "country": "France",
+     "country_code": "FR",
+     "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQGx8ii2KbSDdbdzfKye5oDN2bwBA6audqI7XUEf2iMRZezpn_ZbQe1ZIuvUSH-8XOMe958umDwSsAF1w",
+     "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSyQJ-woNs0iO22mPSkmRUM5gcsTbbYeypQ6BBTeFxXr90mqTxZl57Fdq2CDuLn4w7cKZ8TT9_zZhOpF57rIpA7yWKQnqKvkKIf9Y-qJDo"
+    }
+   ]
+  },
+  {
+   "departure": [
+    {
+     "airport": {
+      "id": "CDG",
+      "name": "Aéroport de Paris-Charles de Gaulle"
+     },
+     "city": "Paris",
+     "country": "France",
+     "country_code": "FR",
+     "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQGx8ii2KbSDdbdzfKye5oDN2bwBA6audqI7XUEf2iMRZezpn_ZbQe1ZIuvUSH-8XOMe958umDwSsAF1w",
+     "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSyQJ-woNs0iO22mPSkmRUM5gcsTbbYeypQ6BBTeFxXr90mqTxZl57Fdq2CDuLn4w7cKZ8TT9_zZhOpF57rIpA7yWKQnqKvkKIf9Y-qJDo"
+    }
+   ],
+   "arrival": [
+    {
+     "airport": {
+      "id": "GRU",
+      "name": "São Paulo/Guarulhos–Governor André Franco Montoro International Airport"
+     },
+     "city": "São Paulo",
+     "country": "Brazil",
+     "country_code": "BR",
+     "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTkx9athZsBRDrcQSs15lBM_on9PkrTwz-ySvt8J6pcJZSuqg14GFxUPDm1FgV3ckvtmLWX0pDDIkRldw",
+     "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ4D5SB4Yfugl7neBSWCiZ5gRiYxGRSSCYavaGuPsXj1q6Hk3Gv5C78US7ZqeotwTy5BX6xGe9CpXQkvQM45Mjnol7egb_CdoPyBoVeqB8"
+    }
+   ]
+  }
+ ]
+}
