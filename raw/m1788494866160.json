@@ -1,15 +1,15 @@
 {
  "search_metadata": {
-  "id": "6a9addee71a41dd17405cb8c",
+  "id": "6a9addf7d6eb72d8c6f5a792",
   "status": "Success",
-  "json_endpoint": "https://serpapi.com/searches/nUanejjXxKcBl3Uau8Be7LbDbjizj4m4bDvklREqEUU/6a9addee71a41dd17405cb8c.json",
-  "markdown_endpoint": "https://serpapi.com/searches/nUanejjXxKcBl3Uau8Be7LbDbjizj4m4bDvklREqEUU/6a9addee71a41dd17405cb8c.md",
-  "created_at": "2026-09-04 15:04:14 UTC",
-  "processed_at": "2026-09-04 15:04:14 UTC",
-  "google_flights_url": "https://www.google.com/travel/flights?hl=en&gl=br&curr=EUR&tfs=CBwQAhooEgoyMDI2LTEwLTA5KAA6AkxBOgJBVmoHCAESA0dSVXIHCAESA0NERxooEgoyMDI2LTExLTIxKAA6AkxBOgJBVmoHCAESA0NER3IHCAESA0dSVUABSANwAZgBAQ&tfu=EgIIAQ",
-  "raw_html_file": "https://serpapi.com/searches/nUanejjXxKcBl3Uau8Be7LbDbjizj4m4bDvklREqEUU/6a9addee71a41dd17405cb8c.html",
-  "prettify_html_file": "https://serpapi.com/searches/nUanejjXxKcBl3Uau8Be7LbDbjizj4m4bDvklREqEUU/6a9addee71a41dd17405cb8c.prettify",
-  "total_time_taken": 7.35
+  "json_endpoint": "https://serpapi.com/searches/yIDebWfC2JkwIfsz7aHRs3t9FjLgykaORzHhq_danKg/6a9addf7d6eb72d8c6f5a792.json",
+  "markdown_endpoint": "https://serpapi.com/searches/yIDebWfC2JkwIfsz7aHRs3t9FjLgykaORzHhq_danKg/6a9addf7d6eb72d8c6f5a792.md",
+  "created_at": "2026-09-04 15:04:23 UTC",
+  "processed_at": "2026-09-04 15:04:23 UTC",
+  "google_flights_url": "https://www.google.com/travel/flights?hl=en&gl=br&curr=EUR&tfs=CBwQAhooEgoyMDI2LTExLTE2KAA6AkxBOgJBVmoHCAESA0dSVXIHCAESA0NERxooEgoyMDI2LTEyLTAzKAA6AkxBOgJBVmoHCAESA0NER3IHCAESA0dSVUABSANwAZgBAQ&tfu=EgIIAQ",
+  "raw_html_file": "https://serpapi.com/searches/yIDebWfC2JkwIfsz7aHRs3t9FjLgykaORzHhq_danKg/6a9addf7d6eb72d8c6f5a792.html",
+  "prettify_html_file": "https://serpapi.com/searches/yIDebWfC2JkwIfsz7aHRs3t9FjLgykaORzHhq_danKg/6a9addf7d6eb72d8c6f5a792.prettify",
+  "total_time_taken": 0.9
  },
  "search_parameters": {
   "engine": "google_flights",
@@ -18,8 +18,8 @@
   "type": "1",
   "departure_id": "GRU",
   "arrival_id": "CDG",
-  "outbound_date": "2026-10-09",
-  "return_date": "2026-11-21",
+  "outbound_date": "2026-11-16",
+  "return_date": "2026-12-03",
   "travel_class": 3,
   "adults": 1,
   "stops": 1,
@@ -34,12 +34,12 @@
      "departure_airport": {
       "name": "São Paulo/Guarulhos–Governor André Franco Montoro International Airport",
       "id": "GRU",
-      "time": "2026-10-09 14:40"
+      "time": "2026-11-16 14:40"
      },
      "arrival_airport": {
       "name": "Aéroport de Paris-Charles de Gaulle",
       "id": "CDG",
-      "time": "2026-10-10 07:05"
+      "time": "2026-11-17 06:05"
      },
      "duration": 685,
      "airplane": "Boeing 777",
@@ -63,16 +63,16 @@
     "typical_for_this_route": 2123000,
     "difference_percent": 20
    },
-   "price": 6914,
+   "price": 3487,
    "type": "Round trip",
    "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AF.png",
    "extensions": [
-    "1 checked bag included",
-    "Fare non-refundable, taxes may be refundable",
-    "Ticket changes for a fee",
+    "1 checked bag up to 32 kg included",
+    "Full refund for cancellations",
+    "Free change, possible fare difference",
     "Bag and fare conditions depend on the return flight"
    ],
-   "departure_token": "WyJDalJJUW5SeU1EbFpPRGw2V1VGQlJtMUtiV2RDUnkwdExTMHRMUzB0TFhsc1pYb3lPRUZCUVVGQlIzRmhNMlU0VDJNNGRESkJFZ1ZCUmpRMU14b0xDSWFaS2hBQ0dnTkZWVkk0SEhDNi96QT0iLFtbIkdSVSIsIjIwMjYtMTAtMDkiLCJDREciLG51bGwsIkFGIiwiNDUzIl1dXQ=="
+   "departure_token": "WyJDalJJWWpoVFMyaFNZMUZyTmxGQlEyczVNWGRDUnkwdExTMHRMUzEyZDJsb01TMXVNa0ZCUVVGQlIzRmhNMlpuU1hCdldEUkJFZ1ZCUmpRMU14b0xDTHFqRlJBQ0dnTkZWVkk0SEhDdDJoZz0iLFtbIkdSVSIsIjIwMjYtMTEtMTYiLCJDREciLG51bGwsIkFGIiwiNDUzIl1dXQ=="
   },
   {
    "flights": [
@@ -80,14 +80,14 @@
      "departure_airport": {
       "name": "São Paulo/Guarulhos–Governor André Franco Montoro International Airport",
       "id": "GRU",
-      "time": "2026-10-09 19:35"
+      "time": "2026-11-16 20:40"
      },
      "arrival_airport": {
       "name": "Aéroport de Paris-Charles de Gaulle",
       "id": "CDG",
-      "time": "2026-10-10 11:55"
+      "time": "2026-11-17 11:50"
      },
-     "duration": 680,
+     "duration": 670,
      "airplane": "Airbus A350",
      "airline": "Air France",
      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AF.png",
@@ -102,22 +102,22 @@
      "overnight": true
     }
    ],
-   "total_duration": 680,
+   "total_duration": 670,
    "carbon_emissions": {
     "this_flight": 2049000,
     "typical_for_this_route": 2123000,
     "difference_percent": -3
    },
-   "price": 6914,
+   "price": 3487,
    "type": "Round trip",
    "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AF.png",
    "extensions": [
-    "1 checked bag included",
-    "Fare non-refundable, taxes may be refundable",
-    "Ticket changes for a fee",
+    "1 checked bag up to 32 kg included",
+    "Full refund for cancellations",
+    "Free change, possible fare difference",
     "Bag and fare conditions depend on the return flight"
    ],
-   "departure_token": "WyJDalJJUW5SeU1EbFpPRGw2V1VGQlJtMUtiV2RDUnkwdExTMHRMUzB0TFhsc1pYb3lPRUZCUVVGQlIzRmhNMlU0VDJNNGRESkJFZ1ZCUmpRMU9Sb0xDSWFaS2hBQ0dnTkZWVkk0SEhDNi96QT0iLFtbIkdSVSIsIjIwMjYtMTAtMDkiLCJDREciLG51bGwsIkFGIiwiNDU5Il1dXQ=="
+   "departure_token": "WyJDalJJWWpoVFMyaFNZMUZyTmxGQlEyczVNWGRDUnkwdExTMHRMUzEyZDJsb01TMXVNa0ZCUVVGQlIzRmhNMlpuU1hCdldEUkJFZ1ZCUmpRMU9Sb0xDTHFqRlJBQ0dnTkZWVkk0SEhDdDJoZz0iLFtbIkdSVSIsIjIwMjYtMTEtMTYiLCJDREciLG51bGwsIkFGIiwiNDU5Il1dXQ=="
   }
  ],
  "airports": [
