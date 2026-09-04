@@ -3,10 +3,47 @@
   "currency": "EUR",
   "exclude_airlines_default": "LA,AV",
   "monitors": [
-    { "id": "m1", "route": "GRU → NYC", "departure_id": "GRU", "arrival_id": "JFK,EWR", "outbound_date": "2026-10-02", "type": 2, "travel_class": 3, "stops": 1 },
-    { "id": "m2", "route": "NYC → Paris", "departure_id": "JFK,EWR", "arrival_id": "CDG,ORY", "outbound_date": "2026-10-06", "type": 2, "travel_class": 3, "stops": 1 },
-    { "id": "m3", "route": "CDG → GRU", "departure_id": "CDG", "arrival_id": "GRU", "outbound_date": "2026-10-25", "type": 2, "travel_class": 3, "stops": 1 },
-    { "id": "m4", "route": "GRU ⇄ CDG (econômica)", "departure_id": "GRU", "arrival_id": "CDG", "outbound_date": "2026-10-09", "return_date": "2026-10-25", "type": 1, "travel_class": 1, "stops": 1 },
-    { "id": "m6", "route": "GRU ⇄ CDG (executiva)", "departure_id": "GRU", "arrival_id": "CDG", "outbound_date": "2026-10-09", "return_date": "2026-11-21", "type": 1, "travel_class": 3, "stops": 1 }
+    {
+      "id": "m1",
+      "route": "GRU → NYC (executiva)",
+      "departure_id": "GRU",
+      "arrival_id": "JFK,EWR",
+      "outbound_date": "2026-10-02",
+      "type": 2,
+      "travel_class": 3,
+      "stops": 1
+    },
+    {
+      "id": "m6",
+      "route": "GRU ⇄ CDG (executiva)",
+      "departure_id": "GRU",
+      "arrival_id": "CDG",
+      "outbound_date": "2026-10-09",
+      "return_date": "2026-11-21",
+      "type": 1,
+      "travel_class": 3,
+      "stops": 1
+    },
+    {
+      "id": "m1788494866160",
+      "route": "gru ⇄ cdg (executiva)",
+      "departure_id": "GRU",
+      "arrival_id": "CDG",
+      "outbound_date": "2026-11-16",
+      "return_date": "2026-12-03",
+      "type": 1,
+      "travel_class": 3,
+      "stops": 1
+    },
+    {
+      "id": "m1788494926035",
+      "route": "cdg → gru (executiva)",
+      "departure_id": "CDG",
+      "arrival_id": "GRU",
+      "outbound_date": "2026-10-18",
+      "type": 2,
+      "travel_class": 3,
+      "stops": 1
+    }
   ]
 }
