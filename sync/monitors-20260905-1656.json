@@ -1,0 +1,48 @@
+{
+  "_comment": "Espelho dos monitores do Radar de Passagens. travel_class: 1 econômica, 2 premium, 3 executiva, 4 primeira. stops: 1 = sem escalas. type: 1 ida e volta, 2 só ida. Aeroportos múltiplos separados por vírgula.",
+  "currency": "EUR",
+  "exclude_airlines_default": "LA,AV",
+  "monitors": [
+    {
+      "id": "m1",
+      "route": "GRU → NYC (executiva)",
+      "departure_id": "GRU",
+      "arrival_id": "JFK,EWR",
+      "outbound_date": "2026-10-02",
+      "type": 2,
+      "travel_class": 3,
+      "stops": 1
+    },
+    {
+      "id": "m6",
+      "route": "GRU ⇄ CDG (executiva)",
+      "departure_id": "GRU",
+      "arrival_id": "CDG",
+      "outbound_date": "2026-10-09",
+      "return_date": "2026-11-21",
+      "type": 1,
+      "travel_class": 3,
+      "stops": 1
+    },
+    {
+      "id": "m1788494926035",
+      "route": "cdg → gru (executiva)",
+      "departure_id": "CDG",
+      "arrival_id": "GRU",
+      "outbound_date": "2026-10-18",
+      "type": 2,
+      "travel_class": 3,
+      "stops": 1
+    },
+    {
+      "id": "m1788635527614",
+      "route": "cdg → gru (executiva)",
+      "departure_id": "CDG",
+      "arrival_id": "GRU",
+      "outbound_date": "2026-10-16",
+      "type": 2,
+      "travel_class": 3,
+      "stops": 2
+    }
+  ]
+}
