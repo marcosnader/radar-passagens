@@ -25,22 +25,21 @@
       "stops": 1
     },
     {
-      "id": "m1788494866160",
-      "route": "gru ⇄ cdg (executiva)",
-      "departure_id": "GRU",
-      "arrival_id": "CDG",
-      "outbound_date": "2026-11-16",
-      "return_date": "2026-12-03",
-      "type": 1,
+      "id": "m1788494926035",
+      "route": "CDG → GRU 18/out (executiva)",
+      "departure_id": "CDG",
+      "arrival_id": "GRU",
+      "outbound_date": "2026-10-18",
+      "type": 2,
       "travel_class": 3,
       "stops": 1
     },
     {
-      "id": "m1788494926035",
-      "route": "cdg → gru (executiva)",
+      "id": "m1788635527614",
+      "route": "CDG → GRU 16/out (executiva)",
       "departure_id": "CDG",
       "arrival_id": "GRU",
-      "outbound_date": "2026-10-18",
+      "outbound_date": "2026-10-16",
       "type": 2,
       "travel_class": 3,
       "stops": 1
