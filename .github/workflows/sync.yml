@@ -1,0 +1,32 @@
+name: Aplicar monitores enviados pelo painel
+
+on:
+  push:
+    paths:
+      - "sync/**"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: prices
+  cancel-in-progress: false
+
+jobs:
+  apply:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Aplicar sync/ mais recente ao monitors.json
+        run: python sync_monitors.py
+      - name: Commit do monitors.json
+        run: |
+          git config user.name "radar-bot"
+          git config user.email "radar-bot@users.noreply.github.com"
+          git add monitors.json
+          git diff --cached --quiet && echo "monitors.json ja estava em dia" || git commit -m "monitors.json sincronizado a partir de sync/ [skip ci]"
+          git push
