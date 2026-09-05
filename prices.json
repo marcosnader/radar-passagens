@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T13:58:45+00:00",
+  "generated_at": "2026-09-05T20:06:14+00:00",
   "currency": "EUR",
   "monitors": [
     {
@@ -45,6 +45,20 @@
           "travel_class": "Business Class"
         },
         {
+          "price": 3088,
+          "airline": "LATAM",
+          "flight_numbers": [
+            "LA 8180"
+          ],
+          "depart": "2026-10-02 22:50",
+          "arrive": "2026-10-03 07:45",
+          "from": "GRU",
+          "to": "JFK",
+          "stops": 0,
+          "duration_min": 595,
+          "travel_class": "Business Class"
+        },
+        {
           "price": 3194,
           "airline": "American",
           "flight_numbers": [
@@ -56,20 +70,6 @@
           "to": "JFK",
           "stops": 0,
           "duration_min": 575,
-          "travel_class": "Business Class"
-        },
-        {
-          "price": 4721,
-          "airline": "LATAM",
-          "flight_numbers": [
-            "LA 8180"
-          ],
-          "depart": "2026-10-02 22:50",
-          "arrive": "2026-10-03 07:45",
-          "from": "GRU",
-          "to": "JFK",
-          "stops": 0,
-          "duration_min": 595,
           "travel_class": "Business Class"
         },
         {
@@ -139,53 +139,6 @@
       "error": null
     },
     {
-      "id": "m1788494866160",
-      "route": "gru ⇄ cdg (executiva)",
-      "query": {
-        "departure_id": "GRU",
-        "arrival_id": "CDG",
-        "outbound_date": "2026-11-16",
-        "return_date": "2026-12-03",
-        "type": 1,
-        "travel_class": 3,
-        "stops": 1
-      },
-      "cabin": "executiva",
-      "cheapest": {
-        "price": 2684,
-        "airline": "Air France",
-        "flight_numbers": [
-          "AF 453"
-        ],
-        "depart": "2026-11-16 14:40",
-        "arrive": "2026-11-17 06:05",
-        "from": "GRU",
-        "to": "CDG",
-        "stops": 0,
-        "duration_min": 685,
-        "travel_class": "Business Class"
-      },
-      "by_airline": [
-        {
-          "price": 2684,
-          "airline": "Air France",
-          "flight_numbers": [
-            "AF 453"
-          ],
-          "depart": "2026-11-16 14:40",
-          "arrive": "2026-11-17 06:05",
-          "from": "GRU",
-          "to": "CDG",
-          "stops": 0,
-          "duration_min": 685,
-          "travel_class": "Business Class"
-        }
-      ],
-      "options_count": 2,
-      "price_insights": null,
-      "error": null
-    },
-    {
       "id": "m1788494926035",
       "route": "cdg → gru (executiva)",
       "query": {
@@ -231,19 +184,128 @@
       "options_count": 2,
       "price_insights": null,
       "error": null
+    },
+    {
+      "id": "m1788635527614",
+      "route": "cdg → gru (executiva)",
+      "query": {
+        "departure_id": "CDG",
+        "arrival_id": "GRU",
+        "outbound_date": "2026-10-16",
+        "return_date": null,
+        "type": 2,
+        "travel_class": 3,
+        "stops": 2
+      },
+      "cabin": "executiva",
+      "cheapest": {
+        "price": 2773,
+        "airline": "ITA",
+        "flight_numbers": [
+          "AZ 325",
+          "AZ 674"
+        ],
+        "depart": "2026-10-16 18:15",
+        "arrive": "2026-10-17 05:20",
+        "from": "CDG",
+        "to": "GRU",
+        "stops": 1,
+        "duration_min": 965,
+        "travel_class": "Business Class"
+      },
+      "by_airline": [
+        {
+          "price": 2773,
+          "airline": "ITA",
+          "flight_numbers": [
+            "AZ 325",
+            "AZ 674"
+          ],
+          "depart": "2026-10-16 18:15",
+          "arrive": "2026-10-17 05:20",
+          "from": "CDG",
+          "to": "GRU",
+          "stops": 1,
+          "duration_min": 965,
+          "travel_class": "Business Class"
+        },
+        {
+          "price": 3083,
+          "airline": "Air France + KLM",
+          "flight_numbers": [
+            "AF 1340",
+            "KL 791"
+          ],
+          "depart": "2026-10-16 08:15",
+          "arrive": "2026-10-16 19:50",
+          "from": "CDG",
+          "to": "GRU",
+          "stops": 1,
+          "duration_min": 995,
+          "travel_class": "Business Class"
+        },
+        {
+          "price": 3085,
+          "airline": "KLM",
+          "flight_numbers": [
+            "KL 1406",
+            "KL 791"
+          ],
+          "depart": "2026-10-16 10:15",
+          "arrive": "2026-10-16 19:50",
+          "from": "CDG",
+          "to": "GRU",
+          "stops": 1,
+          "duration_min": 875,
+          "travel_class": "Business Class"
+        },
+        {
+          "price": 3247,
+          "airline": "Royal Air Maroc",
+          "flight_numbers": [
+            "AT 789",
+            "AT 215"
+          ],
+          "depart": "2026-10-16 18:30",
+          "arrive": "2026-10-17 22:30",
+          "from": "CDG",
+          "to": "GRU",
+          "stops": 1,
+          "duration_min": 1980,
+          "travel_class": "Business Class"
+        },
+        {
+          "price": 3404,
+          "airline": "Lufthansa + Lufthansa City Airlines",
+          "flight_numbers": [
+            "VL 2227",
+            "LH 504"
+          ],
+          "depart": "2026-10-16 09:00",
+          "arrive": "2026-10-16 18:55",
+          "from": "CDG",
+          "to": "GRU",
+          "stops": 1,
+          "duration_min": 895,
+          "travel_class": "Business Class"
+        }
+      ],
+      "options_count": 10,
+      "price_insights": null,
+      "error": null
     }
   ],
   "serpapi_account": {
     "plan_name": "Free Plan",
     "searches_per_month": 250,
-    "plan_searches_left": 237,
+    "plan_searches_left": 233,
     "extra_credits": 0,
-    "total_searches_left": 237,
-    "this_month_usage": 13,
+    "total_searches_left": 233,
+    "this_month_usage": 17,
     "plan_renewal_date": "2026-10-03",
     "account_rate_limit_per_hour": 250,
-    "this_hour_searches": 1,
-    "checked_at": "2026-09-05T13:59:06+00:00",
+    "this_hour_searches": 4,
+    "checked_at": "2026-09-05T20:06:35+00:00",
     "error": null
   }
 }

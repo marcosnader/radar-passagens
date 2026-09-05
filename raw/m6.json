@@ -1,15 +1,15 @@
 {
  "search_metadata": {
-  "id": "6a9c201cc20348b4cce85b37",
+  "id": "6a9c763c3d06ea3f4b00da8d",
   "status": "Success",
-  "json_endpoint": "https://serpapi.com/searches/I_IPVUVeeK5J8e3gvg4keUiI0gr9NlSxnmfEIXYXnwk/6a9c201cc20348b4cce85b37.json",
-  "markdown_endpoint": "https://serpapi.com/searches/I_IPVUVeeK5J8e3gvg4keUiI0gr9NlSxnmfEIXYXnwk/6a9c201cc20348b4cce85b37.md",
-  "created_at": "2026-09-05 13:58:52 UTC",
-  "processed_at": "2026-09-05 13:58:52 UTC",
+  "json_endpoint": "https://serpapi.com/searches/m3Z3OxDf4lYLPde5MdeOLj5UkZrzBTuS3uEp1H965m4/6a9c763c3d06ea3f4b00da8d.json",
+  "markdown_endpoint": "https://serpapi.com/searches/m3Z3OxDf4lYLPde5MdeOLj5UkZrzBTuS3uEp1H965m4/6a9c763c3d06ea3f4b00da8d.md",
+  "created_at": "2026-09-05 20:06:20 UTC",
+  "processed_at": "2026-09-05 20:06:20 UTC",
   "google_flights_url": "https://www.google.com/travel/flights?hl=en&gl=br&curr=EUR&tfs=CBwQAhooEgoyMDI2LTEwLTA5KAA6AkxBOgJBVmoHCAESA0dSVXIHCAESA0NERxooEgoyMDI2LTExLTIxKAA6AkxBOgJBVmoHCAESA0NER3IHCAESA0dSVUABSANwAZgBAQ&tfu=EgIIAQ",
-  "raw_html_file": "https://serpapi.com/searches/I_IPVUVeeK5J8e3gvg4keUiI0gr9NlSxnmfEIXYXnwk/6a9c201cc20348b4cce85b37.html",
-  "prettify_html_file": "https://serpapi.com/searches/I_IPVUVeeK5J8e3gvg4keUiI0gr9NlSxnmfEIXYXnwk/6a9c201cc20348b4cce85b37.prettify",
-  "total_time_taken": 6.46
+  "raw_html_file": "https://serpapi.com/searches/m3Z3OxDf4lYLPde5MdeOLj5UkZrzBTuS3uEp1H965m4/6a9c763c3d06ea3f4b00da8d.html",
+  "prettify_html_file": "https://serpapi.com/searches/m3Z3OxDf4lYLPde5MdeOLj5UkZrzBTuS3uEp1H965m4/6a9c763c3d06ea3f4b00da8d.prettify",
+  "total_time_taken": 6.27
  },
  "search_parameters": {
   "engine": "google_flights",
@@ -72,7 +72,7 @@
     "Ticket changes for a fee",
     "Bag and fare conditions depend on the return flight"
    ],
-   "departure_token": "WyJDalJJV2tOWlZXeE9Vamh5Wkd0QlJXSTFNMEZDUnkwdExTMHRMUzB0TFhaM1pIQXhPVUZCUVVGQlIzRmpTVU5GVG05bVRFTkJFZ1ZCUmpRMU14b0xDT1hyS2hBQ0dnTkZWVkk0SEhEdzRERT0iLFtbIkdSVSIsIjIwMjYtMTAtMDkiLCJDREciLG51bGwsIkFGIiwiNDUzIl1dXQ=="
+   "departure_token": "WyJDalJJUkU1b1JUQjJXR1J1VDBGQlEzQnhUR2RDUnkwdExTMHRMUzB0TFMxMmQzbHVOVUZCUVVGQlIzRmpaR3RKUkdGVGR6WkJFZ1ZCUmpRMU14b0xDT1hyS2hBQ0dnTkZWVkk0SEhEdzRERT0iLFtbIkdSVSIsIjIwMjYtMTAtMDkiLCJDREciLG51bGwsIkFGIiwiNDUzIl1dXQ=="
   },
   {
    "flights": [
@@ -117,7 +117,7 @@
     "Ticket changes for a fee",
     "Bag and fare conditions depend on the return flight"
    ],
-   "departure_token": "WyJDalJJV2tOWlZXeE9Vamh5Wkd0QlJXSTFNMEZDUnkwdExTMHRMUzB0TFhaM1pIQXhPVUZCUVVGQlIzRmpTVU5GVG05bVRFTkJFZ1ZCUmpRMU9Sb0xDT1hyS2hBQ0dnTkZWVkk0SEhEdzRERT0iLFtbIkdSVSIsIjIwMjYtMTAtMDkiLCJDREciLG51bGwsIkFGIiwiNDU5Il1dXQ=="
+   "departure_token": "WyJDalJJUkU1b1JUQjJXR1J1VDBGQlEzQnhUR2RDUnkwdExTMHRMUzB0TFMxMmQzbHVOVUZCUVVGQlIzRmpaR3RKUkdGVGR6WkJFZ1ZCUmpRMU9Sb0xDT1hyS2hBQ0dnTkZWVkk0SEhEdzRERT0iLFtbIkdSVSIsIjIwMjYtMTAtMDkiLCJDREciLG51bGwsIkFGIiwiNDU5Il1dXQ=="
   }
  ],
  "airports": [
