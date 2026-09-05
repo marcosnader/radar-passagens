@@ -1,15 +1,15 @@
 {
  "search_metadata": {
-  "id": "6a9addee71a41dd17405cb8c",
+  "id": "6a9c201cc20348b4cce85b37",
   "status": "Success",
-  "json_endpoint": "https://serpapi.com/searches/nUanejjXxKcBl3Uau8Be7LbDbjizj4m4bDvklREqEUU/6a9addee71a41dd17405cb8c.json",
-  "markdown_endpoint": "https://serpapi.com/searches/nUanejjXxKcBl3Uau8Be7LbDbjizj4m4bDvklREqEUU/6a9addee71a41dd17405cb8c.md",
-  "created_at": "2026-09-04 15:04:14 UTC",
-  "processed_at": "2026-09-04 15:04:14 UTC",
+  "json_endpoint": "https://serpapi.com/searches/I_IPVUVeeK5J8e3gvg4keUiI0gr9NlSxnmfEIXYXnwk/6a9c201cc20348b4cce85b37.json",
+  "markdown_endpoint": "https://serpapi.com/searches/I_IPVUVeeK5J8e3gvg4keUiI0gr9NlSxnmfEIXYXnwk/6a9c201cc20348b4cce85b37.md",
+  "created_at": "2026-09-05 13:58:52 UTC",
+  "processed_at": "2026-09-05 13:58:52 UTC",
   "google_flights_url": "https://www.google.com/travel/flights?hl=en&gl=br&curr=EUR&tfs=CBwQAhooEgoyMDI2LTEwLTA5KAA6AkxBOgJBVmoHCAESA0dSVXIHCAESA0NERxooEgoyMDI2LTExLTIxKAA6AkxBOgJBVmoHCAESA0NER3IHCAESA0dSVUABSANwAZgBAQ&tfu=EgIIAQ",
-  "raw_html_file": "https://serpapi.com/searches/nUanejjXxKcBl3Uau8Be7LbDbjizj4m4bDvklREqEUU/6a9addee71a41dd17405cb8c.html",
-  "prettify_html_file": "https://serpapi.com/searches/nUanejjXxKcBl3Uau8Be7LbDbjizj4m4bDvklREqEUU/6a9addee71a41dd17405cb8c.prettify",
-  "total_time_taken": 7.35
+  "raw_html_file": "https://serpapi.com/searches/I_IPVUVeeK5J8e3gvg4keUiI0gr9NlSxnmfEIXYXnwk/6a9c201cc20348b4cce85b37.html",
+  "prettify_html_file": "https://serpapi.com/searches/I_IPVUVeeK5J8e3gvg4keUiI0gr9NlSxnmfEIXYXnwk/6a9c201cc20348b4cce85b37.prettify",
+  "total_time_taken": 6.46
  },
  "search_parameters": {
   "engine": "google_flights",
@@ -63,16 +63,16 @@
     "typical_for_this_route": 2123000,
     "difference_percent": 20
    },
-   "price": 6914,
+   "price": 7020,
    "type": "Round trip",
    "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AF.png",
    "extensions": [
-    "1 checked bag included",
+    "1 checked bag up to 32 kg included",
     "Fare non-refundable, taxes may be refundable",
     "Ticket changes for a fee",
     "Bag and fare conditions depend on the return flight"
    ],
-   "departure_token": "WyJDalJJUW5SeU1EbFpPRGw2V1VGQlJtMUtiV2RDUnkwdExTMHRMUzB0TFhsc1pYb3lPRUZCUVVGQlIzRmhNMlU0VDJNNGRESkJFZ1ZCUmpRMU14b0xDSWFaS2hBQ0dnTkZWVkk0SEhDNi96QT0iLFtbIkdSVSIsIjIwMjYtMTAtMDkiLCJDREciLG51bGwsIkFGIiwiNDUzIl1dXQ=="
+   "departure_token": "WyJDalJJV2tOWlZXeE9Vamh5Wkd0QlJXSTFNMEZDUnkwdExTMHRMUzB0TFhaM1pIQXhPVUZCUVVGQlIzRmpTVU5GVG05bVRFTkJFZ1ZCUmpRMU14b0xDT1hyS2hBQ0dnTkZWVkk0SEhEdzRERT0iLFtbIkdSVSIsIjIwMjYtMTAtMDkiLCJDREciLG51bGwsIkFGIiwiNDUzIl1dXQ=="
   },
   {
    "flights": [
@@ -108,16 +108,16 @@
     "typical_for_this_route": 2123000,
     "difference_percent": -3
    },
-   "price": 6914,
+   "price": 7020,
    "type": "Round trip",
    "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AF.png",
    "extensions": [
-    "1 checked bag included",
+    "1 checked bag up to 32 kg included",
     "Fare non-refundable, taxes may be refundable",
     "Ticket changes for a fee",
     "Bag and fare conditions depend on the return flight"
    ],
-   "departure_token": "WyJDalJJUW5SeU1EbFpPRGw2V1VGQlJtMUtiV2RDUnkwdExTMHRMUzB0TFhsc1pYb3lPRUZCUVVGQlIzRmhNMlU0VDJNNGRESkJFZ1ZCUmpRMU9Sb0xDSWFaS2hBQ0dnTkZWVkk0SEhDNi96QT0iLFtbIkdSVSIsIjIwMjYtMTAtMDkiLCJDREciLG51bGwsIkFGIiwiNDU5Il1dXQ=="
+   "departure_token": "WyJDalJJV2tOWlZXeE9Vamh5Wkd0QlJXSTFNMEZDUnkwdExTMHRMUzB0TFhaM1pIQXhPVUZCUVVGQlIzRmpTVU5GVG05bVRFTkJFZ1ZCUmpRMU9Sb0xDT1hyS2hBQ0dnTkZWVkk0SEhEdzRERT0iLFtbIkdSVSIsIjIwMjYtMTAtMDkiLCJDREciLG51bGwsIkFGIiwiNDU5Il1dXQ=="
   }
  ],
  "airports": [
