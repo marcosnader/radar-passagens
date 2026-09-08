@@ -1,15 +1,15 @@
 {
  "search_metadata": {
-  "id": "6a9ec6e6a204abc983a25c40",
+  "id": "6aa0051995a694fb73e35954",
   "status": "Success",
-  "json_endpoint": "https://serpapi.com/searches/YSskuP2vqZLlWUQvTl6wiyTneMHUorDEluZprf9K5c4/6a9ec6e6a204abc983a25c40.json",
-  "markdown_endpoint": "https://serpapi.com/searches/YSskuP2vqZLlWUQvTl6wiyTneMHUorDEluZprf9K5c4/6a9ec6e6a204abc983a25c40.md",
-  "created_at": "2026-09-07 14:15:02 UTC",
-  "processed_at": "2026-09-07 14:15:02 UTC",
+  "json_endpoint": "https://serpapi.com/searches/gQUwddieUAlXHp3PDTIYhvX26KvwaJmldrHDpeDiUgw/6aa0051995a694fb73e35954.json",
+  "markdown_endpoint": "https://serpapi.com/searches/gQUwddieUAlXHp3PDTIYhvX26KvwaJmldrHDpeDiUgw/6aa0051995a694fb73e35954.md",
+  "created_at": "2026-09-08 12:52:41 UTC",
+  "processed_at": "2026-09-08 12:52:41 UTC",
   "google_flights_url": "https://www.google.com/travel/flights?hl=en&gl=br&curr=EUR&tfs=CBwQAhooEgoyMDI2LTEwLTE4KAA6AkxBOgJBVmoHCAESA0NER3IHCAESA0dSVUABSANwAZgBAg&tfu=EgIIAQ",
-  "raw_html_file": "https://serpapi.com/searches/YSskuP2vqZLlWUQvTl6wiyTneMHUorDEluZprf9K5c4/6a9ec6e6a204abc983a25c40.html",
-  "prettify_html_file": "https://serpapi.com/searches/YSskuP2vqZLlWUQvTl6wiyTneMHUorDEluZprf9K5c4/6a9ec6e6a204abc983a25c40.prettify",
-  "total_time_taken": 1.22
+  "raw_html_file": "https://serpapi.com/searches/gQUwddieUAlXHp3PDTIYhvX26KvwaJmldrHDpeDiUgw/6aa0051995a694fb73e35954.html",
+  "prettify_html_file": "https://serpapi.com/searches/gQUwddieUAlXHp3PDTIYhvX26KvwaJmldrHDpeDiUgw/6aa0051995a694fb73e35954.prettify",
+  "total_time_taken": 2.01
  },
  "search_parameters": {
   "engine": "google_flights",
@@ -60,7 +60,7 @@
     "typical_for_this_route": 2055000,
     "difference_percent": 0
    },
-   "price": 4884,
+   "price": 4926,
    "type": "One way",
    "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AF.png",
    "extensions": [
@@ -68,7 +68,7 @@
     "Fare non-refundable, taxes may be refundable",
     "Ticket changes for a fee"
    ],
-   "booking_token": "WyJDalJJU1ZOcmFHbEJXWE5HYTBGQlZGQmlVSGRDUnkwdExTMHRMUzB0TFhsc2Fta3hOMEZCUVVGQlIzRmxlSFZqUW1ONFgxRkJFZ1ZCUmpRMk1Cb0xDTURuSFJBQ0dnTkZWVkk0SEhDYnp5ST0iLFtbIkNERyIsIjIwMjYtMTAtMTgiLCJHUlUiLG51bGwsIkFGIiwiNDYwIl1dXQ=="
+   "booking_token": "WyJDalJJUW5Cb1UzcGpaelV3WmtsQlJWcGpkV2RDUnkwdExTMHRMUzB0ZEdKaWFtRXhNa0ZCUVVGQlIzRm5RbEp6UVMxalRqQkJFZ1ZCUmpRMk1Cb0xDS2lJSGhBQ0dnTkZWVkk0SEhDbzlTST0iLFtbIkNERyIsIjIwMjYtMTAtMTgiLCJHUlUiLG51bGwsIkFGIiwiNDYwIl1dXQ=="
   },
   {
    "flights": [
@@ -113,7 +113,7 @@
     "Fare non-refundable, taxes may be refundable",
     "Ticket changes for a fee"
    ],
-   "booking_token": "WyJDalJJU1ZOcmFHbEJXWE5HYTBGQlZGQmlVSGRDUnkwdExTMHRMUzB0TFhsc2Fta3hOMEZCUVVGQlIzRmxlSFZqUW1ONFgxRkJFZ1ZCUmpRMU5Cb0xDTkNOSXhBQ0dnTkZWVkk0SEhEaDRpZz0iLFtbIkNERyIsIjIwMjYtMTAtMTgiLCJHUlUiLG51bGwsIkFGIiwiNDU0Il1dXQ=="
+   "booking_token": "WyJDalJJUW5Cb1UzcGpaelV3WmtsQlJWcGpkV2RDUnkwdExTMHRMUzB0ZEdKaWFtRXhNa0ZCUVVGQlIzRm5RbEp6UVMxalRqQkJFZ1ZCUmpRMU5Cb0xDTkNOSXhBQ0dnTkZWVkk0SEhEaDRpZz0iLFtbIkNERyIsIjIwMjYtMTAtMTgiLCJHUlUiLG51bGwsIkFGIiwiNDU0Il1dXQ=="
   }
  ],
  "airports": [
