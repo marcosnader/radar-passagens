@@ -1,15 +1,15 @@
 {
  "search_metadata": {
-  "id": "6aa0050a86e9fa476e819dac",
+  "id": "6aa157d1f3a0a7459660f9d1",
   "status": "Success",
-  "json_endpoint": "https://serpapi.com/searches/W1atAv5XcD2j5CpIAep0E0bs_CwjdrY9_1M8AcaNpRs/6aa0050a86e9fa476e819dac.json",
-  "markdown_endpoint": "https://serpapi.com/searches/W1atAv5XcD2j5CpIAep0E0bs_CwjdrY9_1M8AcaNpRs/6aa0050a86e9fa476e819dac.md",
-  "created_at": "2026-09-08 12:52:26 UTC",
-  "processed_at": "2026-09-08 12:52:26 UTC",
+  "json_endpoint": "https://serpapi.com/searches/H9tGwalBg3JP1LqnWKEXCNNemCTwcd4Vf_pidpI-TDU/6aa157d1f3a0a7459660f9d1.json",
+  "markdown_endpoint": "https://serpapi.com/searches/H9tGwalBg3JP1LqnWKEXCNNemCTwcd4Vf_pidpI-TDU/6aa157d1f3a0a7459660f9d1.md",
+  "created_at": "2026-09-09 12:57:53 UTC",
+  "processed_at": "2026-09-09 12:57:53 UTC",
   "google_flights_url": "https://www.google.com/travel/flights?hl=en&gl=br&curr=EUR&tfs=CBwQAhoxEgoyMDI2LTEwLTAyKAA6AkxBOgJBVmoHCAESA0dSVXIHCAESA0pGS3IHCAESA0VXUkABSANwAZgBAg&tfu=EgIIAQ",
-  "raw_html_file": "https://serpapi.com/searches/W1atAv5XcD2j5CpIAep0E0bs_CwjdrY9_1M8AcaNpRs/6aa0050a86e9fa476e819dac.html",
-  "prettify_html_file": "https://serpapi.com/searches/W1atAv5XcD2j5CpIAep0E0bs_CwjdrY9_1M8AcaNpRs/6aa0050a86e9fa476e819dac.prettify",
-  "total_time_taken": 4.88
+  "raw_html_file": "https://serpapi.com/searches/H9tGwalBg3JP1LqnWKEXCNNemCTwcd4Vf_pidpI-TDU/6aa157d1f3a0a7459660f9d1.html",
+  "prettify_html_file": "https://serpapi.com/searches/H9tGwalBg3JP1LqnWKEXCNNemCTwcd4Vf_pidpI-TDU/6aa157d1f3a0a7459660f9d1.prettify",
+  "total_time_taken": 4.0
  },
  "search_parameters": {
   "engine": "google_flights",
@@ -62,10 +62,10 @@
     "typical_for_this_route": 1749000,
     "difference_percent": 19
    },
-   "price": 3022,
+   "price": 3014,
    "type": "One way",
    "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
-   "booking_token": "WyJDalJJVlVKemVGQkRXVGxhWmpoQlF6TnZTbEZDUnkwdExTMHRMWFowYTNNeU5TMXVNVUZCUVVGQlIzRm5RbEZ6UjJGQmRWRkJFZ1ZWUVRFME9Cb0xDT0c0RWhBQ0dnTkZWVkk0SEhEYnRSVT0iLFtbIkdSVSIsIjIwMjYtMTAtMDIiLCJFV1IiLG51bGwsIlVBIiwiMTQ4Il1dXQ=="
+   "booking_token": "WyJDalJJY0dGWldIaG1ha0ZsZVVsQlFtOUhWbWRDUnkwdExTMHRMUzB0TFMxMmRHNWtOa0ZCUVVGQlIzRm9WamxKUzBWcWJHdEJFZ1ZWUVRFME9Cb0xDTW15RWhBQ0dnTkZWVkk0SEhDeXRCVT0iLFtbIkdSVSIsIjIwMjYtMTAtMDIiLCJFV1IiLG51bGwsIlVBIiwiMTQ4Il1dXQ=="
   },
   {
    "flights": [
@@ -96,7 +96,6 @@
       "Carbon emissions estimate: 1566 kg"
      ],
      "overnight": true,
-     "often_delayed_by_over_30_min": true,
      "plane_and_crew_by": "Latam Airlines Brasil"
     }
    ],
@@ -106,10 +105,10 @@
     "typical_for_this_route": 1749000,
     "difference_percent": -10
    },
-   "price": 3088,
+   "price": 3080,
    "type": "One way",
    "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/LA.png",
-   "booking_token": "WyJDalJJVlVKemVGQkRXVGxhWmpoQlF6TnZTbEZDUnkwdExTMHRMWFowYTNNeU5TMXVNVUZCUVVGQlIzRm5RbEZ6UjJGQmRWRkJFZ1pNUVRneE9EQWFDd2p3NnhJUUFob0RSVlZTT0J4d2l2RVYiLFtbIkdSVSIsIjIwMjYtMTAtMDIiLCJKRksiLG51bGwsIkxBIiwiODE4MCJdXV0="
+   "booking_token": "WyJDalJJY0dGWldIaG1ha0ZsZVVsQlFtOUhWbWRDUnkwdExTMHRMUzB0TFMxMmRHNWtOa0ZCUVVGQlIzRm9WamxKUzBWcWJHdEJFZ1pNUVRneE9EQWFDd2pINVJJUUFob0RSVlZTT0J4dzNlOFYiLFtbIkdSVSIsIjIwMjYtMTAtMDIiLCJKRksiLG51bGwsIkxBIiwiODE4MCJdXV0="
   },
   {
    "flights": [
@@ -146,10 +145,10 @@
     "typical_for_this_route": 1749000,
     "difference_percent": -16
    },
-   "price": 3194,
+   "price": 3143,
    "type": "One way",
    "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
-   "booking_token": "WyJDalJJVlVKemVGQkRXVGxhWmpoQlF6TnZTbEZDUnkwdExTMHRMWFowYTNNeU5TMXVNVUZCUVVGQlIzRm5RbEZ6UjJGQmRWRkJFZ1ZCUVRrMU1Cb0xDS08vRXhBQ0dnTkZWVkk0SEhENDBSWT0iLFtbIkdSVSIsIjIwMjYtMTAtMDIiLCJKRksiLG51bGwsIkFBIiwiOTUwIl1dXQ=="
+   "booking_token": "WyJDalJJY0dGWldIaG1ha0ZsZVVsQlFtOUhWbWRDUnkwdExTMHRMUzB0TFMxMmRHNWtOa0ZCUVVGQlIzRm9WamxKUzBWcWJHdEJFZ1ZCUVRrMU1Cb0xDSmlYRXhBQ0dnTkZWVkk0SEhDL3FSWT0iLFtbIkdSVSIsIjIwMjYtMTAtMDIiLCJKRksiLG51bGwsIkFBIiwiOTUwIl1dXQ=="
   },
   {
    "flights": [
@@ -186,10 +185,10 @@
     "typical_for_this_route": 1749000,
     "difference_percent": -7
    },
-   "price": 4721,
+   "price": 4708,
    "type": "One way",
    "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
-   "booking_token": "WyJDalJJVlVKemVGQkRXVGxhWmpoQlF6TnZTbEZDUnkwdExTMHRMWFowYTNNeU5TMXVNVUZCUVVGQlIzRm5RbEZ6UjJGQmRWRkJFZ1ZFVERJeU5ob0xDT0huSEJBQ0dnTkZWVkk0SEhEdHVpRT0iLFtbIkdSVSIsIjIwMjYtMTAtMDIiLCJKRksiLG51bGwsIkRMIiwiMjI2Il1dXQ=="
+   "booking_token": "WyJDalJJY0dGWldIaG1ha0ZsZVVsQlFtOUhWbWRDUnkwdExTMHRMUzB0TFMxMmRHNWtOa0ZCUVVGQlIzRm9WamxKUzBWcWJHdEJFZ1ZFVERJeU5ob0xDSWZlSEJBQ0dnTkZWVkk0SEhEZnVDRT0iLFtbIkdSVSIsIjIwMjYtMTAtMDIiLCJKRksiLG51bGwsIkRMIiwiMjI2Il1dXQ=="
   }
  ],
  "airports": [
