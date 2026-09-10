@@ -1,15 +1,15 @@
 {
  "search_metadata": {
-  "id": "6aa157d1f3a0a7459660f9d1",
+  "id": "6aa2a89cf6e9269e72ce1b9a",
   "status": "Success",
-  "json_endpoint": "https://serpapi.com/searches/H9tGwalBg3JP1LqnWKEXCNNemCTwcd4Vf_pidpI-TDU/6aa157d1f3a0a7459660f9d1.json",
-  "markdown_endpoint": "https://serpapi.com/searches/H9tGwalBg3JP1LqnWKEXCNNemCTwcd4Vf_pidpI-TDU/6aa157d1f3a0a7459660f9d1.md",
-  "created_at": "2026-09-09 12:57:53 UTC",
-  "processed_at": "2026-09-09 12:57:53 UTC",
+  "json_endpoint": "https://serpapi.com/searches/WtQP51RTvIwBTPDOvPlUyEWKM62LRd1pzdG9rDTz3qA/6aa2a89cf6e9269e72ce1b9a.json",
+  "markdown_endpoint": "https://serpapi.com/searches/WtQP51RTvIwBTPDOvPlUyEWKM62LRd1pzdG9rDTz3qA/6aa2a89cf6e9269e72ce1b9a.md",
+  "created_at": "2026-09-10 12:54:52 UTC",
+  "processed_at": "2026-09-10 12:54:52 UTC",
   "google_flights_url": "https://www.google.com/travel/flights?hl=en&gl=br&curr=EUR&tfs=CBwQAhoxEgoyMDI2LTEwLTAyKAA6AkxBOgJBVmoHCAESA0dSVXIHCAESA0pGS3IHCAESA0VXUkABSANwAZgBAg&tfu=EgIIAQ",
-  "raw_html_file": "https://serpapi.com/searches/H9tGwalBg3JP1LqnWKEXCNNemCTwcd4Vf_pidpI-TDU/6aa157d1f3a0a7459660f9d1.html",
-  "prettify_html_file": "https://serpapi.com/searches/H9tGwalBg3JP1LqnWKEXCNNemCTwcd4Vf_pidpI-TDU/6aa157d1f3a0a7459660f9d1.prettify",
-  "total_time_taken": 4.0
+  "raw_html_file": "https://serpapi.com/searches/WtQP51RTvIwBTPDOvPlUyEWKM62LRd1pzdG9rDTz3qA/6aa2a89cf6e9269e72ce1b9a.html",
+  "prettify_html_file": "https://serpapi.com/searches/WtQP51RTvIwBTPDOvPlUyEWKM62LRd1pzdG9rDTz3qA/6aa2a89cf6e9269e72ce1b9a.prettify",
+  "total_time_taken": 5.2
  },
  "search_parameters": {
   "engine": "google_flights",
@@ -58,14 +58,50 @@
    ],
    "total_duration": 575,
    "carbon_emissions": {
-    "this_flight": 2073000,
-    "typical_for_this_route": 1749000,
-    "difference_percent": 19
+    "this_flight": 2073000
    },
-   "price": 3014,
+   "price": 3008,
    "type": "One way",
    "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
-   "booking_token": "WyJDalJJY0dGWldIaG1ha0ZsZVVsQlFtOUhWbWRDUnkwdExTMHRMUzB0TFMxMmRHNWtOa0ZCUVVGQlIzRm9WamxKUzBWcWJHdEJFZ1ZWUVRFME9Cb0xDTW15RWhBQ0dnTkZWVkk0SEhDeXRCVT0iLFtbIkdSVSIsIjIwMjYtMTAtMDIiLCJFV1IiLG51bGwsIlVBIiwiMTQ4Il1dXQ=="
+   "booking_token": "WyJDalJJY1hoUVdqWnFPR1o1WWxGQlJVbFdTRUZDUnkwdExTMHRMUzB0TFMxNWJHUjFPRUZCUVVGQlIzRnBjVW93VEcxT2FIRkJFZ1ZWUVRFME9Cb0xDUEt0RWhBQ0dnTkZWVkk0SEhEUXFSVT0iLFtbIkdSVSIsIjIwMjYtMTAtMDIiLCJFV1IiLG51bGwsIlVBIiwiMTQ4Il1dXQ=="
+  },
+  {
+   "flights": [
+    {
+     "departure_airport": {
+      "name": "São Paulo/Guarulhos–Governor André Franco Montoro International Airport",
+      "id": "GRU",
+      "time": "2026-10-02 22:30"
+     },
+     "arrival_airport": {
+      "name": "John F. Kennedy International Airport",
+      "id": "JFK",
+      "time": "2026-10-03 07:05"
+     },
+     "duration": 575,
+     "airplane": "Boeing 787",
+     "airline": "American",
+     "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+     "travel_class": "Business Class",
+     "flight_number": "AA 950",
+     "extensions": [
+      "Lie flat seat",
+      "Wi-Fi for a fee",
+      "In-seat power & USB outlets",
+      "On-demand video",
+      "Carbon emissions estimate: 1473 kg"
+     ],
+     "overnight": true
+    }
+   ],
+   "total_duration": 575,
+   "carbon_emissions": {
+    "this_flight": 1473000
+   },
+   "price": 3094,
+   "type": "One way",
+   "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+   "booking_token": "WyJDalJJY1hoUVdqWnFPR1o1WWxGQlJVbFdTRUZDUnkwdExTMHRMUzB0TFMxNWJHUjFPRUZCUVVGQlIzRnBjVW93VEcxT2FIRkJFZ1ZCUVRrMU1Cb0xDT3Z3RWhBQ0dnTkZWVkk0SEhDeDl4VT0iLFtbIkdSVSIsIjIwMjYtMTAtMDIiLCJKRksiLG51bGwsIkFBIiwiOTUwIl1dXQ=="
   },
   {
    "flights": [
@@ -101,54 +137,12 @@
    ],
    "total_duration": 595,
    "carbon_emissions": {
-    "this_flight": 1567000,
-    "typical_for_this_route": 1749000,
-    "difference_percent": -10
+    "this_flight": 1567000
    },
-   "price": 3080,
+   "price": 3818,
    "type": "One way",
    "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/LA.png",
-   "booking_token": "WyJDalJJY0dGWldIaG1ha0ZsZVVsQlFtOUhWbWRDUnkwdExTMHRMUzB0TFMxMmRHNWtOa0ZCUVVGQlIzRm9WamxKUzBWcWJHdEJFZ1pNUVRneE9EQWFDd2pINVJJUUFob0RSVlZTT0J4dzNlOFYiLFtbIkdSVSIsIjIwMjYtMTAtMDIiLCJKRksiLG51bGwsIkxBIiwiODE4MCJdXV0="
-  },
-  {
-   "flights": [
-    {
-     "departure_airport": {
-      "name": "São Paulo/Guarulhos–Governor André Franco Montoro International Airport",
-      "id": "GRU",
-      "time": "2026-10-02 22:30"
-     },
-     "arrival_airport": {
-      "name": "John F. Kennedy International Airport",
-      "id": "JFK",
-      "time": "2026-10-03 07:05"
-     },
-     "duration": 575,
-     "airplane": "Boeing 787",
-     "airline": "American",
-     "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
-     "travel_class": "Business Class",
-     "flight_number": "AA 950",
-     "extensions": [
-      "Lie flat seat",
-      "Wi-Fi for a fee",
-      "In-seat power & USB outlets",
-      "On-demand video",
-      "Carbon emissions estimate: 1473 kg"
-     ],
-     "overnight": true
-    }
-   ],
-   "total_duration": 575,
-   "carbon_emissions": {
-    "this_flight": 1473000,
-    "typical_for_this_route": 1749000,
-    "difference_percent": -16
-   },
-   "price": 3143,
-   "type": "One way",
-   "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
-   "booking_token": "WyJDalJJY0dGWldIaG1ha0ZsZVVsQlFtOUhWbWRDUnkwdExTMHRMUzB0TFMxMmRHNWtOa0ZCUVVGQlIzRm9WamxKUzBWcWJHdEJFZ1ZCUVRrMU1Cb0xDSmlYRXhBQ0dnTkZWVkk0SEhDL3FSWT0iLFtbIkdSVSIsIjIwMjYtMTAtMDIiLCJKRksiLG51bGwsIkFBIiwiOTUwIl1dXQ=="
+   "booking_token": "WyJDalJJY1hoUVdqWnFPR1o1WWxGQlJVbFdTRUZDUnkwdExTMHRMUzB0TFMxNWJHUjFPRUZCUVVGQlIzRnBjVW93VEcxT2FIRkJFZ1pNUVRneE9EQWFDd2pFcGhjUUFob0RSVlZTT0J4d3Y0Z2IiLFtbIkdSVSIsIjIwMjYtMTAtMDIiLCJKRksiLG51bGwsIkxBIiwiODE4MCJdXV0="
   },
   {
    "flights": [
@@ -181,14 +175,12 @@
    ],
    "total_duration": 599,
    "carbon_emissions": {
-    "this_flight": 1624000,
-    "typical_for_this_route": 1749000,
-    "difference_percent": -7
+    "this_flight": 1624000
    },
-   "price": 4708,
+   "price": 5018,
    "type": "One way",
    "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
-   "booking_token": "WyJDalJJY0dGWldIaG1ha0ZsZVVsQlFtOUhWbWRDUnkwdExTMHRMUzB0TFMxMmRHNWtOa0ZCUVVGQlIzRm9WamxKUzBWcWJHdEJFZ1ZFVERJeU5ob0xDSWZlSEJBQ0dnTkZWVkk0SEhEZnVDRT0iLFtbIkdSVSIsIjIwMjYtMTAtMDIiLCJKRksiLG51bGwsIkRMIiwiMjI2Il1dXQ=="
+   "booking_token": "WyJDalJJY1hoUVdqWnFPR1o1WWxGQlJVbFdTRUZDUnkwdExTMHRMUzB0TFMxNWJHUjFPRUZCUVVGQlIzRnBjVW93VEcxT2FIRkJFZ1ZFVERJeU5ob0xDT1hQSGhBQ0dnTkZWVkk0SEhDYnlTTT0iLFtbIkdSVSIsIjIwMjYtMTAtMDIiLCJKRksiLG51bGwsIkRMIiwiMjI2Il1dXQ=="
   }
  ],
  "airports": [
