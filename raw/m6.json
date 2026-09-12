@@ -1,15 +1,15 @@
 {
  "search_metadata": {
-  "id": "6aa3f8e471b492bb19709cf8",
+  "id": "6aa5412971ff8c05c5a9c2e7",
   "status": "Success",
-  "json_endpoint": "https://serpapi.com/searches/BQihqsLjAbsRWwWnvrmooQfVSDzewZkRZ-_6HHeHk80/6aa3f8e471b492bb19709cf8.json",
-  "markdown_endpoint": "https://serpapi.com/searches/BQihqsLjAbsRWwWnvrmooQfVSDzewZkRZ-_6HHeHk80/6aa3f8e471b492bb19709cf8.md",
-  "created_at": "2026-09-11 12:49:40 UTC",
-  "processed_at": "2026-09-11 12:49:40 UTC",
+  "json_endpoint": "https://serpapi.com/searches/2UDDlwJ5_-FVOSQ8E5qE9Ea67ot0yInq8g0hwkS9YEk/6aa5412971ff8c05c5a9c2e7.json",
+  "markdown_endpoint": "https://serpapi.com/searches/2UDDlwJ5_-FVOSQ8E5qE9Ea67ot0yInq8g0hwkS9YEk/6aa5412971ff8c05c5a9c2e7.md",
+  "created_at": "2026-09-12 12:10:17 UTC",
+  "processed_at": "2026-09-12 12:10:17 UTC",
   "google_flights_url": "https://www.google.com/travel/flights?hl=en&gl=br&curr=EUR&tfs=CBwQAhooEgoyMDI2LTEwLTA5KAA6AkxBOgJBVmoHCAESA0dSVXIHCAESA0NERxooEgoyMDI2LTExLTIxKAA6AkxBOgJBVmoHCAESA0NER3IHCAESA0dSVUABSANwAZgBAQ&tfu=EgIIAQ",
-  "raw_html_file": "https://serpapi.com/searches/BQihqsLjAbsRWwWnvrmooQfVSDzewZkRZ-_6HHeHk80/6aa3f8e471b492bb19709cf8.html",
-  "prettify_html_file": "https://serpapi.com/searches/BQihqsLjAbsRWwWnvrmooQfVSDzewZkRZ-_6HHeHk80/6aa3f8e471b492bb19709cf8.prettify",
-  "total_time_taken": 3.68
+  "raw_html_file": "https://serpapi.com/searches/2UDDlwJ5_-FVOSQ8E5qE9Ea67ot0yInq8g0hwkS9YEk/6aa5412971ff8c05c5a9c2e7.html",
+  "prettify_html_file": "https://serpapi.com/searches/2UDDlwJ5_-FVOSQ8E5qE9Ea67ot0yInq8g0hwkS9YEk/6aa5412971ff8c05c5a9c2e7.prettify",
+  "total_time_taken": 12.22
  },
  "search_parameters": {
   "engine": "google_flights",
@@ -60,10 +60,10 @@
    "total_duration": 685,
    "carbon_emissions": {
     "this_flight": 2557000,
-    "typical_for_this_route": 2136000,
+    "typical_for_this_route": 2135000,
     "difference_percent": 20
    },
-   "price": 6758,
+   "price": 5806,
    "type": "Round trip",
    "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AF.png",
    "extensions": [
@@ -72,7 +72,7 @@
     "Ticket changes for a fee",
     "Bag and fare conditions depend on the return flight"
    ],
-   "departure_token": "WyJDalJJYUdSaFJFOXhTek5sYzFWQlF6QlZiMUZDUnkwdExTMHRMUzEyZEd0ek1pMXVNa0ZCUVVGQlIzRnFMVTlWVFd0Mk1rZEJFZ1ZCUmpRMU14b0xDSjJmS1JBQ0dnTkZWVkk0SEhEUjV5OD0iLFtbIkdSVSIsIjIwMjYtMTAtMDkiLCJDREciLG51bGwsIkFGIiwiNDUzIl1dXQ=="
+   "departure_token": "WyJDalJJUW1GU1NITmxkelJoWm5OQlREbE5OVUZDUnkwdExTMHRMUzB0TFc5cllteGtOMEZCUVVGQlIzRnNVVk52VFZKcFJFVkJFZ1ZCUmpRMU14b0xDTEczSXhBQ0dnTkZWVkk0SEhENmpTaz0iLFtbIkdSVSIsIjIwMjYtMTAtMDkiLCJDREciLG51bGwsIkFGIiwiNDUzIl1dXQ=="
   },
   {
    "flights": [
@@ -105,10 +105,10 @@
    "total_duration": 680,
    "carbon_emissions": {
     "this_flight": 2049000,
-    "typical_for_this_route": 2136000,
+    "typical_for_this_route": 2135000,
     "difference_percent": -4
    },
-   "price": 6758,
+   "price": 6706,
    "type": "Round trip",
    "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AF.png",
    "extensions": [
@@ -117,7 +117,7 @@
     "Ticket changes for a fee",
     "Bag and fare conditions depend on the return flight"
    ],
-   "departure_token": "WyJDalJJYUdSaFJFOXhTek5sYzFWQlF6QlZiMUZDUnkwdExTMHRMUzEyZEd0ek1pMXVNa0ZCUVVGQlIzRnFMVTlWVFd0Mk1rZEJFZ1ZCUmpRMU9Sb0xDSjJmS1JBQ0dnTkZWVkk0SEhEUjV5OD0iLFtbIkdSVSIsIjIwMjYtMTAtMDkiLCJDREciLG51bGwsIkFGIiwiNDU5Il1dXQ=="
+   "departure_token": "WyJDalJJUW1GU1NITmxkelJoWm5OQlREbE5OVUZDUnkwdExTMHRMUzB0TFc5cllteGtOMEZCUVVGQlIzRnNVVk52VFZKcFJFVkJFZ1ZCUmpRMU9Sb0xDTC8yS0JBQ0dnTkZWVkk0SEhEWnZTOD0iLFtbIkdSVSIsIjIwMjYtMTAtMDkiLCJDREciLG51bGwsIkFGIiwiNDU5Il1dXQ=="
   }
  ],
  "airports": [
