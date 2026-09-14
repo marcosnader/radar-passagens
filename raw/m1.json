@@ -1,15 +1,15 @@
 {
  "search_metadata": {
-  "id": "6aa6a2a8fdfbab4ecf0c25aa",
+  "id": "6aa80c52f8cc784e5b442a44",
   "status": "Success",
-  "json_endpoint": "https://serpapi.com/searches/L7opxNxmitne-xlCjFrAi37Aih3bZA1cXe-p5LWIPog/6aa6a2a8fdfbab4ecf0c25aa.json",
-  "markdown_endpoint": "https://serpapi.com/searches/L7opxNxmitne-xlCjFrAi37Aih3bZA1cXe-p5LWIPog/6aa6a2a8fdfbab4ecf0c25aa.md",
-  "created_at": "2026-09-13 13:18:32 UTC",
-  "processed_at": "2026-09-13 13:18:32 UTC",
+  "json_endpoint": "https://serpapi.com/searches/QfEXNhLXzOImsBjiqTScxjrFSrwODv8mXNXk21PKFwM/6aa80c52f8cc784e5b442a44.json",
+  "markdown_endpoint": "https://serpapi.com/searches/QfEXNhLXzOImsBjiqTScxjrFSrwODv8mXNXk21PKFwM/6aa80c52f8cc784e5b442a44.md",
+  "created_at": "2026-09-14 15:01:38 UTC",
+  "processed_at": "2026-09-14 15:01:38 UTC",
   "google_flights_url": "https://www.google.com/travel/flights?hl=en&gl=br&curr=EUR&tfs=CBwQAhoxEgoyMDI2LTEwLTAyKAA6AkxBOgJBVmoHCAESA0dSVXIHCAESA0pGS3IHCAESA0VXUkABSANwAZgBAg&tfu=EgIIAQ",
-  "raw_html_file": "https://serpapi.com/searches/L7opxNxmitne-xlCjFrAi37Aih3bZA1cXe-p5LWIPog/6aa6a2a8fdfbab4ecf0c25aa.html",
-  "prettify_html_file": "https://serpapi.com/searches/L7opxNxmitne-xlCjFrAi37Aih3bZA1cXe-p5LWIPog/6aa6a2a8fdfbab4ecf0c25aa.prettify",
-  "total_time_taken": 4.8
+  "raw_html_file": "https://serpapi.com/searches/QfEXNhLXzOImsBjiqTScxjrFSrwODv8mXNXk21PKFwM/6aa80c52f8cc784e5b442a44.html",
+  "prettify_html_file": "https://serpapi.com/searches/QfEXNhLXzOImsBjiqTScxjrFSrwODv8mXNXk21PKFwM/6aa80c52f8cc784e5b442a44.prettify",
+  "total_time_taken": 3.37
  },
  "search_parameters": {
   "engine": "google_flights",
@@ -27,44 +27,6 @@
   "deep_search": true
  },
  "other_flights": [
-  {
-   "flights": [
-    {
-     "departure_airport": {
-      "name": "São Paulo/Guarulhos–Governor André Franco Montoro International Airport",
-      "id": "GRU",
-      "time": "2026-10-02 21:00"
-     },
-     "arrival_airport": {
-      "name": "Newark Liberty International Airport",
-      "id": "EWR",
-      "time": "2026-10-03 05:35"
-     },
-     "duration": 575,
-     "airplane": "Boeing 777",
-     "airline": "United",
-     "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
-     "travel_class": "Business Class",
-     "flight_number": "UA 148",
-     "extensions": [
-      "Lie flat seat",
-      "Wi-Fi for a fee",
-      "In-seat power & USB outlets",
-      "On-demand video",
-      "Carbon emissions estimate: 2073 kg"
-     ],
-     "overnight": true
-    }
-   ],
-   "total_duration": 575,
-   "carbon_emissions": {
-    "this_flight": 2073000
-   },
-   "price": 3049,
-   "type": "One way",
-   "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
-   "booking_token": "WyJDalJJY1dWU1QzQm9jRlI2WVRCQlNVaHliWGRDUnkwdExTMHRMUzB0Y0dwaVpuUXhPVUZCUVVGQlIzRnRiM0ZyU1hKVGMydEJFZ1ZWUVRFME9Cb0xDUEhORWhBQ0dnTkZWVkk0SEhEc3pSVT0iLFtbIkdSVSIsIjIwMjYtMTAtMDIiLCJFV1IiLG51bGwsIlVBIiwiMTQ4Il1dXQ=="
-  },
   {
    "flights": [
     {
@@ -99,12 +61,54 @@
    ],
    "total_duration": 595,
    "carbon_emissions": {
-    "this_flight": 1567000
+    "this_flight": 1567000,
+    "typical_for_this_route": 1597000,
+    "difference_percent": -2
    },
-   "price": 3049,
+   "price": 2960,
    "type": "One way",
    "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/LA.png",
-   "booking_token": "WyJDalJJY1dWU1QzQm9jRlI2WVRCQlNVaHliWGRDUnkwdExTMHRMUzB0Y0dwaVpuUXhPVUZCUVVGQlIzRnRiM0ZyU1hKVGMydEJFZ1pNUVRneE9EQWFDd2p4elJJUUFob0RSVlZTT0J4dzdNMFYiLFtbIkdSVSIsIjIwMjYtMTAtMDIiLCJKRksiLG51bGwsIkxBIiwiODE4MCJdXV0="
+   "booking_token": "WyJDalJJU0VaYWJGWkZlWFU1ZFdOQlVFcHZkMEZDUnkwdExTMHRMUzB0TFMxMmRISnJNVUZCUVVGQlIzRnZSRVpWU1RSRFVEUkJFZ1pNUVRneE9EQWFDd2kxaUJJUUFob0RSVlZTT0J4dy9Pb1UiLFtbIkdSVSIsIjIwMjYtMTAtMDIiLCJKRksiLG51bGwsIkxBIiwiODE4MCJdXV0="
+  },
+  {
+   "flights": [
+    {
+     "departure_airport": {
+      "name": "São Paulo/Guarulhos–Governor André Franco Montoro International Airport",
+      "id": "GRU",
+      "time": "2026-10-02 21:00"
+     },
+     "arrival_airport": {
+      "name": "Newark Liberty International Airport",
+      "id": "EWR",
+      "time": "2026-10-03 05:35"
+     },
+     "duration": 575,
+     "airplane": "Boeing 777",
+     "airline": "United",
+     "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+     "travel_class": "Business Class",
+     "flight_number": "UA 148",
+     "extensions": [
+      "Lie flat seat",
+      "Wi-Fi for a fee",
+      "In-seat power & USB outlets",
+      "On-demand video",
+      "Carbon emissions estimate: 2073 kg"
+     ],
+     "overnight": true
+    }
+   ],
+   "total_duration": 575,
+   "carbon_emissions": {
+    "this_flight": 2073000,
+    "typical_for_this_route": 1597000,
+    "difference_percent": 30
+   },
+   "price": 3046,
+   "type": "One way",
+   "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+   "booking_token": "WyJDalJJU0VaYWJGWkZlWFU1ZFdOQlVFcHZkMEZDUnkwdExTMHRMUzB0TFMxMmRISnJNVUZCUVVGQlIzRnZSRVpWU1RSRFVEUkJFZ1ZWUVRFME9Cb0xDSi9MRWhBQ0dnTkZWVkk0SEhDRnVCVT0iLFtbIkdSVSIsIjIwMjYtMTAtMDIiLCJFV1IiLG51bGwsIlVBIiwiMTQ4Il1dXQ=="
   },
   {
    "flights": [
@@ -137,12 +141,14 @@
    ],
    "total_duration": 575,
    "carbon_emissions": {
-    "this_flight": 1473000
+    "this_flight": 1473000,
+    "typical_for_this_route": 1597000,
+    "difference_percent": -8
    },
-   "price": 3135,
+   "price": 3131,
    "type": "One way",
    "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
-   "booking_token": "WyJDalJJY1dWU1QzQm9jRlI2WVRCQlNVaHliWGRDUnkwdExTMHRMUzB0Y0dwaVpuUXhPVUZCUVVGQlIzRnRiM0ZyU1hKVGMydEJFZ1ZCUVRrMU1Cb0xDT1dRRXhBQ0dnTkZWVkk0SEhERW14WT0iLFtbIkdSVSIsIjIwMjYtMTAtMDIiLCJKRksiLG51bGwsIkFBIiwiOTUwIl1dXQ=="
+   "booking_token": "WyJDalJJU0VaYWJGWkZlWFU1ZFdOQlVFcHZkMEZDUnkwdExTMHRMUzB0TFMxMmRISnJNVUZCUVVGQlIzRnZSRVpWU1RSRFVEUkJFZ1ZCUVRrMU1Cb0xDSW1PRXhBQ0dnTkZWVkk0SEhDUGhSWT0iLFtbIkdSVSIsIjIwMjYtMTAtMDIiLCJKRksiLG51bGwsIkFBIiwiOTUwIl1dXQ=="
   },
   {
    "flights": [
@@ -175,12 +181,14 @@
    ],
    "total_duration": 599,
    "carbon_emissions": {
-    "this_flight": 1624000
+    "this_flight": 1624000,
+    "typical_for_this_route": 1597000,
+    "difference_percent": 2
    },
-   "price": 7455,
+   "price": 7447,
    "type": "One way",
    "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
-   "booking_token": "WyJDalJJY1dWU1QzQm9jRlI2WVRCQlNVaHliWGRDUnkwdExTMHRMUzB0Y0dwaVpuUXhPVUZCUVVGQlIzRnRiM0ZyU1hKVGMydEJFZ1ZFVERJeU5ob0xDSlRBTFJBQ0dnTkZWVkk0SEhDQjZ6UT0iLFtbIkdSVSIsIjIwMjYtMTAtMDIiLCJKRksiLG51bGwsIkRMIiwiMjI2Il1dXQ=="
+   "booking_token": "WyJDalJJU0VaYWJGWkZlWFU1ZFdOQlVFcHZkMEZDUnkwdExTMHRMUzB0TFMxMmRISnJNVUZCUVVGQlIzRnZSRVpWU1RSRFVEUkJFZ1ZFVERJeU5ob0xDTmU1TFJBQ0dnTkZWVkk0SEhEV3RUUT0iLFtbIkdSVSIsIjIwMjYtMTAtMDIiLCJKRksiLG51bGwsIkRMIiwiMjI2Il1dXQ=="
   }
  ],
  "airports": [
