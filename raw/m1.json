@@ -1,15 +1,15 @@
 {
  "search_metadata": {
-  "id": "6aabeaa9f607a94825a75891",
+  "id": "6aad354a18dc9369ddfc9f67",
   "status": "Success",
-  "json_endpoint": "https://serpapi.com/searches/dF__FgaO-xSOxh4J5vRCVb3AClQFuUDcxiz45VS0-14/6aabeaa9f607a94825a75891.json",
-  "markdown_endpoint": "https://serpapi.com/searches/dF__FgaO-xSOxh4J5vRCVb3AClQFuUDcxiz45VS0-14/6aabeaa9f607a94825a75891.md",
-  "created_at": "2026-09-17 13:27:05 UTC",
-  "processed_at": "2026-09-17 13:27:05 UTC",
+  "json_endpoint": "https://serpapi.com/searches/CwQsT2Ts4RqpI7rkbAM7f5kHyMpQlZC72B0_K2OAPm4/6aad354a18dc9369ddfc9f67.json",
+  "markdown_endpoint": "https://serpapi.com/searches/CwQsT2Ts4RqpI7rkbAM7f5kHyMpQlZC72B0_K2OAPm4/6aad354a18dc9369ddfc9f67.md",
+  "created_at": "2026-09-18 12:57:46 UTC",
+  "processed_at": "2026-09-18 12:57:46 UTC",
   "google_flights_url": "https://www.google.com/travel/flights?hl=en&gl=br&curr=EUR&tfs=CBwQAhoxEgoyMDI2LTEwLTAyKAA6AkxBOgJBVmoHCAESA0dSVXIHCAESA0pGS3IHCAESA0VXUkABSANwAZgBAg&tfu=EgIIAQ",
-  "raw_html_file": "https://serpapi.com/searches/dF__FgaO-xSOxh4J5vRCVb3AClQFuUDcxiz45VS0-14/6aabeaa9f607a94825a75891.html",
-  "prettify_html_file": "https://serpapi.com/searches/dF__FgaO-xSOxh4J5vRCVb3AClQFuUDcxiz45VS0-14/6aabeaa9f607a94825a75891.prettify",
-  "total_time_taken": 4.74
+  "raw_html_file": "https://serpapi.com/searches/CwQsT2Ts4RqpI7rkbAM7f5kHyMpQlZC72B0_K2OAPm4/6aad354a18dc9369ddfc9f67.html",
+  "prettify_html_file": "https://serpapi.com/searches/CwQsT2Ts4RqpI7rkbAM7f5kHyMpQlZC72B0_K2OAPm4/6aad354a18dc9369ddfc9f67.prettify",
+  "total_time_taken": 8.79
  },
  "search_parameters": {
   "engine": "google_flights",
@@ -62,10 +62,10 @@
     "typical_for_this_route": 1564000,
     "difference_percent": 33
    },
-   "price": 3108,
+   "price": 3117,
    "type": "One way",
    "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
-   "booking_token": "WyJDalJJZUhwbVZETkJUVEEyZFVWQlJWaGliSGRDUnkwdExTMHRMUzB0TFMxNWJHWjVNVUZCUVVGQlIzRnlObkZ6UlZGWU1IVkJFZ1ZWUVRFME9Cb0xDTVQ3RWhBQ0dnTkZWVkk0SEhDNjVCVT0iLFtbIkdSVSIsIjIwMjYtMTAtMDIiLCJFV1IiLG51bGwsIlVBIiwiMTQ4Il1dXQ=="
+   "booking_token": "WyJDalJJU0U5NmMzaGhNVTFWTFd0QlJFeFFjRkZDUnkwdExTMHRMUzEyZEhkak55MXVNa0ZCUVVGQlIzRjBUbFpCU210M2VrRkJFZ1ZWUVRFME9Cb0xDT3VDRXhBQ0dnTkZWVkk0SEhDWjVoVT0iLFtbIkdSVSIsIjIwMjYtMTAtMDIiLCJFV1IiLG51bGwsIlVBIiwiMTQ4Il1dXQ=="
   },
   {
    "flights": [
@@ -102,10 +102,10 @@
     "typical_for_this_route": 1564000,
     "difference_percent": -6
    },
-   "price": 3278,
+   "price": 3288,
    "type": "One way",
    "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
-   "booking_token": "WyJDalJJZUhwbVZETkJUVEEyZFVWQlJWaGliSGRDUnkwdExTMHRMUzB0TFMxNWJHWjVNVUZCUVVGQlIzRnlObkZ6UlZGWU1IVkJFZ1ZCUVRrMU1Cb0xDTUNBRkJBQ0dnTkZWVkk0SEhDWi9SWT0iLFtbIkdSVSIsIjIwMjYtMTAtMDIiLCJKRksiLG51bGwsIkFBIiwiOTUwIl1dXQ=="
+   "booking_token": "WyJDalJJU0U5NmMzaGhNVTFWTFd0QlJFeFFjRkZDUnkwdExTMHRMUzEyZEhkak55MXVNa0ZCUVVGQlIzRjBUbFpCU210M2VrRkJFZ1ZCUVRrMU1Cb0xDSnFJRkJBQ0dnTkZWVkk0SEhDRC94WT0iLFtbIkdSVSIsIjIwMjYtMTAtMDIiLCJKRksiLG51bGwsIkFBIiwiOTUwIl1dXQ=="
   },
   {
    "flights": [
@@ -145,10 +145,10 @@
     "typical_for_this_route": 1564000,
     "difference_percent": 0
    },
-   "price": 3889,
+   "price": 3901,
    "type": "One way",
    "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/LA.png",
-   "booking_token": "WyJDalJJZUhwbVZETkJUVEEyZFVWQlJWaGliSGRDUnkwdExTMHRMUzB0TFMxNWJHWjVNVUZCUVVGQlIzRnlObkZ6UlZGWU1IVkJFZ1pNUVRneE9EQWFDd2pxM1JjUUFob0RSVlZTT0J4d3Y2RWIiLFtbIkdSVSIsIjIwMjYtMTAtMDIiLCJKRksiLG51bGwsIkxBIiwiODE4MCJdXV0="
+   "booking_token": "WyJDalJJU0U5NmMzaGhNVTFWTFd0QlJFeFFjRkZDUnkwdExTMHRMUzEyZEhkak55MXVNa0ZCUVVGQlIzRjBUbFpCU210M2VrRkJFZ1pNUVRneE9EQWFDd2o5NWhjUUFob0RSVlZTT0J4dzE2TWIiLFtbIkdSVSIsIjIwMjYtMTAtMDIiLCJKRksiLG51bGwsIkxBIiwiODE4MCJdXV0="
   },
   {
    "flights": [
@@ -185,10 +185,10 @@
     "typical_for_this_route": 1564000,
     "difference_percent": 4
    },
-   "price": 7598,
+   "price": 5126,
    "type": "One way",
    "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
-   "booking_token": "WyJDalJJZUhwbVZETkJUVEEyZFVWQlJWaGliSGRDUnkwdExTMHRMUzB0TFMxNWJHWjVNVUZCUVVGQlIzRnlObkZ6UlZGWU1IVkJFZ1ZFVERJeU5ob0xDUFd2TGhBQ0dnTkZWVkk0SEhDOG9qVT0iLFtbIkdSVSIsIjIwMjYtMTAtMDIiLCJKRksiLG51bGwsIkRMIiwiMjI2Il1dXQ=="
+   "booking_token": "WyJDalJJU0U5NmMzaGhNVTFWTFd0QlJFeFFjRkZDUnkwdExTMHRMUzEyZEhkak55MXVNa0ZCUVVGQlIzRjBUbFpCU210M2VrRkJFZ1ZFVERJeU5ob0xDTUdrSHhBQ0dnTkZWVkk0SEhENzdDTT0iLFtbIkdSVSIsIjIwMjYtMTAtMDIiLCJKRksiLG51bGwsIkRMIiwiMjI2Il1dXQ=="
   }
  ],
  "airports": [

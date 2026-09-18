@@ -1,15 +1,15 @@
 {
  "search_metadata": {
-  "id": "6aabeabad9961218242db8c5",
+  "id": "6aad355e30239450438a3a35",
   "status": "Success",
-  "json_endpoint": "https://serpapi.com/searches/0IZIiZ_DOTFOf3tUqYBZ-fF2pInxs7syJrYR4zcjm34/6aabeabad9961218242db8c5.json",
-  "markdown_endpoint": "https://serpapi.com/searches/0IZIiZ_DOTFOf3tUqYBZ-fF2pInxs7syJrYR4zcjm34/6aabeabad9961218242db8c5.md",
-  "created_at": "2026-09-17 13:27:22 UTC",
-  "processed_at": "2026-09-17 13:27:22 UTC",
+  "json_endpoint": "https://serpapi.com/searches/Wbp1JGD_HuQ0KAnyMdMWJ2e3OAv6yPBOk0k6yI0hBq8/6aad355e30239450438a3a35.json",
+  "markdown_endpoint": "https://serpapi.com/searches/Wbp1JGD_HuQ0KAnyMdMWJ2e3OAv6yPBOk0k6yI0hBq8/6aad355e30239450438a3a35.md",
+  "created_at": "2026-09-18 12:58:06 UTC",
+  "processed_at": "2026-09-18 12:58:06 UTC",
   "google_flights_url": "https://www.google.com/travel/flights?hl=en&gl=br&curr=EUR&tfs=CBwQAhooEgoyMDI2LTEwLTE4KAA6AkxBOgJBVmoHCAESA0NER3IHCAESA0dSVUABSANwAZgBAg&tfu=EgIIAQ",
-  "raw_html_file": "https://serpapi.com/searches/0IZIiZ_DOTFOf3tUqYBZ-fF2pInxs7syJrYR4zcjm34/6aabeabad9961218242db8c5.html",
-  "prettify_html_file": "https://serpapi.com/searches/0IZIiZ_DOTFOf3tUqYBZ-fF2pInxs7syJrYR4zcjm34/6aabeabad9961218242db8c5.prettify",
-  "total_time_taken": 8.14
+  "raw_html_file": "https://serpapi.com/searches/Wbp1JGD_HuQ0KAnyMdMWJ2e3OAv6yPBOk0k6yI0hBq8/6aad355e30239450438a3a35.html",
+  "prettify_html_file": "https://serpapi.com/searches/Wbp1JGD_HuQ0KAnyMdMWJ2e3OAv6yPBOk0k6yI0hBq8/6aad355e30239450438a3a35.prettify",
+  "total_time_taken": 2.67
  },
  "search_parameters": {
   "engine": "google_flights",
@@ -57,10 +57,10 @@
    "total_duration": 705,
    "carbon_emissions": {
     "this_flight": 2050000,
-    "typical_for_this_route": 2078000,
-    "difference_percent": -1
+    "typical_for_this_route": 2055000,
+    "difference_percent": 0
    },
-   "price": 5752,
+   "price": 5858,
    "type": "One way",
    "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AF.png",
    "extensions": [
@@ -68,7 +68,7 @@
     "Fare non-refundable, taxes may be refundable",
     "Ticket changes for a fee"
    ],
-   "booking_token": "WyJDalJJTVhwNGNrOUdOWFZRYkVGQlJtdENUbmRDUnkwdExTMHRMUzF2ZVdkaU9DMXVNVUZCUVVGQlIzRnlObkk0UTJJeE1FOUJFZ1ZCUmpRMk1Cb0xDTkNOSXhBQ0dnTkZWVkk0SEhEZXFTZz0iLFtbIkNERyIsIjIwMjYtMTAtMTgiLCJHUlUiLG51bGwsIkFGIiwiNDYwIl1dXQ=="
+   "booking_token": "WyJDalJJTFc4eVN6VTVkWGM0Y3pSQlJGSkpRVUZDUnkwdExTMHRMWFowZDJJeU1pMXVNa0ZCUVVGQlIzRjBUbGRCU1RoWlNrTkJFZ1ZCUmpRMk1Cb0xDTGpnSXhBQ0dnTkZWVkk0SEhDdS9DZz0iLFtbIkNERyIsIjIwMjYtMTAtMTgiLCJHUlUiLG51bGwsIkFGIiwiNDYwIl1dXQ=="
   },
   {
    "flights": [
@@ -102,10 +102,10 @@
    "total_duration": 700,
    "carbon_emissions": {
     "this_flight": 2559000,
-    "typical_for_this_route": 2078000,
-    "difference_percent": 23
+    "typical_for_this_route": 2055000,
+    "difference_percent": 25
    },
-   "price": 5752,
+   "price": 5911,
    "type": "One way",
    "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AF.png",
    "extensions": [
@@ -113,7 +113,7 @@
     "Fare non-refundable, taxes may be refundable",
     "Ticket changes for a fee"
    ],
-   "booking_token": "WyJDalJJTVhwNGNrOUdOWFZRYkVGQlJtdENUbmRDUnkwdExTMHRMUzF2ZVdkaU9DMXVNVUZCUVVGQlIzRnlObkk0UTJJeE1FOUJFZ1ZCUmpRMU5Cb0xDTkNOSXhBQ0dnTkZWVkk0SEhEZXFTZz0iLFtbIkNERyIsIjIwMjYtMTAtMTgiLCJHUlUiLG51bGwsIkFGIiwiNDU0Il1dXQ=="
+   "booking_token": "WyJDalJJTFc4eVN6VTVkWGM0Y3pSQlJGSkpRVUZDUnkwdExTMHRMWFowZDJJeU1pMXVNa0ZCUVVGQlIzRjBUbGRCU1RoWlNrTkJFZ1ZCUmpRMU5Cb0xDT3lKSkJBQ0dnTkZWVkk0SEhEbnF5az0iLFtbIkNERyIsIjIwMjYtMTAtMTgiLCJHUlUiLG51bGwsIkFGIiwiNDU0Il1dXQ=="
   }
  ],
  "airports": [
