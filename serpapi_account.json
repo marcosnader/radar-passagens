@@ -1,13 +1,13 @@
 {
   "plan_name": "Free Plan",
   "searches_per_month": 250,
-  "plan_searches_left": 170,
+  "plan_searches_left": 165,
   "extra_credits": 0,
-  "total_searches_left": 170,
-  "this_month_usage": 80,
+  "total_searches_left": 165,
+  "this_month_usage": 85,
   "plan_renewal_date": "2026-10-03",
   "account_rate_limit_per_hour": 250,
   "this_hour_searches": 3,
-  "checked_at": "2026-09-20T13:03:16+00:00",
+  "checked_at": "2026-09-21T15:06:38+00:00",
   "error": null
 }
