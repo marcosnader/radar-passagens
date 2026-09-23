@@ -1,15 +1,15 @@
 {
  "search_metadata": {
-  "id": "6ab2818ba289717b59962f00",
+  "id": "6ab3d64928c7fb56641dca86",
   "status": "Success",
-  "json_endpoint": "https://serpapi.com/searches/eQLchb4b5Sbi6GyTfM5ljP_WXgP6dIxRqzqnsA-ql5E/6ab2818ba289717b59962f00.json",
-  "markdown_endpoint": "https://serpapi.com/searches/eQLchb4b5Sbi6GyTfM5ljP_WXgP6dIxRqzqnsA-ql5E/6ab2818ba289717b59962f00.md",
-  "created_at": "2026-09-22 13:24:27 UTC",
-  "processed_at": "2026-09-22 13:24:27 UTC",
+  "json_endpoint": "https://serpapi.com/searches/j2YPNuohdAxMcePGuLbWl3HDKebM68pAjnUi60xHAPo/6ab3d64928c7fb56641dca86.json",
+  "markdown_endpoint": "https://serpapi.com/searches/j2YPNuohdAxMcePGuLbWl3HDKebM68pAjnUi60xHAPo/6ab3d64928c7fb56641dca86.md",
+  "created_at": "2026-09-23 13:38:17 UTC",
+  "processed_at": "2026-09-23 13:38:17 UTC",
   "google_flights_url": "https://www.google.com/travel/flights?hl=en&gl=br&curr=EUR&tfs=CBwQAhoxEgoyMDI2LTEwLTAyKAA6AkxBOgJBVmoHCAESA0dSVXIHCAESA0pGS3IHCAESA0VXUkABSANwAZgBAg&tfu=EgIIAQ",
-  "raw_html_file": "https://serpapi.com/searches/eQLchb4b5Sbi6GyTfM5ljP_WXgP6dIxRqzqnsA-ql5E/6ab2818ba289717b59962f00.html",
-  "prettify_html_file": "https://serpapi.com/searches/eQLchb4b5Sbi6GyTfM5ljP_WXgP6dIxRqzqnsA-ql5E/6ab2818ba289717b59962f00.prettify",
-  "total_time_taken": 4.89
+  "raw_html_file": "https://serpapi.com/searches/j2YPNuohdAxMcePGuLbWl3HDKebM68pAjnUi60xHAPo/6ab3d64928c7fb56641dca86.html",
+  "prettify_html_file": "https://serpapi.com/searches/j2YPNuohdAxMcePGuLbWl3HDKebM68pAjnUi60xHAPo/6ab3d64928c7fb56641dca86.prettify",
+  "total_time_taken": 4.98
  },
  "search_parameters": {
   "engine": "google_flights",
@@ -62,10 +62,10 @@
     "typical_for_this_route": 1566000,
     "difference_percent": 32
    },
-   "price": 3183,
+   "price": 3193,
    "type": "One way",
    "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
-   "booking_token": "WyJDalJJZVhWS1oxSklaVWxzWjBsQlFtRTVhbEZDUnkwdExTMHRMUzB0TFhscFltVm9Na0ZCUVVGQlIzRjVaMWwzUnpsRExVdEJFZ1ZWUVRFME9Cb0xDSkMyRXhBQ0dnTkZWVkk0SEhDVW9CWT0iLFtbIkdSVSIsIjIwMjYtMTAtMDIiLCJFV1IiLG51bGwsIlVBIiwiMTQ4Il1dXQ=="
+   "booking_token": "WyJDalJJYms5WFYwcEJhRUpUYjBWQlJWTTNOMmRDUnkwdExTMHRMUzB0TFMxNWJHWnVPVUZCUVVGQlIzRjZNV3R6UnpWSlNHVkJFZ1ZWUVRFME9Cb0xDSWErRXhBQ0dnTkZWVkk0SEhETm14WT0iLFtbIkdSVSIsIjIwMjYtMTAtMDIiLCJFV1IiLG51bGwsIlVBIiwiMTQ4Il1dXQ=="
   },
   {
    "flights": [
@@ -102,10 +102,50 @@
     "typical_for_this_route": 1566000,
     "difference_percent": -6
    },
-   "price": 3292,
+   "price": 3346,
    "type": "One way",
    "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
-   "booking_token": "WyJDalJJZVhWS1oxSklaVWxzWjBsQlFtRTVhbEZDUnkwdExTMHRMUzB0TFhscFltVm9Na0ZCUVVGQlIzRjVaMWwzUnpsRExVdEJFZ1ZCUVRrMU1Cb0xDSk9MRkJBQ0dnTkZWVkk0SEhESWdSYz0iLFtbIkdSVSIsIjIwMjYtMTAtMDIiLCJKRksiLG51bGwsIkFBIiwiOTUwIl1dXQ=="
+   "booking_token": "WyJDalJJYms5WFYwcEJhRUpUYjBWQlJWTTNOMmRDUnkwdExTMHRMUzB0TFMxNWJHWnVPVUZCUVVGQlIzRjZNV3R6UnpWSlNHVkJFZ1ZCUVRrMU1Cb0xDTHUxRkJBQ0dnTkZWVkk0SEhEZ294Yz0iLFtbIkdSVSIsIjIwMjYtMTAtMDIiLCJKRksiLG51bGwsIkFBIiwiOTUwIl1dXQ=="
+  },
+  {
+   "flights": [
+    {
+     "departure_airport": {
+      "name": "São Paulo/Guarulhos–Governor André Franco Montoro International Airport",
+      "id": "GRU",
+      "time": "2026-10-02 20:30"
+     },
+     "arrival_airport": {
+      "name": "John F. Kennedy International Airport",
+      "id": "JFK",
+      "time": "2026-10-03 05:29"
+     },
+     "duration": 599,
+     "airplane": "Airbus A330-900neo",
+     "airline": "Delta",
+     "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+     "travel_class": "Business Class",
+     "flight_number": "DL 226",
+     "extensions": [
+      "Individual suite",
+      "Free Wi-Fi",
+      "In-seat power & USB outlets",
+      "On-demand video",
+      "Carbon emissions estimate: 1645 kg"
+     ],
+     "overnight": true
+    }
+   ],
+   "total_duration": 599,
+   "carbon_emissions": {
+    "this_flight": 1645000,
+    "typical_for_this_route": 1566000,
+    "difference_percent": 5
+   },
+   "price": 5180,
+   "type": "One way",
+   "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+   "booking_token": "WyJDalJJYms5WFYwcEJhRUpUYjBWQlJWTTNOMmRDUnkwdExTMHRMUzB0TFMxNWJHWnVPVUZCUVVGQlIzRjZNV3R6UnpWSlNHVkJFZ1ZFVERJeU5ob0xDTFhPSHhBQ0dnTkZWVkk0SEhERmhTUT0iLFtbIkdSVSIsIjIwMjYtMTAtMDIiLCJKRksiLG51bGwsIkRMIiwiMjI2Il1dXQ=="
   },
   {
    "flights": [
@@ -145,50 +185,10 @@
     "typical_for_this_route": 1566000,
     "difference_percent": 0
    },
-   "price": 3901,
+   "price": 5180,
    "type": "One way",
    "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/LA.png",
-   "booking_token": "WyJDalJJZVhWS1oxSklaVWxzWjBsQlFtRTVhbEZDUnkwdExTMHRMUzB0TFhscFltVm9Na0ZCUVVGQlIzRjVaMWwzUnpsRExVdEJFZ1pNUVRneE9EQWFDd2lrNXhjUUFob0RSVlZTT0J4d2c2TWIiLFtbIkdSVSIsIjIwMjYtMTAtMDIiLCJKRksiLG51bGwsIkxBIiwiODE4MCJdXV0="
-  },
-  {
-   "flights": [
-    {
-     "departure_airport": {
-      "name": "São Paulo/Guarulhos–Governor André Franco Montoro International Airport",
-      "id": "GRU",
-      "time": "2026-10-02 20:30"
-     },
-     "arrival_airport": {
-      "name": "John F. Kennedy International Airport",
-      "id": "JFK",
-      "time": "2026-10-03 05:29"
-     },
-     "duration": 599,
-     "airplane": "Airbus A330-900neo",
-     "airline": "Delta",
-     "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
-     "travel_class": "Business Class",
-     "flight_number": "DL 226",
-     "extensions": [
-      "Individual suite",
-      "Free Wi-Fi",
-      "In-seat power & USB outlets",
-      "On-demand video",
-      "Carbon emissions estimate: 1645 kg"
-     ],
-     "overnight": true
-    }
-   ],
-   "total_duration": 599,
-   "carbon_emissions": {
-    "this_flight": 1645000,
-    "typical_for_this_route": 1566000,
-    "difference_percent": 5
-   },
-   "price": 5120,
-   "type": "One way",
-   "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
-   "booking_token": "WyJDalJJZVhWS1oxSklaVWxzWjBsQlFtRTVhbEZDUnkwdExTMHRMUzB0TFhscFltVm9Na0ZCUVVGQlIzRjVaMWwzUnpsRExVdEJFZ1ZFVERJeU5ob0xDTVdmSHhBQ0dnTkZWVkk0SEhENjVTTT0iLFtbIkdSVSIsIjIwMjYtMTAtMDIiLCJKRksiLG51bGwsIkRMIiwiMjI2Il1dXQ=="
+   "booking_token": "WyJDalJJYms5WFYwcEJhRUpUYjBWQlJWTTNOMmRDUnkwdExTMHRMUzB0TFMxNWJHWnVPVUZCUVVGQlIzRjZNV3R6UnpWSlNHVkJFZ1pNUVRneE9EQWFDd2kxemg4UUFob0RSVlZTT0J4d3hZVWsiLFtbIkdSVSIsIjIwMjYtMTAtMDIiLCJKRksiLG51bGwsIkxBIiwiODE4MCJdXV0="
   }
  ],
  "airports": [
