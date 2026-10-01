@@ -1,15 +1,15 @@
 {
  "search_metadata": {
-  "id": "6abd22bb50d43eac0f864b5d",
+  "id": "6abe7bb32b15b945b7af1728",
   "status": "Success",
-  "json_endpoint": "https://serpapi.com/searches/HbmUKJ9iz8gu8afcZmkRHIRvRtVyRImaH1l5SFmMyU0/6abd22bb50d43eac0f864b5d.json",
-  "markdown_endpoint": "https://serpapi.com/searches/HbmUKJ9iz8gu8afcZmkRHIRvRtVyRImaH1l5SFmMyU0/6abd22bb50d43eac0f864b5d.md",
-  "created_at": "2026-09-30 14:54:51 UTC",
-  "processed_at": "2026-09-30 14:54:51 UTC",
+  "json_endpoint": "https://serpapi.com/searches/cYIOQ_1S_bQn_BfnDUSQbAoT_erEu6Iei8-aFZUp6Hg/6abe7bb32b15b945b7af1728.json",
+  "markdown_endpoint": "https://serpapi.com/searches/cYIOQ_1S_bQn_BfnDUSQbAoT_erEu6Iei8-aFZUp6Hg/6abe7bb32b15b945b7af1728.md",
+  "created_at": "2026-10-01 15:26:43 UTC",
+  "processed_at": "2026-10-01 15:26:43 UTC",
   "google_flights_url": "https://www.google.com/travel/flights?hl=en&gl=br&curr=EUR&tfs=CBwQAhoxEgoyMDI2LTEwLTAyKAA6AkxBOgJBVmoHCAESA0dSVXIHCAESA0pGS3IHCAESA0VXUkABSANwAZgBAg&tfu=EgIIAQ",
-  "raw_html_file": "https://serpapi.com/searches/HbmUKJ9iz8gu8afcZmkRHIRvRtVyRImaH1l5SFmMyU0/6abd22bb50d43eac0f864b5d.html",
-  "prettify_html_file": "https://serpapi.com/searches/HbmUKJ9iz8gu8afcZmkRHIRvRtVyRImaH1l5SFmMyU0/6abd22bb50d43eac0f864b5d.prettify",
-  "total_time_taken": 2.99
+  "raw_html_file": "https://serpapi.com/searches/cYIOQ_1S_bQn_BfnDUSQbAoT_erEu6Iei8-aFZUp6Hg/6abe7bb32b15b945b7af1728.html",
+  "prettify_html_file": "https://serpapi.com/searches/cYIOQ_1S_bQn_BfnDUSQbAoT_erEu6Iei8-aFZUp6Hg/6abe7bb32b15b945b7af1728.prettify",
+  "total_time_taken": 5.46
  },
  "search_parameters": {
   "engine": "google_flights",
@@ -27,6 +27,126 @@
   "deep_search": true
  },
  "other_flights": [
+  {
+   "flights": [
+    {
+     "departure_airport": {
+      "name": "São Paulo/Guarulhos–Governor André Franco Montoro International Airport",
+      "id": "GRU",
+      "time": "2026-10-02 21:00"
+     },
+     "arrival_airport": {
+      "name": "Newark Liberty International Airport",
+      "id": "EWR",
+      "time": "2026-10-03 05:35"
+     },
+     "duration": 575,
+     "airplane": "Boeing 777",
+     "airline": "United",
+     "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+     "travel_class": "Business Class",
+     "flight_number": "UA 148",
+     "extensions": [
+      "Lie flat seat",
+      "Wi-Fi for a fee",
+      "In-seat power & USB outlets",
+      "On-demand video",
+      "Carbon emissions estimate: 2074 kg"
+     ],
+     "overnight": true
+    }
+   ],
+   "total_duration": 575,
+   "carbon_emissions": {
+    "this_flight": 2074000,
+    "typical_for_this_route": 1566000,
+    "difference_percent": 32
+   },
+   "price": 3266,
+   "type": "One way",
+   "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+   "booking_token": "WyJDalJJWTBZeFpqbEJPVEJVWjBWQlEzbFROMUZDUnkwdExTMHRMUzB0TFhCcWNXRXhNRUZCUVVGQlIzRXRaVGRSUm1OeWNrbEJFZ1ZWUVRFME9Cb0xDTGozRXhBQ0dnTkZWVkk0SEhEU3VCWT0iLFtbIkdSVSIsIjIwMjYtMTAtMDIiLCJFV1IiLG51bGwsIlVBIiwiMTQ4Il1dXQ=="
+  },
+  {
+   "flights": [
+    {
+     "departure_airport": {
+      "name": "São Paulo/Guarulhos–Governor André Franco Montoro International Airport",
+      "id": "GRU",
+      "time": "2026-10-02 22:30"
+     },
+     "arrival_airport": {
+      "name": "John F. Kennedy International Airport",
+      "id": "JFK",
+      "time": "2026-10-03 07:05"
+     },
+     "duration": 575,
+     "airplane": "Boeing 787",
+     "airline": "American",
+     "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+     "travel_class": "Business Class",
+     "flight_number": "AA 950",
+     "extensions": [
+      "Lie flat seat",
+      "Wi-Fi for a fee",
+      "In-seat power & USB outlets",
+      "On-demand video",
+      "Carbon emissions estimate: 1472 kg"
+     ],
+     "overnight": true
+    }
+   ],
+   "total_duration": 575,
+   "carbon_emissions": {
+    "this_flight": 1473000,
+    "typical_for_this_route": 1566000,
+    "difference_percent": -6
+   },
+   "price": 4170,
+   "type": "One way",
+   "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+   "booking_token": "WyJDalJJWTBZeFpqbEJPVEJVWjBWQlEzbFROMUZDUnkwdExTMHRMUzB0TFhCcWNXRXhNRUZCUVVGQlIzRXRaVGRSUm1OeWNrbEJFZ1ZCUVRrMU1Cb0xDS0c1R1JBQ0dnTkZWVkk0SEhDbzB4dz0iLFtbIkdSVSIsIjIwMjYtMTAtMDIiLCJKRksiLG51bGwsIkFBIiwiOTUwIl1dXQ=="
+  },
+  {
+   "flights": [
+    {
+     "departure_airport": {
+      "name": "São Paulo/Guarulhos–Governor André Franco Montoro International Airport",
+      "id": "GRU",
+      "time": "2026-10-02 20:30"
+     },
+     "arrival_airport": {
+      "name": "John F. Kennedy International Airport",
+      "id": "JFK",
+      "time": "2026-10-03 05:29"
+     },
+     "duration": 599,
+     "airplane": "Airbus A330-900neo",
+     "airline": "Delta",
+     "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+     "travel_class": "Business Class",
+     "flight_number": "DL 226",
+     "extensions": [
+      "Individual suite",
+      "Free Wi-Fi",
+      "In-seat power & USB outlets",
+      "On-demand video",
+      "Carbon emissions estimate: 1620 kg"
+     ],
+     "overnight": true
+    }
+   ],
+   "total_duration": 599,
+   "carbon_emissions": {
+    "this_flight": 1620000,
+    "typical_for_this_route": 1566000,
+    "difference_percent": 3
+   },
+   "price": 5227,
+   "type": "One way",
+   "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+   "booking_token": "WyJDalJJWTBZeFpqbEJPVEJVWjBWQlEzbFROMUZDUnkwdExTMHRMUzB0TFhCcWNXRXhNRUZCUVVGQlIzRXRaVGRSUm1OeWNrbEJFZ1ZFVERJeU5ob0xDTXZ6SHhBQ0dnTkZWVkk0SEhEVzlTTT0iLFtbIkdSVSIsIjIwMjYtMTAtMDIiLCJKRksiLG51bGwsIkRMIiwiMjI2Il1dXQ=="
+  },
   {
    "flights": [
     {
@@ -61,126 +181,14 @@
    ],
    "total_duration": 595,
    "carbon_emissions": {
-    "this_flight": 1566000
+    "this_flight": 1566000,
+    "typical_for_this_route": 1566000,
+    "difference_percent": 0
    },
-   "price": 3218,
+   "price": 5227,
    "type": "One way",
    "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/LA.png",
-   "booking_token": "WyJDalJJVUZaUmR6SnRXRTFqYkRoQlJVMVZVRUZDUnkwdExTMHRMUzB0Y0daaVkyb3hNVUZCUVVGQlIzRTVTWEkwU3poNU5VTkJFZ1pNUVRneE9EQWFDd2lEMGhNUUFob0RSVlZTT0J4dzE2Y1ciLFtbIkdSVSIsIjIwMjYtMTAtMDIiLCJKRksiLG51bGwsIkxBIiwiODE4MCJdXV0="
-  },
-  {
-   "flights": [
-    {
-     "departure_airport": {
-      "name": "São Paulo/Guarulhos–Governor André Franco Montoro International Airport",
-      "id": "GRU",
-      "time": "2026-10-02 21:00"
-     },
-     "arrival_airport": {
-      "name": "Newark Liberty International Airport",
-      "id": "EWR",
-      "time": "2026-10-03 05:35"
-     },
-     "duration": 575,
-     "airplane": "Boeing 777",
-     "airline": "United",
-     "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
-     "travel_class": "Business Class",
-     "flight_number": "UA 148",
-     "extensions": [
-      "Lie flat seat",
-      "Wi-Fi for a fee",
-      "In-seat power & USB outlets",
-      "On-demand video",
-      "Carbon emissions estimate: 2074 kg"
-     ],
-     "overnight": true
-    }
-   ],
-   "total_duration": 575,
-   "carbon_emissions": {
-    "this_flight": 2074000
-   },
-   "price": 3285,
-   "type": "One way",
-   "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
-   "booking_token": "WyJDalJJVUZaUmR6SnRXRTFqYkRoQlJVMVZVRUZDUnkwdExTMHRMUzB0Y0daaVkyb3hNVUZCUVVGQlIzRTVTWEkwU3poNU5VTkJFZ1ZWUVRFME9Cb0xDUHlGRkJBQ0dnTkZWVkk0SEhEWDRoWT0iLFtbIkdSVSIsIjIwMjYtMTAtMDIiLCJFV1IiLG51bGwsIlVBIiwiMTQ4Il1dXQ=="
-  },
-  {
-   "flights": [
-    {
-     "departure_airport": {
-      "name": "São Paulo/Guarulhos–Governor André Franco Montoro International Airport",
-      "id": "GRU",
-      "time": "2026-10-02 20:30"
-     },
-     "arrival_airport": {
-      "name": "John F. Kennedy International Airport",
-      "id": "JFK",
-      "time": "2026-10-03 05:29"
-     },
-     "duration": 599,
-     "airplane": "Airbus A330-900neo",
-     "airline": "Delta",
-     "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
-     "travel_class": "Business Class",
-     "flight_number": "DL 226",
-     "extensions": [
-      "Individual suite",
-      "Free Wi-Fi",
-      "In-seat power & USB outlets",
-      "On-demand video",
-      "Carbon emissions estimate: 1620 kg"
-     ],
-     "overnight": true
-    }
-   ],
-   "total_duration": 599,
-   "carbon_emissions": {
-    "this_flight": 1620000
-   },
-   "price": 5257,
-   "type": "One way",
-   "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
-   "booking_token": "WyJDalJJVUZaUmR6SnRXRTFqYkRoQlJVMVZVRUZDUnkwdExTMHRMUzB0Y0daaVkyb3hNVUZCUVVGQlIzRTVTWEkwU3poNU5VTkJFZ1ZFVERJeU5ob0xDSU9MSUJBQ0dnTkZWVkk0SEhDVnVTUT0iLFtbIkdSVSIsIjIwMjYtMTAtMDIiLCJKRksiLG51bGwsIkRMIiwiMjI2Il1dXQ=="
-  },
-  {
-   "flights": [
-    {
-     "departure_airport": {
-      "name": "São Paulo/Guarulhos–Governor André Franco Montoro International Airport",
-      "id": "GRU",
-      "time": "2026-10-02 22:30"
-     },
-     "arrival_airport": {
-      "name": "John F. Kennedy International Airport",
-      "id": "JFK",
-      "time": "2026-10-03 07:05"
-     },
-     "duration": 575,
-     "airplane": "Boeing 787",
-     "airline": "American",
-     "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
-     "travel_class": "Business Class",
-     "flight_number": "AA 950",
-     "extensions": [
-      "Lie flat seat",
-      "Wi-Fi for a fee",
-      "In-seat power & USB outlets",
-      "On-demand video",
-      "Carbon emissions estimate: 1472 kg"
-     ],
-     "overnight": true
-    }
-   ],
-   "total_duration": 575,
-   "carbon_emissions": {
-    "this_flight": 1473000
-   },
-   "price": 5435,
-   "type": "One way",
-   "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
-   "booking_token": "WyJDalJJVUZaUmR6SnRXRTFqYkRoQlJVMVZVRUZDUnkwdExTMHRMUzB0Y0daaVkyb3hNVUZCUVVGQlIzRTVTWEkwU3poNU5VTkJFZ1ZCUVRrMU1Cb0xDTWFWSVJBQ0dnTkZWVkk0SEhEQzFpVT0iLFtbIkdSVSIsIjIwMjYtMTAtMDIiLCJKRksiLG51bGwsIkFBIiwiOTUwIl1dXQ=="
+   "booking_token": "WyJDalJJWTBZeFpqbEJPVEJVWjBWQlEzbFROMUZDUnkwdExTMHRMUzB0TFhCcWNXRXhNRUZCUVVGQlIzRXRaVGRSUm1OeWNrbEJFZ1pNUVRneE9EQWFDd2pMOHg4UUFob0RSVlZTT0J4dzF2VWoiLFtbIkdSVSIsIjIwMjYtMTAtMDIiLCJKRksiLG51bGwsIkxBIiwiODE4MCJdXV0="
   }
  ],
  "airports": [

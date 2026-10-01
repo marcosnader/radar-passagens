@@ -1,15 +1,15 @@
 {
  "search_metadata": {
-  "id": "6abd22cd258828407e8b782b",
+  "id": "6abe7bc602ab8c6bf3a17243",
   "status": "Success",
-  "json_endpoint": "https://serpapi.com/searches/-KgG8t_FtUd9MvtgX4UO9UrnZ2gChixpsN6EsFX1zDo/6abd22cd258828407e8b782b.json",
-  "markdown_endpoint": "https://serpapi.com/searches/-KgG8t_FtUd9MvtgX4UO9UrnZ2gChixpsN6EsFX1zDo/6abd22cd258828407e8b782b.md",
-  "created_at": "2026-09-30 14:55:09 UTC",
-  "processed_at": "2026-09-30 14:55:09 UTC",
+  "json_endpoint": "https://serpapi.com/searches/CZdpvejy0LJcsw6WNXKBRj6lwWZNYiNqqc4WJK4oKQM/6abe7bc602ab8c6bf3a17243.json",
+  "markdown_endpoint": "https://serpapi.com/searches/CZdpvejy0LJcsw6WNXKBRj6lwWZNYiNqqc4WJK4oKQM/6abe7bc602ab8c6bf3a17243.md",
+  "created_at": "2026-10-01 15:27:02 UTC",
+  "processed_at": "2026-10-01 15:27:02 UTC",
   "google_flights_url": "https://www.google.com/travel/flights?hl=en&gl=br&curr=EUR&tfs=CBwQAhooEgoyMDI2LTEwLTE2KAE6AkxBOgJBVmoHCAESA0NER3IHCAESA0dSVUABSANwAZgBAg&tfu=EgIIAQ",
-  "raw_html_file": "https://serpapi.com/searches/-KgG8t_FtUd9MvtgX4UO9UrnZ2gChixpsN6EsFX1zDo/6abd22cd258828407e8b782b.html",
-  "prettify_html_file": "https://serpapi.com/searches/-KgG8t_FtUd9MvtgX4UO9UrnZ2gChixpsN6EsFX1zDo/6abd22cd258828407e8b782b.prettify",
-  "total_time_taken": 2.11
+  "raw_html_file": "https://serpapi.com/searches/CZdpvejy0LJcsw6WNXKBRj6lwWZNYiNqqc4WJK4oKQM/6abe7bc602ab8c6bf3a17243.html",
+  "prettify_html_file": "https://serpapi.com/searches/CZdpvejy0LJcsw6WNXKBRj6lwWZNYiNqqc4WJK4oKQM/6abe7bc602ab8c6bf3a17243.prettify",
+  "total_time_taken": 6.36
  },
  "search_parameters": {
   "engine": "google_flights",
@@ -27,83 +27,6 @@
   "deep_search": true
  },
  "best_flights": [
-  {
-   "flights": [
-    {
-     "departure_airport": {
-      "name": "Aéroport de Paris-Charles de Gaulle",
-      "id": "CDG",
-      "time": "2026-10-16 21:40"
-     },
-     "arrival_airport": {
-      "name": "Bole Addis Ababa International Airport",
-      "id": "ADD",
-      "time": "2026-10-17 06:00"
-     },
-     "duration": 440,
-     "airplane": "Airbus A350",
-     "airline": "Ethiopian",
-     "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/ET.png",
-     "travel_class": "Business Class",
-     "flight_number": "ET 735",
-     "extensions": [
-      "Lie flat seat",
-      "Free Wi-Fi",
-      "In-seat power & USB outlets",
-      "On-demand video",
-      "Carbon emissions estimate: 1375 kg"
-     ],
-     "overnight": true
-    },
-    {
-     "departure_airport": {
-      "name": "Bole Addis Ababa International Airport",
-      "id": "ADD",
-      "time": "2026-10-17 09:15"
-     },
-     "arrival_airport": {
-      "name": "São Paulo/Guarulhos–Governor André Franco Montoro International Airport",
-      "id": "GRU",
-      "time": "2026-10-17 16:25"
-     },
-     "duration": 790,
-     "airplane": "Airbus A350",
-     "airline": "Ethiopian",
-     "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/ET.png",
-     "travel_class": "Business Class",
-     "flight_number": "ET 506",
-     "extensions": [
-      "Lie flat seat",
-      "Free Wi-Fi",
-      "In-seat power & USB outlets",
-      "On-demand video",
-      "Carbon emissions estimate: 2222 kg"
-     ]
-    }
-   ],
-   "layovers": [
-    {
-     "duration": 195,
-     "name": "Bole Addis Ababa International Airport",
-     "id": "ADD"
-    }
-   ],
-   "total_duration": 1425,
-   "carbon_emissions": {
-    "this_flight": 3598000,
-    "typical_for_this_route": 2076000,
-    "difference_percent": 73
-   },
-   "price": 3145,
-   "type": "One way",
-   "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/ET.png",
-   "extensions": [
-    "1 checked bag up to 23 kg included",
-    "Full refund for cancellations",
-    "Free change, possible fare difference"
-   ],
-   "booking_token": "WyJDalJJYlU5clpFWmhSSGt3VTBGQlJWUlhRMUZDUnkwdExTMHRMUzB0Y0daaVpIY3lOMEZCUVVGQlIzRTVTWE0wUW1vd1NESkJFZ3RGVkRjek5YeEZWRFV3TmhvTENLK1lFeEFDR2dORlZWSTRISENZNWhVPSIsW1siQ0RHIiwiMjAyNi0xMC0xNiIsIkFERCIsbnVsbCwiRVQiLCI3MzUiXSxbIkFERCIsIjIwMjYtMTAtMTciLCJHUlUiLG51bGwsIkVUIiwiNTA2Il1dXQ=="
-  },
   {
    "flights": [
     {
@@ -171,7 +94,7 @@
     "typical_for_this_route": 2076000,
     "difference_percent": 12
    },
-   "price": 3454,
+   "price": 2854,
    "type": "One way",
    "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/multi.png",
    "extensions": [
@@ -179,7 +102,7 @@
     "Full refund for cancellations",
     "Free change, possible fare difference"
    ],
-   "booking_token": "WyJDalJJYlU5clpFWmhSSGt3VTBGQlJWUlhRMUZDUnkwdExTMHRMUzB0Y0daaVpIY3lOMEZCUVVGQlIzRTVTWE0wUW1vd1NESkJFZ3hXVERJeU1qZDhURWcxTURRYUN3aTNpaFVRQWhvRFJWVlNPQnh3a3ZrWCIsW1siQ0RHIiwiMjAyNi0xMC0xNiIsIk1VQyIsbnVsbCwiVkwiLCIyMjI3Il0sWyJNVUMiLCIyMDI2LTEwLTE2IiwiR1JVIixudWxsLCJMSCIsIjUwNCJdXV0="
+   "booking_token": "WyJDalJJWTBZeFpqbEJPVEJVWjBWQlEzbFlTVUZDUnkwdExTMHRMUzB0TFhCcWNXRXhNRUZCUVVGQlIzRXRaVGgzU1dKUFdVVkJFZ3hXVERJeU1qZDhURWcxTURRYUN3alh0UkVRQWhvRFJWVlNPQnh3c000VCIsW1siQ0RHIiwiMjAyNi0xMC0xNiIsIk1VQyIsbnVsbCwiVkwiLCIyMjI3Il0sWyJNVUMiLCIyMDI2LTEwLTE2IiwiR1JVIixudWxsLCJMSCIsIjUwNCJdXV0="
   },
   {
    "flights": [
@@ -187,34 +110,109 @@
      "departure_airport": {
       "name": "Aéroport de Paris-Charles de Gaulle",
       "id": "CDG",
-      "time": "2026-10-16 23:35"
+      "time": "2026-10-16 21:40"
      },
      "arrival_airport": {
-      "name": "São Paulo/Guarulhos–Governor André Franco Montoro International Airport",
-      "id": "GRU",
-      "time": "2026-10-17 06:15"
+      "name": "Bole Addis Ababa International Airport",
+      "id": "ADD",
+      "time": "2026-10-17 06:00"
      },
-     "duration": 700,
-     "airplane": "Boeing 777",
-     "airline": "Air France",
-     "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AF.png",
+     "duration": 440,
+     "airplane": "Airbus A350",
+     "airline": "Ethiopian",
+     "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/ET.png",
      "travel_class": "Business Class",
-     "flight_number": "AF 454",
+     "flight_number": "ET 735",
      "extensions": [
       "Lie flat seat",
       "Free Wi-Fi",
       "In-seat power & USB outlets",
       "On-demand video",
-      "Carbon emissions estimate: 2558 kg"
+      "Carbon emissions estimate: 1375 kg"
      ],
      "overnight": true
+    },
+    {
+     "departure_airport": {
+      "name": "Bole Addis Ababa International Airport",
+      "id": "ADD",
+      "time": "2026-10-17 09:15"
+     },
+     "arrival_airport": {
+      "name": "São Paulo/Guarulhos–Governor André Franco Montoro International Airport",
+      "id": "GRU",
+      "time": "2026-10-17 16:25"
+     },
+     "duration": 790,
+     "airplane": "Airbus A350",
+     "airline": "Ethiopian",
+     "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/ET.png",
+     "travel_class": "Business Class",
+     "flight_number": "ET 506",
+     "extensions": [
+      "Lie flat seat",
+      "Free Wi-Fi",
+      "In-seat power & USB outlets",
+      "On-demand video",
+      "Carbon emissions estimate: 2222 kg"
+     ]
     }
    ],
-   "total_duration": 700,
+   "layovers": [
+    {
+     "duration": 195,
+     "name": "Bole Addis Ababa International Airport",
+     "id": "ADD"
+    }
+   ],
+   "total_duration": 1425,
    "carbon_emissions": {
-    "this_flight": 2559000,
+    "this_flight": 3598000,
     "typical_for_this_route": 2076000,
-    "difference_percent": 23
+    "difference_percent": 73
+   },
+   "price": 3146,
+   "type": "One way",
+   "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/ET.png",
+   "extensions": [
+    "1 checked bag up to 23 kg included",
+    "Full refund for cancellations",
+    "Free change, possible fare difference"
+   ],
+   "booking_token": "WyJDalJJWTBZeFpqbEJPVEJVWjBWQlEzbFlTVUZDUnkwdExTMHRMUzB0TFhCcWNXRXhNRUZCUVVGQlIzRXRaVGgzU1dKUFdVVkJFZ3RGVkRjek5YeEZWRFV3TmhvTENMV1pFeEFDR2dORlZWSTRISERremhVPSIsW1siQ0RHIiwiMjAyNi0xMC0xNiIsIkFERCIsbnVsbCwiRVQiLCI3MzUiXSxbIkFERCIsIjIwMjYtMTAtMTciLCJHUlUiLG51bGwsIkVUIiwiNTA2Il1dXQ=="
+  },
+  {
+   "flights": [
+    {
+     "departure_airport": {
+      "name": "Aéroport de Paris-Charles de Gaulle",
+      "id": "CDG",
+      "time": "2026-10-16 10:35"
+     },
+     "arrival_airport": {
+      "name": "São Paulo/Guarulhos–Governor André Franco Montoro International Airport",
+      "id": "GRU",
+      "time": "2026-10-16 17:20"
+     },
+     "duration": 705,
+     "airplane": "Airbus A350",
+     "airline": "Air France",
+     "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AF.png",
+     "travel_class": "Business Class",
+     "flight_number": "AF 460",
+     "extensions": [
+      "Individual suite",
+      "In-seat power & USB outlets",
+      "On-demand video",
+      "Carbon emissions estimate: 2050 kg"
+     ]
+    }
+   ],
+   "total_duration": 705,
+   "carbon_emissions": {
+    "this_flight": 2050000,
+    "typical_for_this_route": 2076000,
+    "difference_percent": -1
    },
    "price": 5053,
    "type": "One way",
@@ -224,7 +222,7 @@
     "Full refund for cancellations",
     "Free change, possible fare difference"
    ],
-   "booking_token": "WyJDalJJYlU5clpFWmhSSGt3VTBGQlJWUlhRMUZDUnkwdExTMHRMUzB0Y0daaVpIY3lOMEZCUVVGQlIzRTVTWE0wUW1vd1NESkJFZ1ZCUmpRMU5Cb0xDTVRySGhBQ0dnTkZWVkk0SEhDQWhDTT0iLFtbIkNERyIsIjIwMjYtMTAtMTYiLCJHUlUiLG51bGwsIkFGIiwiNDU0Il1dXQ=="
+   "booking_token": "WyJDalJJWTBZeFpqbEJPVEJVWjBWQlEzbFlTVUZDUnkwdExTMHRMUzB0TFhCcWNXRXhNRUZCUVVGQlIzRXRaVGgzU1dKUFdVVkJFZ1ZCUmpRMk1Cb0xDTVRySGhBQ0dnTkZWVkk0SEhDKzNDST0iLFtbIkNERyIsIjIwMjYtMTAtMTYiLCJHUlUiLG51bGwsIkFGIiwiNDYwIl1dXQ=="
   }
  ],
  "other_flights": [
@@ -291,15 +289,15 @@
     "typical_for_this_route": 2076000,
     "difference_percent": -4
    },
-   "price": 3247,
+   "price": 3246,
    "type": "One way",
    "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AT.png",
    "extensions": [
     "1 checked bag up to 32 kg included",
-    "Partial refund for cancellations",
-    "Ticket changes for a fee"
+    "Full refund for cancellations",
+    "Free change, possible fare difference"
    ],
-   "booking_token": "WyJDalJJYlU5clpFWmhSSGt3VTBGQlJWUlhRMUZDUnkwdExTMHRMUzB0Y0daaVpIY3lOMEZCUVVGQlIzRTVTWE0wUW1vd1NESkJFZ3RCVkRjNE9YeEJWREl4TlJvTENKN29FeEFDR2dORlZWSTRISEQwd0JZPSIsW1siQ0RHIiwiMjAyNi0xMC0xNiIsIkNNTiIsbnVsbCwiQVQiLCI3ODkiXSxbIkNNTiIsIjIwMjYtMTAtMTciLCJHUlUiLG51bGwsIkFUIiwiMjE1Il1dXQ=="
+   "booking_token": "WyJDalJJWTBZeFpqbEJPVEJVWjBWQlEzbFlTVUZDUnkwdExTMHRMUzB0TFhCcWNXRXhNRUZCUVVGQlIzRXRaVGgzU1dKUFdVVkJFZ3RCVkRjNE9YeEJWREl4TlJvTENPN25FeEFDR2dORlZWSTRISENOcHhZPSIsW1siQ0RHIiwiMjAyNi0xMC0xNiIsIkNNTiIsbnVsbCwiQVQiLCI3ODkiXSxbIkNNTiIsIjIwMjYtMTAtMTciLCJHUlUiLG51bGwsIkFUIiwiMjE1Il1dXQ=="
   },
   {
    "flights": [
@@ -380,7 +378,7 @@
     "Full refund for cancellations",
     "Free change, possible fare difference"
    ],
-   "booking_token": "WyJDalJJYlU5clpFWmhSSGt3VTBGQlJWUlhRMUZDUnkwdExTMHRMUzB0Y0daaVpIY3lOMEZCUVVGQlIzRTVTWE0wUW1vd1NESkJFZ3hMVERFME1EWjhTMHczT1RFYUN3amlneDBRQWhvRFJWVlNPQnh3M3Z3ZyIsW1siQ0RHIiwiMjAyNi0xMC0xNiIsIkFNUyIsbnVsbCwiS0wiLCIxNDA2Il0sWyJBTVMiLCIyMDI2LTEwLTE2IiwiR1JVIixudWxsLCJLTCIsIjc5MSJdXV0="
+   "booking_token": "WyJDalJJWTBZeFpqbEJPVEJVWjBWQlEzbFlTVUZDUnkwdExTMHRMUzB0TFhCcWNXRXhNRUZCUVVGQlIzRXRaVGgzU1dKUFdVVkJFZ3hMVERFME1EWjhTMHczT1RFYUN3amlneDBRQWhvRFJWVlNPQnh3eHRjZyIsW1siQ0RHIiwiMjAyNi0xMC0xNiIsIkFNUyIsbnVsbCwiS0wiLCIxNDA2Il0sWyJBTVMiLCIyMDI2LTEwLTE2IiwiR1JVIixudWxsLCJLTCIsIjc5MSJdXV0="
   },
   {
    "flights": [
@@ -388,198 +386,200 @@
      "departure_airport": {
       "name": "Aéroport de Paris-Charles de Gaulle",
       "id": "CDG",
-      "time": "2026-10-16 08:15"
+      "time": "2026-10-16 06:10"
      },
      "arrival_airport": {
-      "name": "Amsterdam Airport Schiphol",
-      "id": "AMS",
-      "time": "2026-10-16 09:40"
+      "name": "Leonardo da Vinci International Airport",
+      "id": "FCO",
+      "time": "2026-10-16 08:10"
      },
-     "duration": 85,
-     "airplane": "Airbus A220-300 Passenger",
-     "airline": "Air France",
-     "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AF.png",
+     "duration": 120,
+     "airplane": "Airbus A320neo",
+     "airline": "ITA",
+     "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AZ.png",
      "travel_class": "Business Class",
-     "flight_number": "AF 1340",
-     "ticket_also_sold_by": [
-      "KLM"
-     ],
-     "legroom": "30 in",
+     "flight_number": "AZ 317",
+     "legroom": "29 in",
      "extensions": [
-      "Average legroom (30 in)",
-      "In-seat USB outlet",
-      "Carbon emissions estimate: 89 kg"
-     ]
-    },
-    {
-     "departure_airport": {
-      "name": "Amsterdam Airport Schiphol",
-      "id": "AMS",
-      "time": "2026-10-16 13:00"
-     },
-     "arrival_airport": {
-      "name": "São Paulo/Guarulhos–Governor André Franco Montoro International Airport",
-      "id": "GRU",
-      "time": "2026-10-16 19:50"
-     },
-     "duration": 710,
-     "airplane": "Boeing 777",
-     "airline": "KLM",
-     "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/KL.png",
-     "travel_class": "Business Class",
-     "flight_number": "KL 791",
-     "ticket_also_sold_by": [
-      "Air France"
-     ],
-     "extensions": [
-      "Individual suite",
+      "Average legroom (29 in)",
       "Wi-Fi for a fee",
-      "In-seat power & USB outlets",
-      "On-demand video",
-      "Carbon emissions estimate: 2661 kg"
-     ]
-    }
-   ],
-   "layovers": [
-    {
-     "duration": 200,
-     "name": "Amsterdam Airport Schiphol",
-     "id": "AMS"
-    }
-   ],
-   "total_duration": 995,
-   "carbon_emissions": {
-    "this_flight": 2751000,
-    "typical_for_this_route": 2076000,
-    "difference_percent": 33
-   },
-   "price": 4761,
-   "type": "One way",
-   "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/multi.png",
-   "extensions": [
-    "1 checked bag included",
-    "Fare non-refundable, taxes may be refundable",
-    "Ticket changes for a fee"
-   ],
-   "booking_token": "WyJDalJJYlU5clpFWmhSSGt3VTBGQlJWUlhRMUZDUnkwdExTMHRMUzB0Y0daaVpIY3lOMEZCUVVGQlIzRTVTWE0wUW1vd1NESkJFZ3hCUmpFek5EQjhTMHczT1RFYUN3aWJoeDBRQWhvRFJWVlNPQnh3MDRBaCIsW1siQ0RHIiwiMjAyNi0xMC0xNiIsIkFNUyIsbnVsbCwiQUYiLCIxMzQwIl0sWyJBTVMiLCIyMDI2LTEwLTE2IiwiR1JVIixudWxsLCJLTCIsIjc5MSJdXV0="
-  },
-  {
-   "flights": [
-    {
-     "departure_airport": {
-      "name": "Aéroport de Paris-Charles de Gaulle",
-      "id": "CDG",
-      "time": "2026-10-16 10:35"
-     },
-     "arrival_airport": {
-      "name": "São Paulo/Guarulhos–Governor André Franco Montoro International Airport",
-      "id": "GRU",
-      "time": "2026-10-16 17:20"
-     },
-     "duration": 705,
-     "airplane": "Airbus A350",
-     "airline": "Air France",
-     "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AF.png",
-     "travel_class": "Business Class",
-     "flight_number": "AF 460",
-     "extensions": [
-      "Individual suite",
-      "In-seat power & USB outlets",
-      "On-demand video",
-      "Carbon emissions estimate: 2050 kg"
-     ]
-    }
-   ],
-   "total_duration": 705,
-   "carbon_emissions": {
-    "this_flight": 2050000,
-    "typical_for_this_route": 2076000,
-    "difference_percent": -1
-   },
-   "price": 5053,
-   "type": "One way",
-   "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AF.png",
-   "extensions": [
-    "1 checked bag up to 32 kg included",
-    "Full refund for cancellations",
-    "Free change, possible fare difference"
-   ],
-   "booking_token": "WyJDalJJYlU5clpFWmhSSGt3VTBGQlJWUlhRMUZDUnkwdExTMHRMUzB0Y0daaVpIY3lOMEZCUVVGQlIzRTVTWE0wUW1vd1NESkJFZ1ZCUmpRMk1Cb0xDTVRySGhBQ0dnTkZWVkk0SEhDQWhDTT0iLFtbIkNERyIsIjIwMjYtMTAtMTYiLCJHUlUiLG51bGwsIkFGIiwiNDYwIl1dXQ=="
-  },
-  {
-   "flights": [
-    {
-     "departure_airport": {
-      "name": "Aéroport de Paris-Charles de Gaulle",
-      "id": "CDG",
-      "time": "2026-10-16 18:40"
-     },
-     "arrival_airport": {
-      "name": "Frankfurt Airport",
-      "id": "FRA",
-      "time": "2026-10-16 19:55"
-     },
-     "duration": 75,
-     "airplane": "Airbus A320",
-     "airline": "Lufthansa",
-     "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/LH.png",
-     "travel_class": "Business Class",
-     "flight_number": "LH 1041",
-     "legroom": "30 in",
-     "extensions": [
-      "Average legroom (30 in)",
-      "Carbon emissions estimate: 90 kg"
+      "In-seat USB outlet",
+      "Stream media to your device",
+      "Carbon emissions estimate: 137 kg"
      ]
     },
     {
      "departure_airport": {
-      "name": "Frankfurt Airport",
-      "id": "FRA",
-      "time": "2026-10-16 22:05"
+      "name": "Leonardo da Vinci International Airport",
+      "id": "FCO",
+      "time": "2026-10-16 09:35"
      },
      "arrival_airport": {
       "name": "São Paulo/Guarulhos–Governor André Franco Montoro International Airport",
       "id": "GRU",
-      "time": "2026-10-17 04:50"
+      "time": "2026-10-16 16:55"
      },
-     "duration": 705,
-     "airplane": "Boeing 747",
-     "airline": "Lufthansa",
-     "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/LH.png",
+     "duration": 740,
+     "airplane": "Airbus A330-900neo",
+     "airline": "ITA",
+     "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AZ.png",
      "travel_class": "Business Class",
-     "flight_number": "LH 506",
+     "flight_number": "AZ 678",
      "extensions": [
       "Lie flat seat",
       "Wi-Fi for a fee",
       "In-seat power & USB outlets",
       "On-demand video",
-      "Carbon emissions estimate: 2399 kg"
+      "Carbon emissions estimate: 2162 kg"
      ],
-     "overnight": true
+     "often_delayed_by_over_30_min": true
     }
    ],
    "layovers": [
     {
-     "duration": 130,
-     "name": "Frankfurt Airport",
-     "id": "FRA"
+     "duration": 85,
+     "name": "Leonardo da Vinci International Airport",
+     "id": "FCO"
     }
    ],
-   "total_duration": 910,
+   "total_duration": 945,
    "carbon_emissions": {
-    "this_flight": 2490000,
+    "this_flight": 2300000,
     "typical_for_this_route": 2076000,
-    "difference_percent": 20
+    "difference_percent": 11
    },
-   "price": 5165,
+   "price": 4873,
    "type": "One way",
-   "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/LH.png",
+   "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AZ.png",
+   "extensions": [
+    "1 checked bag up to 32 kg included",
+    "Full refund for cancellations",
+    "Free change, possible fare difference"
+   ],
+   "booking_token": "WyJDalJJWTBZeFpqbEJPVEJVWjBWQlEzbFlTVUZDUnkwdExTMHRMUzB0TFhCcWNXRXhNRUZCUVVGQlIzRXRaVGgzU1dKUFdVVkJFZ3RCV2pNeE4zeEJXalkzT0JvTENPdmVIUkFDR2dORlZWSTRISENLdmlFPSIsW1siQ0RHIiwiMjAyNi0xMC0xNiIsIkZDTyIsbnVsbCwiQVoiLCIzMTciXSxbIkZDTyIsIjIwMjYtMTAtMTYiLCJHUlUiLG51bGwsIkFaIiwiNjc4Il1dXQ=="
+  },
+  {
+   "flights": [
+    {
+     "departure_airport": {
+      "name": "Aéroport de Paris-Charles de Gaulle",
+      "id": "CDG",
+      "time": "2026-10-16 18:15"
+     },
+     "arrival_airport": {
+      "name": "Leonardo da Vinci International Airport",
+      "id": "FCO",
+      "time": "2026-10-16 20:25"
+     },
+     "duration": 130,
+     "airplane": "Airbus A321neo",
+     "airline": "ITA",
+     "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AZ.png",
+     "travel_class": "Business Class",
+     "flight_number": "AZ 325",
+     "extensions": [
+      "Lie flat seat",
+      "Wi-Fi for a fee",
+      "In-seat power & USB outlets",
+      "On-demand video",
+      "Carbon emissions estimate: 170 kg"
+     ]
+    },
+    {
+     "departure_airport": {
+      "name": "Leonardo da Vinci International Airport",
+      "id": "FCO",
+      "time": "2026-10-16 22:00"
+     },
+     "arrival_airport": {
+      "name": "São Paulo/Guarulhos–Governor André Franco Montoro International Airport",
+      "id": "GRU",
+      "time": "2026-10-17 05:20"
+     },
+     "duration": 740,
+     "airplane": "Airbus A330-900neo",
+     "airline": "ITA",
+     "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AZ.png",
+     "travel_class": "Business Class",
+     "flight_number": "AZ 674",
+     "extensions": [
+      "Lie flat seat",
+      "Wi-Fi for a fee",
+      "In-seat power & USB outlets",
+      "On-demand video",
+      "Carbon emissions estimate: 2162 kg"
+     ],
+     "overnight": true,
+     "often_delayed_by_over_30_min": true
+    }
+   ],
+   "layovers": [
+    {
+     "duration": 95,
+     "name": "Leonardo da Vinci International Airport",
+     "id": "FCO"
+    }
+   ],
+   "total_duration": 965,
+   "carbon_emissions": {
+    "this_flight": 2333000,
+    "typical_for_this_route": 2076000,
+    "difference_percent": 12
+   },
+   "price": 4873,
+   "type": "One way",
+   "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AZ.png",
+   "extensions": [
+    "1 checked bag up to 32 kg included",
+    "Full refund for cancellations",
+    "Free change, possible fare difference"
+   ],
+   "booking_token": "WyJDalJJWTBZeFpqbEJPVEJVWjBWQlEzbFlTVUZDUnkwdExTMHRMUzB0TFhCcWNXRXhNRUZCUVVGQlIzRXRaVGgzU1dKUFdVVkJFZ3RCV2pNeU5YeEJXalkzTkJvTENPdmVIUkFDR2dORlZWSTRISENLdmlFPSIsW1siQ0RHIiwiMjAyNi0xMC0xNiIsIkZDTyIsbnVsbCwiQVoiLCIzMjUiXSxbIkZDTyIsIjIwMjYtMTAtMTYiLCJHUlUiLG51bGwsIkFaIiwiNjc0Il1dXQ=="
+  },
+  {
+   "flights": [
+    {
+     "departure_airport": {
+      "name": "Aéroport de Paris-Charles de Gaulle",
+      "id": "CDG",
+      "time": "2026-10-16 23:35"
+     },
+     "arrival_airport": {
+      "name": "São Paulo/Guarulhos–Governor André Franco Montoro International Airport",
+      "id": "GRU",
+      "time": "2026-10-17 06:15"
+     },
+     "duration": 700,
+     "airplane": "Boeing 777",
+     "airline": "Air France",
+     "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AF.png",
+     "travel_class": "Business Class",
+     "flight_number": "AF 454",
+     "extensions": [
+      "Lie flat seat",
+      "Free Wi-Fi",
+      "In-seat power & USB outlets",
+      "On-demand video",
+      "Carbon emissions estimate: 2558 kg"
+     ],
+     "overnight": true
+    }
+   ],
+   "total_duration": 700,
+   "carbon_emissions": {
+    "this_flight": 2559000,
+    "typical_for_this_route": 2076000,
+    "difference_percent": 23
+   },
+   "price": 5908,
+   "type": "One way",
+   "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AF.png",
    "extensions": [
     "1 checked bag included",
     "Fare non-refundable, taxes may be refundable",
     "Ticket changes for a fee"
    ],
-   "booking_token": "WyJDalJJYlU5clpFWmhSSGt3VTBGQlJWUlhRMUZDUnkwdExTMHRMUzB0Y0daaVpIY3lOMEZCUVVGQlIzRTVTWE0wUW1vd1NESkJFZ3hNU0RFd05ERjhURWcxTURZYUN3aU13eDhRQWhvRFJWVlNPQnh3dStjaiIsW1siQ0RHIiwiMjAyNi0xMC0xNiIsIkZSQSIsbnVsbCwiTEgiLCIxMDQxIl0sWyJGUkEiLCIyMDI2LTEwLTE2IiwiR1JVIixudWxsLCJMSCIsIjUwNiJdXV0="
+   "booking_token": "WyJDalJJWTBZeFpqbEJPVEJVWjBWQlEzbFlTVUZDUnkwdExTMHRMUzB0TFhCcWNXRXhNRUZCUVVGQlIzRXRaVGgzU1dKUFdVVkJFZ1ZCUmpRMU5Cb0xDTUNISkJBQ0dnTkZWVkk0SEhER3pDZz0iLFtbIkNERyIsIjIwMjYtMTAtMTYiLCJHUlUiLG51bGwsIkFGIiwiNDU0Il1dXQ=="
   },
   {
    "flights": [
@@ -648,7 +648,7 @@
     "typical_for_this_route": 2076000,
     "difference_percent": -1
    },
-   "price": 10632,
+   "price": 10611,
    "type": "One way",
    "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/BA.png",
    "extensions": [
@@ -656,7 +656,7 @@
     "Full refund for cancellations",
     "Free change, possible fare difference"
    ],
-   "booking_token": "WyJDalJJYlU5clpFWmhSSGt3VTBGQlJWUlhRMUZDUnkwdExTMHRMUzB0Y0daaVpIY3lOMEZCUVVGQlIzRTVTWE0wUW1vd1NESkJFZ3RDUVRNd09YeENRVEkwTnhvTENNZnhRQkFDR2dORlZWSTRISENqMmtrPSIsW1siQ0RHIiwiMjAyNi0xMC0xNiIsIkxIUiIsbnVsbCwiQkEiLCIzMDkiXSxbIkxIUiIsIjIwMjYtMTAtMTYiLCJHUlUiLG51bGwsIkJBIiwiMjQ3Il1dXQ=="
+   "booking_token": "WyJDalJJWTBZeFpqbEJPVEJVWjBWQlEzbFlTVUZDUnkwdExTMHRMUzB0TFhCcWNXRXhNRUZCUVVGQlIzRXRaVGgzU1dKUFdVVkJFZ3RDUVRNd09YeENRVEkwTnhvTENKYmhRQkFDR2dORlZWSTRISERaOUVnPSIsW1siQ0RHIiwiMjAyNi0xMC0xNiIsIkxIUiIsbnVsbCwiQkEiLCIzMDkiXSxbIkxIUiIsIjIwMjYtMTAtMTYiLCJHUlUiLG51bGwsIkJBIiwiMjQ3Il1dXQ=="
   }
  ],
  "airports": [
