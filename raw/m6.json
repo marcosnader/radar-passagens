@@ -1,15 +1,15 @@
 {
  "search_metadata": {
-  "id": "6abe7bba33361792297bc233",
+  "id": "6abfc330dafa5fdcf9356fe5",
   "status": "Success",
-  "json_endpoint": "https://serpapi.com/searches/CCi8Ku1mChCfPtqMws_YGEQMwo5Ifz13q0MGmfP3ceM/6abe7bba33361792297bc233.json",
-  "markdown_endpoint": "https://serpapi.com/searches/CCi8Ku1mChCfPtqMws_YGEQMwo5Ifz13q0MGmfP3ceM/6abe7bba33361792297bc233.md",
-  "created_at": "2026-10-01 15:26:50 UTC",
-  "processed_at": "2026-10-01 15:26:50 UTC",
+  "json_endpoint": "https://serpapi.com/searches/iW2dDJMYWUb6Tae7pJ_Cg1woblfeT5Ay43wtx5rCAmQ/6abfc330dafa5fdcf9356fe5.json",
+  "markdown_endpoint": "https://serpapi.com/searches/iW2dDJMYWUb6Tae7pJ_Cg1woblfeT5Ay43wtx5rCAmQ/6abfc330dafa5fdcf9356fe5.md",
+  "created_at": "2026-10-02 14:44:00 UTC",
+  "processed_at": "2026-10-02 14:44:00 UTC",
   "google_flights_url": "https://www.google.com/travel/flights?hl=en&gl=br&curr=EUR&tfs=CBwQAhooEgoyMDI2LTEwLTA5KAA6AkxBOgJBVmoHCAESA0dSVXIHCAESA0NERxooEgoyMDI2LTExLTIxKAA6AkxBOgJBVmoHCAESA0NER3IHCAESA0dSVUABSANwAZgBAQ&tfu=EgIIAQ",
-  "raw_html_file": "https://serpapi.com/searches/CCi8Ku1mChCfPtqMws_YGEQMwo5Ifz13q0MGmfP3ceM/6abe7bba33361792297bc233.html",
-  "prettify_html_file": "https://serpapi.com/searches/CCi8Ku1mChCfPtqMws_YGEQMwo5Ifz13q0MGmfP3ceM/6abe7bba33361792297bc233.prettify",
-  "total_time_taken": 8.08
+  "raw_html_file": "https://serpapi.com/searches/iW2dDJMYWUb6Tae7pJ_Cg1woblfeT5Ay43wtx5rCAmQ/6abfc330dafa5fdcf9356fe5.html",
+  "prettify_html_file": "https://serpapi.com/searches/iW2dDJMYWUb6Tae7pJ_Cg1woblfeT5Ay43wtx5rCAmQ/6abfc330dafa5fdcf9356fe5.prettify",
+  "total_time_taken": 9.11
  },
  "search_parameters": {
   "engine": "google_flights",
@@ -28,51 +28,6 @@
   "deep_search": true
  },
  "other_flights": [
-  {
-   "flights": [
-    {
-     "departure_airport": {
-      "name": "São Paulo/Guarulhos–Governor André Franco Montoro International Airport",
-      "id": "GRU",
-      "time": "2026-10-09 19:35"
-     },
-     "arrival_airport": {
-      "name": "Aéroport de Paris-Charles de Gaulle",
-      "id": "CDG",
-      "time": "2026-10-10 11:55"
-     },
-     "duration": 680,
-     "airplane": "Airbus A350",
-     "airline": "Air France",
-     "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AF.png",
-     "travel_class": "Business Class",
-     "flight_number": "AF 459",
-     "extensions": [
-      "Individual suite",
-      "In-seat power & USB outlets",
-      "On-demand video",
-      "Carbon emissions estimate: 2057 kg"
-     ],
-     "overnight": true
-    }
-   ],
-   "total_duration": 680,
-   "carbon_emissions": {
-    "this_flight": 2058000,
-    "typical_for_this_route": 2124000,
-    "difference_percent": -3
-   },
-   "price": 5883,
-   "type": "Round trip",
-   "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AF.png",
-   "extensions": [
-    "1 checked bag up to 32 kg included",
-    "Fare non-refundable, taxes may be refundable",
-    "Ticket changes for a fee",
-    "Bag and fare conditions depend on the return flight"
-   ],
-   "departure_token": "WyJDalJJV1hORFpsSXdTMkp5YWtsQlJuWjRVa0ZDUnkwdExTMHRMUzB0TFMxNWJHNXhOMEZCUVVGQlIzRXRaVGN3VEdGTVFrdEJFZ1ZCUmpRMU9Sb0xDSWowSXhBQ0dnTkZWVkk0SEhEVnRpZz0iLFtbIkdSVSIsIjIwMjYtMTAtMDkiLCJDREciLG51bGwsIkFGIiwiNDU5Il1dXQ=="
-  },
   {
    "flights": [
     {
@@ -108,7 +63,7 @@
     "typical_for_this_route": 2124000,
     "difference_percent": 20
    },
-   "price": 6809,
+   "price": 5021,
    "type": "Round trip",
    "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AF.png",
    "extensions": [
@@ -117,7 +72,52 @@
     "Ticket changes for a fee",
     "Bag and fare conditions depend on the return flight"
    ],
-   "departure_token": "WyJDalJJV1hORFpsSXdTMkp5YWtsQlJuWjRVa0ZDUnkwdExTMHRMUzB0TFMxNWJHNXhOMEZCUVVGQlIzRXRaVGN3VEdGTVFrdEJFZ1ZCUmpRMU14b0xDSXpIS1JBQ0dnTkZWVkk0SEhEYjVDND0iLFtbIkdSVSIsIjIwMjYtMTAtMDkiLCJDREciLG51bGwsIkFGIiwiNDUzIl1dXQ=="
+   "departure_token": "WyJDalJJTlY5RVVteDBkR051TTFGQlJHRjNTbEZDUnkwdExTMHRMUzB0TFhCbWIyOHhPVUZCUVVGQlIzRmZkM3BaU3pWQ1gwVkJFZ2RCUmpRMU15TXhHZ3NJOGRFZUVBSWFBMFZWVWpnY2NPWEhJZz09IixbWyJHUlUiLCIyMDI2LTEwLTA5IiwiQ0RHIixudWxsLCJBRiIsIjQ1MyJdXV0="
+  },
+  {
+   "flights": [
+    {
+     "departure_airport": {
+      "name": "São Paulo/Guarulhos–Governor André Franco Montoro International Airport",
+      "id": "GRU",
+      "time": "2026-10-09 19:35"
+     },
+     "arrival_airport": {
+      "name": "Aéroport de Paris-Charles de Gaulle",
+      "id": "CDG",
+      "time": "2026-10-10 11:55"
+     },
+     "duration": 680,
+     "airplane": "Airbus A350",
+     "airline": "Air France",
+     "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AF.png",
+     "travel_class": "Business Class",
+     "flight_number": "AF 459",
+     "extensions": [
+      "Individual suite",
+      "In-seat power & USB outlets",
+      "On-demand video",
+      "Carbon emissions estimate: 2057 kg"
+     ],
+     "overnight": true
+    }
+   ],
+   "total_duration": 680,
+   "carbon_emissions": {
+    "this_flight": 2058000,
+    "typical_for_this_route": 2124000,
+    "difference_percent": -3
+   },
+   "price": 5892,
+   "type": "Round trip",
+   "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AF.png",
+   "extensions": [
+    "1 checked bag up to 32 kg included",
+    "Fare non-refundable, taxes may be refundable",
+    "Ticket changes for a fee",
+    "Bag and fare conditions depend on the return flight"
+   ],
+   "departure_token": "WyJDalJJTlY5RVVteDBkR051TTFGQlJHRjNTbEZDUnkwdExTMHRMUzB0TFhCbWIyOHhPVUZCUVVGQlIzRmZkM3BaU3pWQ1gwVkJFZ2RCUmpRMU9TTXhHZ3NJNlBvakVBSWFBMFZWVWpnY2NPN0hLQT09IixbWyJHUlUiLCIyMDI2LTEwLTA5IiwiQ0RHIixudWxsLCJBRiIsIjQ1OSJdXV0="
   }
  ],
  "airports": [
