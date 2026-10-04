@@ -1,15 +1,15 @@
 {
  "search_metadata": {
-  "id": "6ac101bd7ec029b239f1652c",
+  "id": "6ac25d0274268e7c662a3029",
   "status": "Success",
-  "json_endpoint": "https://serpapi.com/searches/ip3exEUN-KtAnF-2AyFKFueqyevar_pkj0RdTqo1oKI/6ac101bd7ec029b239f1652c.json",
-  "markdown_endpoint": "https://serpapi.com/searches/ip3exEUN-KtAnF-2AyFKFueqyevar_pkj0RdTqo1oKI/6ac101bd7ec029b239f1652c.md",
-  "created_at": "2026-10-03 13:23:09 UTC",
-  "processed_at": "2026-10-03 13:23:09 UTC",
+  "json_endpoint": "https://serpapi.com/searches/PBI1emSnbh6FRWNyKnyjAGmzvbvWvPLh6kLneqtvhYo/6ac25d0274268e7c662a3029.json",
+  "markdown_endpoint": "https://serpapi.com/searches/PBI1emSnbh6FRWNyKnyjAGmzvbvWvPLh6kLneqtvhYo/6ac25d0274268e7c662a3029.md",
+  "created_at": "2026-10-04 14:04:50 UTC",
+  "processed_at": "2026-10-04 14:04:50 UTC",
   "google_flights_url": "https://www.google.com/travel/flights?hl=en&gl=br&curr=EUR&tfs=CBwQAhooEgoyMDI2LTEwLTE2KAE6AkxBOgJBVmoHCAESA0NER3IHCAESA0dSVUABSANwAZgBAg&tfu=EgIIAQ",
-  "raw_html_file": "https://serpapi.com/searches/ip3exEUN-KtAnF-2AyFKFueqyevar_pkj0RdTqo1oKI/6ac101bd7ec029b239f1652c.html",
-  "prettify_html_file": "https://serpapi.com/searches/ip3exEUN-KtAnF-2AyFKFueqyevar_pkj0RdTqo1oKI/6ac101bd7ec029b239f1652c.prettify",
-  "total_time_taken": 1.23
+  "raw_html_file": "https://serpapi.com/searches/PBI1emSnbh6FRWNyKnyjAGmzvbvWvPLh6kLneqtvhYo/6ac25d0274268e7c662a3029.html",
+  "prettify_html_file": "https://serpapi.com/searches/PBI1emSnbh6FRWNyKnyjAGmzvbvWvPLh6kLneqtvhYo/6ac25d0274268e7c662a3029.prettify",
+  "total_time_taken": 7.37
  },
  "search_parameters": {
   "engine": "google_flights",
@@ -94,7 +94,7 @@
     "typical_for_this_route": 2073000,
     "difference_percent": 74
    },
-   "price": 3149,
+   "price": 2274,
    "type": "One way",
    "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/ET.png",
    "extensions": [
@@ -102,7 +102,7 @@
     "Full refund for cancellations",
     "Free change, possible fare difference"
    ],
-   "booking_token": "WyJDalJJYkVkS1VrNDJWRGRqTTNkQlIzUktVbEZDUnkwdExTMHRMUzB0TFhaMGJYRXhOMEZCUVVGQlIzSkNRV0l3VGpONGIwbEJFZ3RGVkRjek5YeEZWRFV3TmhvTENPT2JFeEFDR2dORlZWSTRISEQ4MEJVPSIsW1siQ0RHIiwiMjAyNi0xMC0xNiIsIkFERCIsbnVsbCwiRVQiLCI3MzUiXSxbIkFERCIsIjIwMjYtMTAtMTciLCJHUlUiLG51bGwsIkVUIiwiNTA2Il1dXQ=="
+   "booking_token": "WyJDalJJT1ZwNWNESnNPV1ZvUVd0QlRIVnJXSGRDUnkwdExTMHRMUzB0Y0dwaWJISXhORUZCUVVGQlIzSkRXRkZOUzFkV2VGVkJFZ3RGVkRjek5YeEZWRFV3TmhvTENKZndEUkFDR2dORlZWSTRISENVMEE4PSIsW1siQ0RHIiwiMjAyNi0xMC0xNiIsIkFERCIsbnVsbCwiRVQiLCI3MzUiXSxbIkFERCIsIjIwMjYtMTAtMTciLCJHUlUiLG51bGwsIkVUIiwiNTA2Il1dXQ=="
   },
   {
    "flights": [
@@ -171,7 +171,7 @@
     "typical_for_this_route": 2073000,
     "difference_percent": 12
    },
-   "price": 3454,
+   "price": 2854,
    "type": "One way",
    "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/multi.png",
    "extensions": [
@@ -179,7 +179,7 @@
     "Full refund for cancellations",
     "Free change, possible fare difference"
    ],
-   "booking_token": "WyJDalJJYkVkS1VrNDJWRGRqTTNkQlIzUktVbEZDUnkwdExTMHRMUzB0TFhaMGJYRXhOMEZCUVVGQlIzSkNRV0l3VGpONGIwbEJFZ3hXVERJeU1qZDhURWcxTURRYUN3aTNpaFVRQWhvRFJWVlNPQnh3ME4wWCIsW1siQ0RHIiwiMjAyNi0xMC0xNiIsIk1VQyIsbnVsbCwiVkwiLCIyMjI3Il0sWyJNVUMiLCIyMDI2LTEwLTE2IiwiR1JVIixudWxsLCJMSCIsIjUwNCJdXV0="
+   "booking_token": "WyJDalJJT1ZwNWNESnNPV1ZvUVd0QlRIVnJXSGRDUnkwdExTMHRMUzB0Y0dwaWJISXhORUZCUVVGQlIzSkRXRkZOUzFkV2VGVkJFZ3hXVERJeU1qZDhURWcxTURRYUN3alh0UkVRQWhvRFJWVlNPQnh3N000VCIsW1siQ0RHIiwiMjAyNi0xMC0xNiIsIk1VQyIsbnVsbCwiVkwiLCIyMjI3Il0sWyJNVUMiLCIyMDI2LTEwLTE2IiwiR1JVIixudWxsLCJMSCIsIjUwNCJdXV0="
   },
   {
    "flights": [
@@ -257,7 +257,7 @@
     "Full refund for cancellations",
     "Free change, possible fare difference"
    ],
-   "booking_token": "WyJDalJJYkVkS1VrNDJWRGRqTTNkQlIzUktVbEZDUnkwdExTMHRMUzB0TFhaMGJYRXhOMEZCUVVGQlIzSkNRV0l3VGpONGIwbEJFZ3RCV2pNeU5YeEJXalkzTkJvTENJdVpGUkFDR2dORlZWSTRISENQN2hjPSIsW1siQ0RHIiwiMjAyNi0xMC0xNiIsIkZDTyIsbnVsbCwiQVoiLCIzMjUiXSxbIkZDTyIsIjIwMjYtMTAtMTYiLCJHUlUiLG51bGwsIkFaIiwiNjc0Il1dXQ=="
+   "booking_token": "WyJDalJJT1ZwNWNESnNPV1ZvUVd0QlRIVnJXSGRDUnkwdExTMHRMUzB0Y0dwaWJISXhORUZCUVVGQlIzSkRXRkZOUzFkV2VGVkJFZ3RCV2pNeU5YeEJXalkzTkJvTENJdVpGUkFDR2dORlZWSTRISENhN3hjPSIsW1siQ0RHIiwiMjAyNi0xMC0xNiIsIkZDTyIsbnVsbCwiQVoiLCIzMjUiXSxbIkZDTyIsIjIwMjYtMTAtMTYiLCJHUlUiLG51bGwsIkFaIiwiNjc0Il1dXQ=="
   }
  ],
  "other_flights": [
@@ -332,7 +332,7 @@
     "Partial refund for cancellations",
     "Ticket changes for a fee"
    ],
-   "booking_token": "WyJDalJJYkVkS1VrNDJWRGRqTTNkQlIzUktVbEZDUnkwdExTMHRMUzB0TFhaMGJYRXhOMEZCUVVGQlIzSkNRV0l3VGpONGIwbEJFZ3RCVkRjNE9YeEJWREl4TlJvTENNcTRDUkFDR2dORlZWSTRISERBMEFvPSIsW1siQ0RHIiwiMjAyNi0xMC0xNiIsIkNNTiIsbnVsbCwiQVQiLCI3ODkiXSxbIkNNTiIsIjIwMjYtMTAtMTciLCJHUlUiLG51bGwsIkFUIiwiMjE1Il1dXQ=="
+   "booking_token": "WyJDalJJT1ZwNWNESnNPV1ZvUVd0QlRIVnJXSGRDUnkwdExTMHRMUzB0Y0dwaWJISXhORUZCUVVGQlIzSkRXRkZOUzFkV2VGVkJFZ3RCVkRjNE9YeEJWREl4TlJvTENNcTRDUkFDR2dORlZWSTRISEQ5MEFvPSIsW1siQ0RHIiwiMjAyNi0xMC0xNiIsIkNNTiIsbnVsbCwiQVQiLCI3ODkiXSxbIkNNTiIsIjIwMjYtMTAtMTciLCJHUlUiLG51bGwsIkFUIiwiMjE1Il1dXQ=="
   },
   {
    "flights": [
@@ -407,7 +407,7 @@
     "Full refund for cancellations",
     "Free change, possible fare difference"
    ],
-   "booking_token": "WyJDalJJYkVkS1VrNDJWRGRqTTNkQlIzUktVbEZDUnkwdExTMHRMUzB0TFhaMGJYRXhOMEZCUVVGQlIzSkNRV0l3VGpONGIwbEJFZ3BNV0RZME5YeE1XRGt5R2dzSW80d2dFQUlhQTBWVlVqZ2NjTmVRSkE9PSIsW1siQ0RHIiwiMjAyNi0xMC0xNiIsIlpSSCIsbnVsbCwiTFgiLCI2NDUiXSxbIlpSSCIsIjIwMjYtMTAtMTYiLCJHUlUiLG51bGwsIkxYIiwiOTIiXV1d"
+   "booking_token": "WyJDalJJT1ZwNWNESnNPV1ZvUVd0QlRIVnJXSGRDUnkwdExTMHRMUzB0Y0dwaWJISXhORUZCUVVGQlIzSkRXRkZOUzFkV2VGVkJFZ3BNV0RZME5YeE1XRGt5R2dzSW80d2dFQUlhQTBWVlVqZ2NjS3FTSkE9PSIsW1siQ0RHIiwiMjAyNi0xMC0xNiIsIlpSSCIsbnVsbCwiTFgiLCI2NDUiXSxbIlpSSCIsIjIwMjYtMTAtMTYiLCJHUlUiLG51bGwsIkxYIiwiOTIiXV1d"
   },
   {
    "flights": [
@@ -488,7 +488,7 @@
     "Full refund for cancellations",
     "Free change, possible fare difference"
    ],
-   "booking_token": "WyJDalJJYkVkS1VrNDJWRGRqTTNkQlIzUktVbEZDUnkwdExTMHRMUzB0TFhaMGJYRXhOMEZCUVVGQlIzSkNRV0l3VGpONGIwbEJFZ3hMVERFME1EWjhTMHczT1RFYUN3aW02U01RQWhvRFJWVlNPQnh3MXFrbyIsW1siQ0RHIiwiMjAyNi0xMC0xNiIsIkFNUyIsbnVsbCwiS0wiLCIxNDA2Il0sWyJBTVMiLCIyMDI2LTEwLTE2IiwiR1JVIixudWxsLCJLTCIsIjc5MSJdXV0="
+   "booking_token": "WyJDalJJT1ZwNWNESnNPV1ZvUVd0QlRIVnJXSGRDUnkwdExTMHRMUzB0Y0dwaWJISXhORUZCUVVGQlIzSkRXRkZOUzFkV2VGVkJFZ3hMVERFME1EWjhTMHczT1RFYUN3aW02U01RQWhvRFJWVlNPQnh3d0tzbyIsW1siQ0RHIiwiMjAyNi0xMC0xNiIsIkFNUyIsbnVsbCwiS0wiLCIxNDA2Il0sWyJBTVMiLCIyMDI2LTEwLTE2IiwiR1JVIixudWxsLCJLTCIsIjc5MSJdXV0="
   },
   {
    "flights": [
@@ -531,7 +531,7 @@
     "Full refund for cancellations",
     "Free change, possible fare difference"
    ],
-   "booking_token": "WyJDalJJYkVkS1VrNDJWRGRqTTNkQlIzUktVbEZDUnkwdExTMHRMUzB0TFhaMGJYRXhOMEZCUVVGQlIzSkNRV0l3VGpONGIwbEJFZ1ZCUmpRMk1Cb0xDSWpSSlJBQ0dnTkZWVkk0SEhESnJpbz0iLFtbIkNERyIsIjIwMjYtMTAtMTYiLCJHUlUiLG51bGwsIkFGIiwiNDYwIl1dXQ=="
+   "booking_token": "WyJDalJJT1ZwNWNESnNPV1ZvUVd0QlRIVnJXSGRDUnkwdExTMHRMUzB0Y0dwaWJISXhORUZCUVVGQlIzSkRXRkZOUzFkV2VGVkJFZ1ZCUmpRMk1Cb0xDSWpSSlJBQ0dnTkZWVkk0SEhDL3NDbz0iLFtbIkNERyIsIjIwMjYtMTAtMTYiLCJHUlUiLG51bGwsIkFGIiwiNDYwIl1dXQ=="
   },
   {
    "flights": [
@@ -576,7 +576,7 @@
     "Full refund for cancellations",
     "Free change, possible fare difference"
    ],
-   "booking_token": "WyJDalJJYkVkS1VrNDJWRGRqTTNkQlIzUktVbEZDUnkwdExTMHRMUzB0TFhaMGJYRXhOMEZCUVVGQlIzSkNRV0l3VGpONGIwbEJFZ1ZCUmpRMU5Cb0xDSWpSSlJBQ0dnTkZWVkk0SEhESnJpbz0iLFtbIkNERyIsIjIwMjYtMTAtMTYiLCJHUlUiLG51bGwsIkFGIiwiNDU0Il1dXQ=="
+   "booking_token": "WyJDalJJT1ZwNWNESnNPV1ZvUVd0QlRIVnJXSGRDUnkwdExTMHRMUzB0Y0dwaWJISXhORUZCUVVGQlIzSkRXRkZOUzFkV2VGVkJFZ1ZCUmpRMU5Cb0xDSWpSSlJBQ0dnTkZWVkk0SEhDL3NDbz0iLFtbIkNERyIsIjIwMjYtMTAtMTYiLCJHUlUiLG51bGwsIkFGIiwiNDU0Il1dXQ=="
   }
  ],
  "airports": [

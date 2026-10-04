@@ -1,15 +1,15 @@
 {
  "search_metadata": {
-  "id": "6ac101af1266d7d0ae509068",
+  "id": "6ac25cf412eb14dd349c39ae",
   "status": "Success",
-  "json_endpoint": "https://serpapi.com/searches/ALVXWBQT7QqbeUDjoYRHJpPot_y1WJP4goFPpTA3IYg/6ac101af1266d7d0ae509068.json",
-  "markdown_endpoint": "https://serpapi.com/searches/ALVXWBQT7QqbeUDjoYRHJpPot_y1WJP4goFPpTA3IYg/6ac101af1266d7d0ae509068.md",
-  "created_at": "2026-10-03 13:22:55 UTC",
-  "processed_at": "2026-10-03 13:22:55 UTC",
+  "json_endpoint": "https://serpapi.com/searches/XV4HRr4js-ATFMoubRJXW7iMdMYDrLnIGZfXlV6gfIU/6ac25cf412eb14dd349c39ae.json",
+  "markdown_endpoint": "https://serpapi.com/searches/XV4HRr4js-ATFMoubRJXW7iMdMYDrLnIGZfXlV6gfIU/6ac25cf412eb14dd349c39ae.md",
+  "created_at": "2026-10-04 14:04:36 UTC",
+  "processed_at": "2026-10-04 14:04:36 UTC",
   "google_flights_url": "https://www.google.com/travel/flights?hl=en&gl=br&curr=EUR&tfs=CBwQAhooEgoyMDI2LTEwLTA5KAA6AkxBOgJBVmoHCAESA0dSVXIHCAESA0NERxooEgoyMDI2LTExLTIxKAA6AkxBOgJBVmoHCAESA0NER3IHCAESA0dSVUABSANwAZgBAQ&tfu=EgIIAQ",
-  "raw_html_file": "https://serpapi.com/searches/ALVXWBQT7QqbeUDjoYRHJpPot_y1WJP4goFPpTA3IYg/6ac101af1266d7d0ae509068.html",
-  "prettify_html_file": "https://serpapi.com/searches/ALVXWBQT7QqbeUDjoYRHJpPot_y1WJP4goFPpTA3IYg/6ac101af1266d7d0ae509068.prettify",
-  "total_time_taken": 8.57
+  "raw_html_file": "https://serpapi.com/searches/XV4HRr4js-ATFMoubRJXW7iMdMYDrLnIGZfXlV6gfIU/6ac25cf412eb14dd349c39ae.html",
+  "prettify_html_file": "https://serpapi.com/searches/XV4HRr4js-ATFMoubRJXW7iMdMYDrLnIGZfXlV6gfIU/6ac25cf412eb14dd349c39ae.prettify",
+  "total_time_taken": 9.71
  },
  "search_parameters": {
   "engine": "google_flights",
@@ -63,7 +63,7 @@
     "typical_for_this_route": 2123000,
     "difference_percent": 20
    },
-   "price": 5398,
+   "price": 5254,
    "type": "Round trip",
    "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AF.png",
    "extensions": [
@@ -72,7 +72,7 @@
     "Ticket changes for a fee",
     "Bag and fare conditions depend on the return flight"
    ],
-   "departure_token": "WyJDalJJTW5oSE1FaEhhRUpDTWxGQlFrRnFWM2RDUnkwdExTMHRMUzB0TFMxNWFYQnRPVUZCUVVGQlIzSkNRV0pCVEdNdGVFVkJFZ1ZCUmpRMU14b0xDUGo0SUJBQ0dnTkZWVkk0SEhDQml5VT0iLFtbIkdSVSIsIjIwMjYtMTAtMDkiLCJDREciLG51bGwsIkFGIiwiNDUzIl1dXQ=="
+   "departure_token": "WyJDalJJZFZWdFEyOTBlRXhzZFRoQldYRllYMUZDUnkwdExTMHRMUzB0TFMxdmVXRm1NVUZCUVVGQlIzSkRXRkJSVG10VlJsTkJFZ1ZCUmpRMU14b0xDSlNJSUJBQ0dnTkZWVkk0SEhEWWpTUT0iLFtbIkdSVSIsIjIwMjYtMTAtMDkiLCJDREciLG51bGwsIkFGIiwiNDUzIl1dXQ=="
   },
   {
    "flights": [
@@ -108,7 +108,7 @@
     "typical_for_this_route": 2123000,
     "difference_percent": -3
    },
-   "price": 6306,
+   "price": 6303,
    "type": "Round trip",
    "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AF.png",
    "extensions": [
@@ -117,7 +117,7 @@
     "Ticket changes for a fee",
     "Bag and fare conditions depend on the return flight"
    ],
-   "departure_token": "WyJDalJJTW5oSE1FaEhhRUpDTWxGQlFrRnFWM2RDUnkwdExTMHRMUzB0TFMxNWFYQnRPVUZCUVVGQlIzSkNRV0pCVEdNdGVFVkJFZ1ZCUmpRMU9Sb0xDUE85SmhBQ0dnTkZWVkk0SEhDTHFTcz0iLFtbIkdSVSIsIjIwMjYtMTAtMDkiLCJDREciLG51bGwsIkFGIiwiNDU5Il1dXQ=="
+   "departure_token": "WyJDalJJZFZWdFEyOTBlRXhzZFRoQldYRllYMUZDUnkwdExTMHRMUzB0TFMxdmVXRm1NVUZCUVVGQlIzSkRXRkJSVG10VlJsTkJFZ1ZCUmpRMU9Sb0xDSk84SmhBQ0dnTkZWVkk0SEhDTHFTcz0iLFtbIkdSVSIsIjIwMjYtMTAtMDkiLCJDREciLG51bGwsIkFGIiwiNDU5Il1dXQ=="
   }
  ],
  "airports": [
