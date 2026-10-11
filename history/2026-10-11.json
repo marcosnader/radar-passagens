@@ -1,0 +1,186 @@
+{
+  "generated_at": "2026-10-11T14:54:35+00:00",
+  "currency": "EUR",
+  "monitors": [
+    {
+      "id": "m1",
+      "route": "GRU → NYC (executiva)",
+      "cheapest": null,
+      "error": "data de ida já passou"
+    },
+    {
+      "id": "m6",
+      "route": "GRU ⇄ CDG (executiva)",
+      "cheapest": null,
+      "error": "data de ida já passou"
+    },
+    {
+      "id": "m1788494926035",
+      "route": "cdg → gru (executiva)",
+      "query": {
+        "departure_id": "CDG",
+        "arrival_id": "GRU",
+        "outbound_date": "2026-10-18",
+        "return_date": null,
+        "type": 2,
+        "travel_class": 3,
+        "stops": 1
+      },
+      "cabin": "executiva",
+      "cheapest": {
+        "price": 6166,
+        "airline": "Air France",
+        "flight_numbers": [
+          "AF 460"
+        ],
+        "depart": "2026-10-18 10:35",
+        "arrive": "2026-10-18 17:20",
+        "from": "CDG",
+        "to": "GRU",
+        "stops": 0,
+        "duration_min": 705,
+        "travel_class": "Business Class"
+      },
+      "by_airline": [
+        {
+          "price": 6166,
+          "airline": "Air France",
+          "flight_numbers": [
+            "AF 460"
+          ],
+          "depart": "2026-10-18 10:35",
+          "arrive": "2026-10-18 17:20",
+          "from": "CDG",
+          "to": "GRU",
+          "stops": 0,
+          "duration_min": 705,
+          "travel_class": "Business Class"
+        }
+      ],
+      "options_count": 2,
+      "price_insights": null,
+      "error": null
+    },
+    {
+      "id": "m1788635527614",
+      "route": "cdg → gru (executiva)",
+      "query": {
+        "departure_id": "CDG",
+        "arrival_id": "GRU",
+        "outbound_date": "2026-10-16",
+        "return_date": null,
+        "type": 2,
+        "travel_class": 3,
+        "stops": 2
+      },
+      "cabin": "executiva",
+      "cheapest": {
+        "price": 2773,
+        "airline": "ITA",
+        "flight_numbers": [
+          "AZ 325",
+          "AZ 678"
+        ],
+        "depart": "2026-10-16 18:15",
+        "arrive": "2026-10-17 16:55",
+        "from": "CDG",
+        "to": "GRU",
+        "stops": 1,
+        "duration_min": 1660,
+        "travel_class": "Business Class"
+      },
+      "by_airline": [
+        {
+          "price": 2773,
+          "airline": "ITA",
+          "flight_numbers": [
+            "AZ 325",
+            "AZ 678"
+          ],
+          "depart": "2026-10-16 18:15",
+          "arrive": "2026-10-17 16:55",
+          "from": "CDG",
+          "to": "GRU",
+          "stops": 1,
+          "duration_min": 1660,
+          "travel_class": "Business Class"
+        },
+        {
+          "price": 2861,
+          "airline": "Lufthansa",
+          "flight_numbers": [
+            "LH 1051",
+            "LH 506"
+          ],
+          "depart": "2026-10-16 07:25",
+          "arrive": "2026-10-17 04:50",
+          "from": "CDG",
+          "to": "GRU",
+          "stops": 1,
+          "duration_min": 1585,
+          "travel_class": "Business Class"
+        },
+        {
+          "price": 3246,
+          "airline": "Royal Air Maroc",
+          "flight_numbers": [
+            "AT 789",
+            "AT 215"
+          ],
+          "depart": "2026-10-16 18:30",
+          "arrive": "2026-10-17 22:30",
+          "from": "CDG",
+          "to": "GRU",
+          "stops": 1,
+          "duration_min": 1980,
+          "travel_class": "Business Class"
+        },
+        {
+          "price": 3454,
+          "airline": "Lufthansa + Lufthansa City Airlines",
+          "flight_numbers": [
+            "VL 2239",
+            "LH 504"
+          ],
+          "depart": "2026-10-16 06:25",
+          "arrive": "2026-10-16 18:55",
+          "from": "CDG",
+          "to": "GRU",
+          "stops": 1,
+          "duration_min": 1050,
+          "travel_class": "Business Class"
+        },
+        {
+          "price": 6166,
+          "airline": "Air France",
+          "flight_numbers": [
+            "AF 460"
+          ],
+          "depart": "2026-10-16 10:35",
+          "arrive": "2026-10-16 17:20",
+          "from": "CDG",
+          "to": "GRU",
+          "stops": 0,
+          "duration_min": 705,
+          "travel_class": "Business Class"
+        }
+      ],
+      "options_count": 13,
+      "price_insights": null,
+      "error": null
+    }
+  ],
+  "serpapi_account": {
+    "plan_name": "Free Plan",
+    "searches_per_month": 250,
+    "plan_searches_left": 221,
+    "extra_credits": 0,
+    "total_searches_left": 221,
+    "this_month_usage": 29,
+    "plan_renewal_date": "2026-11-03",
+    "account_rate_limit_per_hour": 250,
+    "this_hour_searches": 1,
+    "checked_at": "2026-10-11T14:54:42+00:00",
+    "error": null
+  }
+}
