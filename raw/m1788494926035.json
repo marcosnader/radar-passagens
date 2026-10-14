@@ -1,15 +1,15 @@
 {
  "search_metadata": {
-  "id": "6ace54ea4f56b9d2580cc49f",
+  "id": "6acf86e2cf887025c35ca48d",
   "status": "Success",
-  "json_endpoint": "https://serpapi.com/searches/05hLc2up6dEJz4sok_p_31ebKORZEDJuCTY2ZwVo9qk/6ace54ea4f56b9d2580cc49f.json",
-  "markdown_endpoint": "https://serpapi.com/searches/05hLc2up6dEJz4sok_p_31ebKORZEDJuCTY2ZwVo9qk/6ace54ea4f56b9d2580cc49f.md",
-  "created_at": "2026-10-13 15:57:30 UTC",
-  "processed_at": "2026-10-13 15:57:30 UTC",
+  "json_endpoint": "https://serpapi.com/searches/ecPMqo3vdorMdJyMwBJNnu9jop_H5cUMVsncOOqT08E/6acf86e2cf887025c35ca48d.json",
+  "markdown_endpoint": "https://serpapi.com/searches/ecPMqo3vdorMdJyMwBJNnu9jop_H5cUMVsncOOqT08E/6acf86e2cf887025c35ca48d.md",
+  "created_at": "2026-10-14 13:42:58 UTC",
+  "processed_at": "2026-10-14 13:42:58 UTC",
   "google_flights_url": "https://www.google.com/travel/flights?hl=en&gl=br&curr=EUR&tfs=CBwQAhooEgoyMDI2LTEwLTE4KAA6AkxBOgJBVmoHCAESA0NER3IHCAESA0dSVUABSANwAZgBAg&tfu=EgIIAQ",
-  "raw_html_file": "https://serpapi.com/searches/05hLc2up6dEJz4sok_p_31ebKORZEDJuCTY2ZwVo9qk/6ace54ea4f56b9d2580cc49f.html",
-  "prettify_html_file": "https://serpapi.com/searches/05hLc2up6dEJz4sok_p_31ebKORZEDJuCTY2ZwVo9qk/6ace54ea4f56b9d2580cc49f.prettify",
-  "total_time_taken": 1.68
+  "raw_html_file": "https://serpapi.com/searches/ecPMqo3vdorMdJyMwBJNnu9jop_H5cUMVsncOOqT08E/6acf86e2cf887025c35ca48d.html",
+  "prettify_html_file": "https://serpapi.com/searches/ecPMqo3vdorMdJyMwBJNnu9jop_H5cUMVsncOOqT08E/6acf86e2cf887025c35ca48d.prettify",
+  "total_time_taken": 1.98
  },
  "search_parameters": {
   "engine": "google_flights",
@@ -27,49 +27,6 @@
   "deep_search": true
  },
  "other_flights": [
-  {
-   "flights": [
-    {
-     "departure_airport": {
-      "name": "Aéroport de Paris-Charles de Gaulle",
-      "id": "CDG",
-      "time": "2026-10-18 10:35"
-     },
-     "arrival_airport": {
-      "name": "São Paulo/Guarulhos–Governor André Franco Montoro International Airport",
-      "id": "GRU",
-      "time": "2026-10-18 17:20"
-     },
-     "duration": 705,
-     "airplane": "Airbus A350",
-     "airline": "Air France",
-     "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AF.png",
-     "travel_class": "Business Class",
-     "flight_number": "AF 460",
-     "extensions": [
-      "Individual suite",
-      "In-seat power & USB outlets",
-      "On-demand video",
-      "Carbon emissions estimate: 2050 kg"
-     ]
-    }
-   ],
-   "total_duration": 705,
-   "carbon_emissions": {
-    "this_flight": 2050000,
-    "typical_for_this_route": 2104000,
-    "difference_percent": -3
-   },
-   "price": 6166,
-   "type": "One way",
-   "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AF.png",
-   "extensions": [
-    "1 checked bag up to 32 kg included",
-    "Full refund for cancellations",
-    "Free change, possible fare difference"
-   ],
-   "booking_token": "WyJDalJJU0V4RWMwRnliSGRGT0VsQlF6TlJYMmRDUnkwdExTMHRMUzE1YkdReE5TMXVNa0ZCUVVGQlIzSlBWazl6UW5NNE9XbEJFZ1ZCUmpRMk1Cb0xDSWpSSlJBQ0dnTkZWVkk0SEhDQWtDbz0iLFtbIkNERyIsIjIwMjYtMTAtMTgiLCJHUlUiLG51bGwsIkFGIiwiNDYwIl1dXQ=="
-  },
   {
    "flights": [
     {
@@ -101,11 +58,11 @@
    ],
    "total_duration": 700,
    "carbon_emissions": {
-    "this_flight": 2559000,
+    "this_flight": 2558000,
     "typical_for_this_route": 2104000,
     "difference_percent": 22
    },
-   "price": 8324,
+   "price": 6166,
    "type": "One way",
    "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AF.png",
    "extensions": [
@@ -113,7 +70,7 @@
     "Full refund for cancellations",
     "Free change, possible fare difference"
    ],
-   "booking_token": "WyJDalJJU0V4RWMwRnliSGRGT0VsQlF6TlJYMmRDUnkwdExTMHRMUzE1YkdReE5TMXVNa0ZCUVVGQlIzSlBWazl6UW5NNE9XbEJFZ1ZCUmpRMU5Cb0xDSURuTWhBQ0dnTkZWVkk0SEhDVjd6Zz0iLFtbIkNERyIsIjIwMjYtMTAtMTgiLCJHUlUiLG51bGwsIkFGIiwiNDU0Il1dXQ=="
+   "booking_token": "WyJDalJJVVROR1QyTk1WRkpzZFdOQlNFMUdibmRDUnkwdExTMHRMV05sWTJVeE5TMXVNVUZCUVVGQlIzSlFhSFZOUjFaVFYzTkJFZ1ZCUmpRMU5Cb0xDSWpSSlJBQ0dnTkZWVkk0SEhDeDdpaz0iLFtbIkNERyIsIjIwMjYtMTAtMTgiLCJHUlUiLG51bGwsIkFGIiwiNDU0Il1dXQ=="
   }
  ],
  "airports": [

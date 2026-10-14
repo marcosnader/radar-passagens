@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T15:57:30+00:00",
+  "generated_at": "2026-10-14T13:42:58+00:00",
   "currency": "EUR",
   "monitors": [
     {
@@ -31,14 +31,14 @@
         "price": 6166,
         "airline": "Air France",
         "flight_numbers": [
-          "AF 460"
+          "AF 454"
         ],
-        "depart": "2026-10-18 10:35",
-        "arrive": "2026-10-18 17:20",
+        "depart": "2026-10-18 23:35",
+        "arrive": "2026-10-19 06:15",
         "from": "CDG",
         "to": "GRU",
         "stops": 0,
-        "duration_min": 705,
+        "duration_min": 700,
         "travel_class": "Business Class"
       },
       "by_airline": [
@@ -46,18 +46,18 @@
           "price": 6166,
           "airline": "Air France",
           "flight_numbers": [
-            "AF 460"
+            "AF 454"
           ],
-          "depart": "2026-10-18 10:35",
-          "arrive": "2026-10-18 17:20",
+          "depart": "2026-10-18 23:35",
+          "arrive": "2026-10-19 06:15",
           "from": "CDG",
           "to": "GRU",
           "stops": 0,
-          "duration_min": 705,
+          "duration_min": 700,
           "travel_class": "Business Class"
         }
       ],
-      "options_count": 2,
+      "options_count": 1,
       "price_insights": null,
       "error": null
     },
@@ -75,21 +75,51 @@
       },
       "cabin": "executiva",
       "cheapest": {
-        "price": 2904,
-        "airline": "Lufthansa + Lufthansa City Airlines",
+        "price": 2051,
+        "airline": "Royal Air Maroc",
         "flight_numbers": [
-          "VL 2227",
-          "LH 504"
+          "AT 789",
+          "AT 215"
         ],
-        "depart": "2026-10-16 09:00",
-        "arrive": "2026-10-16 18:55",
+        "depart": "2026-10-16 18:30",
+        "arrive": "2026-10-17 22:30",
         "from": "CDG",
         "to": "GRU",
         "stops": 1,
-        "duration_min": 895,
+        "duration_min": 1980,
         "travel_class": "Business Class"
       },
       "by_airline": [
+        {
+          "price": 2051,
+          "airline": "Royal Air Maroc",
+          "flight_numbers": [
+            "AT 789",
+            "AT 215"
+          ],
+          "depart": "2026-10-16 18:30",
+          "arrive": "2026-10-17 22:30",
+          "from": "CDG",
+          "to": "GRU",
+          "stops": 1,
+          "duration_min": 1980,
+          "travel_class": "Business Class"
+        },
+        {
+          "price": 2773,
+          "airline": "ITA",
+          "flight_numbers": [
+            "AZ 325",
+            "AZ 678"
+          ],
+          "depart": "2026-10-16 18:15",
+          "arrive": "2026-10-17 16:55",
+          "from": "CDG",
+          "to": "GRU",
+          "stops": 1,
+          "duration_min": 1660,
+          "travel_class": "Business Class"
+        },
         {
           "price": 2904,
           "airline": "Lufthansa + Lufthansa City Airlines",
@@ -106,51 +136,6 @@
           "travel_class": "Business Class"
         },
         {
-          "price": 3247,
-          "airline": "Royal Air Maroc",
-          "flight_numbers": [
-            "AT 789",
-            "AT 215"
-          ],
-          "depart": "2026-10-16 18:30",
-          "arrive": "2026-10-17 22:30",
-          "from": "CDG",
-          "to": "GRU",
-          "stops": 1,
-          "duration_min": 1980,
-          "travel_class": "Business Class"
-        },
-        {
-          "price": 3473,
-          "airline": "ITA",
-          "flight_numbers": [
-            "AZ 317",
-            "AZ 678"
-          ],
-          "depart": "2026-10-16 06:10",
-          "arrive": "2026-10-16 16:55",
-          "from": "CDG",
-          "to": "GRU",
-          "stops": 1,
-          "duration_min": 945,
-          "travel_class": "Business Class"
-        },
-        {
-          "price": 4247,
-          "airline": "Ethiopian",
-          "flight_numbers": [
-            "ET 735",
-            "ET 506"
-          ],
-          "depart": "2026-10-16 21:40",
-          "arrive": "2026-10-17 16:25",
-          "from": "CDG",
-          "to": "GRU",
-          "stops": 1,
-          "duration_min": 1425,
-          "travel_class": "Business Class"
-        },
-        {
           "price": 5669,
           "airline": "SWISS",
           "flight_numbers": [
@@ -164,9 +149,24 @@
           "stops": 1,
           "duration_min": 885,
           "travel_class": "Business Class"
+        },
+        {
+          "price": 5671,
+          "airline": "Lufthansa",
+          "flight_numbers": [
+            "LH 1041",
+            "LH 506"
+          ],
+          "depart": "2026-10-16 18:40",
+          "arrive": "2026-10-17 04:50",
+          "from": "CDG",
+          "to": "GRU",
+          "stops": 1,
+          "duration_min": 910,
+          "travel_class": "Business Class"
         }
       ],
-      "options_count": 10,
+      "options_count": 12,
       "price_insights": null,
       "error": null
     }
@@ -174,14 +174,14 @@
   "serpapi_account": {
     "plan_name": "Free Plan",
     "searches_per_month": 250,
-    "plan_searches_left": 218,
+    "plan_searches_left": 214,
     "extra_credits": 0,
-    "total_searches_left": 218,
-    "this_month_usage": 32,
+    "total_searches_left": 214,
+    "this_month_usage": 36,
     "plan_renewal_date": "2026-11-03",
     "account_rate_limit_per_hour": 250,
     "this_hour_searches": 1,
-    "checked_at": "2026-10-13T15:57:36+00:00",
+    "checked_at": "2026-10-14T13:43:09+00:00",
     "error": null
   }
 }
