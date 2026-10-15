@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T13:42:58+00:00",
+  "generated_at": "2026-10-15T13:25:07+00:00",
   "currency": "EUR",
   "monitors": [
     {
@@ -27,39 +27,11 @@
         "stops": 1
       },
       "cabin": "executiva",
-      "cheapest": {
-        "price": 6166,
-        "airline": "Air France",
-        "flight_numbers": [
-          "AF 454"
-        ],
-        "depart": "2026-10-18 23:35",
-        "arrive": "2026-10-19 06:15",
-        "from": "CDG",
-        "to": "GRU",
-        "stops": 0,
-        "duration_min": 700,
-        "travel_class": "Business Class"
-      },
-      "by_airline": [
-        {
-          "price": 6166,
-          "airline": "Air France",
-          "flight_numbers": [
-            "AF 454"
-          ],
-          "depart": "2026-10-18 23:35",
-          "arrive": "2026-10-19 06:15",
-          "from": "CDG",
-          "to": "GRU",
-          "stops": 0,
-          "duration_min": 700,
-          "travel_class": "Business Class"
-        }
-      ],
-      "options_count": 1,
+      "cheapest": null,
+      "by_airline": [],
+      "options_count": 0,
       "price_insights": null,
-      "error": null
+      "error": "Google Flights hasn't returned any results for this query."
     },
     {
       "id": "m1788635527614",
@@ -106,7 +78,7 @@
           "travel_class": "Business Class"
         },
         {
-          "price": 2773,
+          "price": 3473,
           "airline": "ITA",
           "flight_numbers": [
             "AZ 325",
@@ -121,7 +93,22 @@
           "travel_class": "Business Class"
         },
         {
-          "price": 2904,
+          "price": 4247,
+          "airline": "Ethiopian",
+          "flight_numbers": [
+            "ET 735",
+            "ET 506"
+          ],
+          "depart": "2026-10-16 21:40",
+          "arrive": "2026-10-17 16:25",
+          "from": "CDG",
+          "to": "GRU",
+          "stops": 1,
+          "duration_min": 1425,
+          "travel_class": "Business Class"
+        },
+        {
+          "price": 5020,
           "airline": "Lufthansa + Lufthansa City Airlines",
           "flight_numbers": [
             "VL 2227",
@@ -149,24 +136,9 @@
           "stops": 1,
           "duration_min": 885,
           "travel_class": "Business Class"
-        },
-        {
-          "price": 5671,
-          "airline": "Lufthansa",
-          "flight_numbers": [
-            "LH 1041",
-            "LH 506"
-          ],
-          "depart": "2026-10-16 18:40",
-          "arrive": "2026-10-17 04:50",
-          "from": "CDG",
-          "to": "GRU",
-          "stops": 1,
-          "duration_min": 910,
-          "travel_class": "Business Class"
         }
       ],
-      "options_count": 12,
+      "options_count": 8,
       "price_insights": null,
       "error": null
     }
@@ -174,14 +146,14 @@
   "serpapi_account": {
     "plan_name": "Free Plan",
     "searches_per_month": 250,
-    "plan_searches_left": 214,
+    "plan_searches_left": 212,
     "extra_credits": 0,
-    "total_searches_left": 214,
-    "this_month_usage": 36,
+    "total_searches_left": 212,
+    "this_month_usage": 38,
     "plan_renewal_date": "2026-11-03",
     "account_rate_limit_per_hour": 250,
     "this_hour_searches": 1,
-    "checked_at": "2026-10-14T13:43:09+00:00",
+    "checked_at": "2026-10-15T13:25:16+00:00",
     "error": null
   }
 }

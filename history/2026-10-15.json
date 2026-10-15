@@ -1,0 +1,159 @@
+{
+  "generated_at": "2026-10-15T13:25:07+00:00",
+  "currency": "EUR",
+  "monitors": [
+    {
+      "id": "m1",
+      "route": "GRU → NYC (executiva)",
+      "cheapest": null,
+      "error": "data de ida já passou"
+    },
+    {
+      "id": "m6",
+      "route": "GRU ⇄ CDG (executiva)",
+      "cheapest": null,
+      "error": "data de ida já passou"
+    },
+    {
+      "id": "m1788494926035",
+      "route": "cdg → gru (executiva)",
+      "query": {
+        "departure_id": "CDG",
+        "arrival_id": "GRU",
+        "outbound_date": "2026-10-18",
+        "return_date": null,
+        "type": 2,
+        "travel_class": 3,
+        "stops": 1
+      },
+      "cabin": "executiva",
+      "cheapest": null,
+      "by_airline": [],
+      "options_count": 0,
+      "price_insights": null,
+      "error": "Google Flights hasn't returned any results for this query."
+    },
+    {
+      "id": "m1788635527614",
+      "route": "cdg → gru (executiva)",
+      "query": {
+        "departure_id": "CDG",
+        "arrival_id": "GRU",
+        "outbound_date": "2026-10-16",
+        "return_date": null,
+        "type": 2,
+        "travel_class": 3,
+        "stops": 2
+      },
+      "cabin": "executiva",
+      "cheapest": {
+        "price": 2051,
+        "airline": "Royal Air Maroc",
+        "flight_numbers": [
+          "AT 789",
+          "AT 215"
+        ],
+        "depart": "2026-10-16 18:30",
+        "arrive": "2026-10-17 22:30",
+        "from": "CDG",
+        "to": "GRU",
+        "stops": 1,
+        "duration_min": 1980,
+        "travel_class": "Business Class"
+      },
+      "by_airline": [
+        {
+          "price": 2051,
+          "airline": "Royal Air Maroc",
+          "flight_numbers": [
+            "AT 789",
+            "AT 215"
+          ],
+          "depart": "2026-10-16 18:30",
+          "arrive": "2026-10-17 22:30",
+          "from": "CDG",
+          "to": "GRU",
+          "stops": 1,
+          "duration_min": 1980,
+          "travel_class": "Business Class"
+        },
+        {
+          "price": 3473,
+          "airline": "ITA",
+          "flight_numbers": [
+            "AZ 325",
+            "AZ 678"
+          ],
+          "depart": "2026-10-16 18:15",
+          "arrive": "2026-10-17 16:55",
+          "from": "CDG",
+          "to": "GRU",
+          "stops": 1,
+          "duration_min": 1660,
+          "travel_class": "Business Class"
+        },
+        {
+          "price": 4247,
+          "airline": "Ethiopian",
+          "flight_numbers": [
+            "ET 735",
+            "ET 506"
+          ],
+          "depart": "2026-10-16 21:40",
+          "arrive": "2026-10-17 16:25",
+          "from": "CDG",
+          "to": "GRU",
+          "stops": 1,
+          "duration_min": 1425,
+          "travel_class": "Business Class"
+        },
+        {
+          "price": 5020,
+          "airline": "Lufthansa + Lufthansa City Airlines",
+          "flight_numbers": [
+            "VL 2227",
+            "LH 504"
+          ],
+          "depart": "2026-10-16 09:00",
+          "arrive": "2026-10-16 18:55",
+          "from": "CDG",
+          "to": "GRU",
+          "stops": 1,
+          "duration_min": 895,
+          "travel_class": "Business Class"
+        },
+        {
+          "price": 5669,
+          "airline": "SWISS",
+          "flight_numbers": [
+            "LX 645",
+            "LX 92"
+          ],
+          "depart": "2026-10-16 19:40",
+          "arrive": "2026-10-17 05:25",
+          "from": "CDG",
+          "to": "GRU",
+          "stops": 1,
+          "duration_min": 885,
+          "travel_class": "Business Class"
+        }
+      ],
+      "options_count": 8,
+      "price_insights": null,
+      "error": null
+    }
+  ],
+  "serpapi_account": {
+    "plan_name": "Free Plan",
+    "searches_per_month": 250,
+    "plan_searches_left": 212,
+    "extra_credits": 0,
+    "total_searches_left": 212,
+    "this_month_usage": 38,
+    "plan_renewal_date": "2026-11-03",
+    "account_rate_limit_per_hour": 250,
+    "this_hour_searches": 1,
+    "checked_at": "2026-10-15T13:25:16+00:00",
+    "error": null
+  }
+}

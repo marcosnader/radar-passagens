@@ -1,15 +1,15 @@
 {
  "search_metadata": {
-  "id": "6acf86e2cf887025c35ca48d",
+  "id": "6ad0d43332a8e343beef9374",
   "status": "Success",
-  "json_endpoint": "https://serpapi.com/searches/ecPMqo3vdorMdJyMwBJNnu9jop_H5cUMVsncOOqT08E/6acf86e2cf887025c35ca48d.json",
-  "markdown_endpoint": "https://serpapi.com/searches/ecPMqo3vdorMdJyMwBJNnu9jop_H5cUMVsncOOqT08E/6acf86e2cf887025c35ca48d.md",
-  "created_at": "2026-10-14 13:42:58 UTC",
-  "processed_at": "2026-10-14 13:42:58 UTC",
+  "json_endpoint": "https://serpapi.com/searches/MNOZzIvZYWBhegMAZmpJ7tieq7t3k09areuFLUyNoHw/6ad0d43332a8e343beef9374.json",
+  "markdown_endpoint": "https://serpapi.com/searches/MNOZzIvZYWBhegMAZmpJ7tieq7t3k09areuFLUyNoHw/6ad0d43332a8e343beef9374.md",
+  "created_at": "2026-10-15 13:25:07 UTC",
+  "processed_at": "2026-10-15 13:25:07 UTC",
   "google_flights_url": "https://www.google.com/travel/flights?hl=en&gl=br&curr=EUR&tfs=CBwQAhooEgoyMDI2LTEwLTE4KAA6AkxBOgJBVmoHCAESA0NER3IHCAESA0dSVUABSANwAZgBAg&tfu=EgIIAQ",
-  "raw_html_file": "https://serpapi.com/searches/ecPMqo3vdorMdJyMwBJNnu9jop_H5cUMVsncOOqT08E/6acf86e2cf887025c35ca48d.html",
-  "prettify_html_file": "https://serpapi.com/searches/ecPMqo3vdorMdJyMwBJNnu9jop_H5cUMVsncOOqT08E/6acf86e2cf887025c35ca48d.prettify",
-  "total_time_taken": 1.98
+  "raw_html_file": "https://serpapi.com/searches/MNOZzIvZYWBhegMAZmpJ7tieq7t3k09areuFLUyNoHw/6ad0d43332a8e343beef9374.html",
+  "prettify_html_file": "https://serpapi.com/searches/MNOZzIvZYWBhegMAZmpJ7tieq7t3k09areuFLUyNoHw/6ad0d43332a8e343beef9374.prettify",
+  "total_time_taken": 1.61
  },
  "search_parameters": {
   "engine": "google_flights",
@@ -26,53 +26,6 @@
   "currency": "EUR",
   "deep_search": true
  },
- "other_flights": [
-  {
-   "flights": [
-    {
-     "departure_airport": {
-      "name": "Aéroport de Paris-Charles de Gaulle",
-      "id": "CDG",
-      "time": "2026-10-18 23:35"
-     },
-     "arrival_airport": {
-      "name": "São Paulo/Guarulhos–Governor André Franco Montoro International Airport",
-      "id": "GRU",
-      "time": "2026-10-19 06:15"
-     },
-     "duration": 700,
-     "airplane": "Boeing 777",
-     "airline": "Air France",
-     "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AF.png",
-     "travel_class": "Business Class",
-     "flight_number": "AF 454",
-     "extensions": [
-      "Lie flat seat",
-      "Free Wi-Fi",
-      "In-seat power & USB outlets",
-      "On-demand video",
-      "Carbon emissions estimate: 2558 kg"
-     ],
-     "overnight": true
-    }
-   ],
-   "total_duration": 700,
-   "carbon_emissions": {
-    "this_flight": 2558000,
-    "typical_for_this_route": 2104000,
-    "difference_percent": 22
-   },
-   "price": 6166,
-   "type": "One way",
-   "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AF.png",
-   "extensions": [
-    "1 checked bag up to 32 kg included",
-    "Full refund for cancellations",
-    "Free change, possible fare difference"
-   ],
-   "booking_token": "WyJDalJJVVROR1QyTk1WRkpzZFdOQlNFMUdibmRDUnkwdExTMHRMV05sWTJVeE5TMXVNVUZCUVVGQlIzSlFhSFZOUjFaVFYzTkJFZ1ZCUmpRMU5Cb0xDSWpSSlJBQ0dnTkZWVkk0SEhDeDdpaz0iLFtbIkNERyIsIjIwMjYtMTAtMTgiLCJHUlUiLG51bGwsIkFGIiwiNDU0Il1dXQ=="
-  }
- ],
  "airports": [
   {
    "departure": [
@@ -102,5 +55,9 @@
     }
    ]
   }
- ]
+ ],
+ "search_information": {
+  "flights_results_state": "Fully empty"
+ },
+ "error": "Google Flights hasn't returned any results for this query."
 }
