@@ -1,15 +1,15 @@
 {
  "search_metadata": {
-  "id": "6ad0d43332a8e343beef9374",
+  "id": "6ad223542b5683af3e49d066",
   "status": "Success",
-  "json_endpoint": "https://serpapi.com/searches/MNOZzIvZYWBhegMAZmpJ7tieq7t3k09areuFLUyNoHw/6ad0d43332a8e343beef9374.json",
-  "markdown_endpoint": "https://serpapi.com/searches/MNOZzIvZYWBhegMAZmpJ7tieq7t3k09areuFLUyNoHw/6ad0d43332a8e343beef9374.md",
-  "created_at": "2026-10-15 13:25:07 UTC",
-  "processed_at": "2026-10-15 13:25:07 UTC",
+  "json_endpoint": "https://serpapi.com/searches/8x347ehzrvVvGnyk3P06dRNL6y4baYaaFSnyDfaHy3k/6ad223542b5683af3e49d066.json",
+  "markdown_endpoint": "https://serpapi.com/searches/8x347ehzrvVvGnyk3P06dRNL6y4baYaaFSnyDfaHy3k/6ad223542b5683af3e49d066.md",
+  "created_at": "2026-10-16 13:15:00 UTC",
+  "processed_at": "2026-10-16 13:15:00 UTC",
   "google_flights_url": "https://www.google.com/travel/flights?hl=en&gl=br&curr=EUR&tfs=CBwQAhooEgoyMDI2LTEwLTE4KAA6AkxBOgJBVmoHCAESA0NER3IHCAESA0dSVUABSANwAZgBAg&tfu=EgIIAQ",
-  "raw_html_file": "https://serpapi.com/searches/MNOZzIvZYWBhegMAZmpJ7tieq7t3k09areuFLUyNoHw/6ad0d43332a8e343beef9374.html",
-  "prettify_html_file": "https://serpapi.com/searches/MNOZzIvZYWBhegMAZmpJ7tieq7t3k09areuFLUyNoHw/6ad0d43332a8e343beef9374.prettify",
-  "total_time_taken": 1.61
+  "raw_html_file": "https://serpapi.com/searches/8x347ehzrvVvGnyk3P06dRNL6y4baYaaFSnyDfaHy3k/6ad223542b5683af3e49d066.html",
+  "prettify_html_file": "https://serpapi.com/searches/8x347ehzrvVvGnyk3P06dRNL6y4baYaaFSnyDfaHy3k/6ad223542b5683af3e49d066.prettify",
+  "total_time_taken": 1.33
  },
  "search_parameters": {
   "engine": "google_flights",
@@ -26,6 +26,96 @@
   "currency": "EUR",
   "deep_search": true
  },
+ "other_flights": [
+  {
+   "flights": [
+    {
+     "departure_airport": {
+      "name": "Aéroport de Paris-Charles de Gaulle",
+      "id": "CDG",
+      "time": "2026-10-18 10:35"
+     },
+     "arrival_airport": {
+      "name": "São Paulo/Guarulhos–Governor André Franco Montoro International Airport",
+      "id": "GRU",
+      "time": "2026-10-18 17:20"
+     },
+     "duration": 705,
+     "airplane": "Airbus A350",
+     "airline": "Air France",
+     "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AF.png",
+     "travel_class": "Business Class",
+     "flight_number": "AF 460",
+     "extensions": [
+      "Individual suite",
+      "In-seat power & USB outlets",
+      "On-demand video",
+      "Carbon emissions estimate: 2050 kg"
+     ]
+    }
+   ],
+   "total_duration": 705,
+   "carbon_emissions": {
+    "this_flight": 2050000,
+    "typical_for_this_route": 2077000,
+    "difference_percent": -1
+   },
+   "price": 7238,
+   "type": "One way",
+   "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AF.png",
+   "extensions": [
+    "1 checked bag up to 32 kg included",
+    "Full refund for cancellations",
+    "Free change, possible fare difference"
+   ],
+   "booking_token": "WyJDalJJUVZGSlNFUlhhVGRyUTAxQlJFWnNibWRDUnkwdExTMHRMWGxwWVd3eE1DMXVNa0ZCUVVGQlIzSlRTVEZWUTJsWmN6QkJFZ1ZCUmpRMk1Cb0xDTWlXTEJBQ0dnTkZWVkk0SEhEdjJURT0iLFtbIkNERyIsIjIwMjYtMTAtMTgiLCJHUlUiLG51bGwsIkFGIiwiNDYwIl1dXQ=="
+  },
+  {
+   "flights": [
+    {
+     "departure_airport": {
+      "name": "Aéroport de Paris-Charles de Gaulle",
+      "id": "CDG",
+      "time": "2026-10-18 23:35"
+     },
+     "arrival_airport": {
+      "name": "São Paulo/Guarulhos–Governor André Franco Montoro International Airport",
+      "id": "GRU",
+      "time": "2026-10-19 06:15"
+     },
+     "duration": 700,
+     "airplane": "Boeing 777",
+     "airline": "Air France",
+     "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AF.png",
+     "travel_class": "Business Class",
+     "flight_number": "AF 454",
+     "extensions": [
+      "Lie flat seat",
+      "Free Wi-Fi",
+      "In-seat power & USB outlets",
+      "On-demand video",
+      "Carbon emissions estimate: 2558 kg"
+     ],
+     "overnight": true
+    }
+   ],
+   "total_duration": 700,
+   "carbon_emissions": {
+    "this_flight": 2558000,
+    "typical_for_this_route": 2077000,
+    "difference_percent": 23
+   },
+   "price": 7238,
+   "type": "One way",
+   "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AF.png",
+   "extensions": [
+    "1 checked bag up to 32 kg included",
+    "Full refund for cancellations",
+    "Free change, possible fare difference"
+   ],
+   "booking_token": "WyJDalJJUVZGSlNFUlhhVGRyUTAxQlJFWnNibWRDUnkwdExTMHRMWGxwWVd3eE1DMXVNa0ZCUVVGQlIzSlRTVEZWUTJsWmN6QkJFZ1ZCUmpRMU5Cb0xDTWlXTEJBQ0dnTkZWVkk0SEhEdjJURT0iLFtbIkNERyIsIjIwMjYtMTAtMTgiLCJHUlUiLG51bGwsIkFGIiwiNDU0Il1dXQ=="
+  }
+ ],
  "airports": [
   {
    "departure": [
@@ -55,9 +145,5 @@
     }
    ]
   }
- ],
- "search_information": {
-  "flights_results_state": "Fully empty"
- },
- "error": "Google Flights hasn't returned any results for this query."
+ ]
 }
