@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T13:14:59+00:00",
+  "generated_at": "2026-10-17T12:10:52+00:00",
   "currency": "EUR",
   "monitors": [
     {
@@ -64,93 +64,21 @@
     {
       "id": "m1788635527614",
       "route": "cdg → gru (executiva)",
-      "query": {
-        "departure_id": "CDG",
-        "arrival_id": "GRU",
-        "outbound_date": "2026-10-16",
-        "return_date": null,
-        "type": 2,
-        "travel_class": 3,
-        "stops": 2
-      },
-      "cabin": "executiva",
-      "cheapest": {
-        "price": 4248,
-        "airline": "Ethiopian",
-        "flight_numbers": [
-          "ET 735",
-          "ET 506"
-        ],
-        "depart": "2026-10-16 21:40",
-        "arrive": "2026-10-17 16:25",
-        "from": "CDG",
-        "to": "GRU",
-        "stops": 1,
-        "duration_min": 1425,
-        "travel_class": "Business Class"
-      },
-      "by_airline": [
-        {
-          "price": 4248,
-          "airline": "Ethiopian",
-          "flight_numbers": [
-            "ET 735",
-            "ET 506"
-          ],
-          "depart": "2026-10-16 21:40",
-          "arrive": "2026-10-17 16:25",
-          "from": "CDG",
-          "to": "GRU",
-          "stops": 1,
-          "duration_min": 1425,
-          "travel_class": "Business Class"
-        },
-        {
-          "price": 4873,
-          "airline": "ITA",
-          "flight_numbers": [
-            "AZ 325",
-            "AZ 678"
-          ],
-          "depart": "2026-10-16 18:15",
-          "arrive": "2026-10-17 16:55",
-          "from": "CDG",
-          "to": "GRU",
-          "stops": 1,
-          "duration_min": 1660,
-          "travel_class": "Business Class"
-        },
-        {
-          "price": 7238,
-          "airline": "Air France",
-          "flight_numbers": [
-            "AF 454"
-          ],
-          "depart": "2026-10-16 23:35",
-          "arrive": "2026-10-17 06:15",
-          "from": "CDG",
-          "to": "GRU",
-          "stops": 0,
-          "duration_min": 700,
-          "travel_class": "Business Class"
-        }
-      ],
-      "options_count": 3,
-      "price_insights": null,
-      "error": null
+      "cheapest": null,
+      "error": "data de ida já passou"
     }
   ],
   "serpapi_account": {
     "plan_name": "Free Plan",
     "searches_per_month": 250,
-    "plan_searches_left": 211,
+    "plan_searches_left": 210,
     "extra_credits": 0,
-    "total_searches_left": 211,
-    "this_month_usage": 39,
+    "total_searches_left": 210,
+    "this_month_usage": 40,
     "plan_renewal_date": "2026-11-03",
     "account_rate_limit_per_hour": 250,
-    "this_hour_searches": 1,
-    "checked_at": "2026-10-16T13:15:06+00:00",
+    "this_hour_searches": 0,
+    "checked_at": "2026-10-17T12:10:56+00:00",
     "error": null
   }
 }

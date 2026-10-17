@@ -1,0 +1,84 @@
+{
+  "generated_at": "2026-10-17T12:10:52+00:00",
+  "currency": "EUR",
+  "monitors": [
+    {
+      "id": "m1",
+      "route": "GRU → NYC (executiva)",
+      "cheapest": null,
+      "error": "data de ida já passou"
+    },
+    {
+      "id": "m6",
+      "route": "GRU ⇄ CDG (executiva)",
+      "cheapest": null,
+      "error": "data de ida já passou"
+    },
+    {
+      "id": "m1788494926035",
+      "route": "cdg → gru (executiva)",
+      "query": {
+        "departure_id": "CDG",
+        "arrival_id": "GRU",
+        "outbound_date": "2026-10-18",
+        "return_date": null,
+        "type": 2,
+        "travel_class": 3,
+        "stops": 1
+      },
+      "cabin": "executiva",
+      "cheapest": {
+        "price": 7238,
+        "airline": "Air France",
+        "flight_numbers": [
+          "AF 460"
+        ],
+        "depart": "2026-10-18 10:35",
+        "arrive": "2026-10-18 17:20",
+        "from": "CDG",
+        "to": "GRU",
+        "stops": 0,
+        "duration_min": 705,
+        "travel_class": "Business Class"
+      },
+      "by_airline": [
+        {
+          "price": 7238,
+          "airline": "Air France",
+          "flight_numbers": [
+            "AF 460"
+          ],
+          "depart": "2026-10-18 10:35",
+          "arrive": "2026-10-18 17:20",
+          "from": "CDG",
+          "to": "GRU",
+          "stops": 0,
+          "duration_min": 705,
+          "travel_class": "Business Class"
+        }
+      ],
+      "options_count": 2,
+      "price_insights": null,
+      "error": null
+    },
+    {
+      "id": "m1788635527614",
+      "route": "cdg → gru (executiva)",
+      "cheapest": null,
+      "error": "data de ida já passou"
+    }
+  ],
+  "serpapi_account": {
+    "plan_name": "Free Plan",
+    "searches_per_month": 250,
+    "plan_searches_left": 210,
+    "extra_credits": 0,
+    "total_searches_left": 210,
+    "this_month_usage": 40,
+    "plan_renewal_date": "2026-11-03",
+    "account_rate_limit_per_hour": 250,
+    "this_hour_searches": 0,
+    "checked_at": "2026-10-17T12:10:56+00:00",
+    "error": null
+  }
+}
