@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T12:10:52+00:00",
+  "generated_at": "2026-10-18T12:36:14+00:00",
   "currency": "EUR",
   "monitors": [
     {
@@ -28,36 +28,36 @@
       },
       "cabin": "executiva",
       "cheapest": {
-        "price": 7238,
+        "price": 12757,
         "airline": "Air France",
         "flight_numbers": [
-          "AF 460"
+          "AF 454"
         ],
-        "depart": "2026-10-18 10:35",
-        "arrive": "2026-10-18 17:20",
+        "depart": "2026-10-18 23:35",
+        "arrive": "2026-10-19 06:15",
         "from": "CDG",
         "to": "GRU",
         "stops": 0,
-        "duration_min": 705,
-        "travel_class": "Business Class"
+        "duration_min": 700,
+        "travel_class": "First Class"
       },
       "by_airline": [
         {
-          "price": 7238,
+          "price": 12757,
           "airline": "Air France",
           "flight_numbers": [
-            "AF 460"
+            "AF 454"
           ],
-          "depart": "2026-10-18 10:35",
-          "arrive": "2026-10-18 17:20",
+          "depart": "2026-10-18 23:35",
+          "arrive": "2026-10-19 06:15",
           "from": "CDG",
           "to": "GRU",
           "stops": 0,
-          "duration_min": 705,
-          "travel_class": "Business Class"
+          "duration_min": 700,
+          "travel_class": "First Class"
         }
       ],
-      "options_count": 2,
+      "options_count": 1,
       "price_insights": null,
       "error": null
     },
@@ -71,14 +71,14 @@
   "serpapi_account": {
     "plan_name": "Free Plan",
     "searches_per_month": 250,
-    "plan_searches_left": 210,
+    "plan_searches_left": 209,
     "extra_credits": 0,
-    "total_searches_left": 210,
-    "this_month_usage": 40,
+    "total_searches_left": 209,
+    "this_month_usage": 41,
     "plan_renewal_date": "2026-11-03",
     "account_rate_limit_per_hour": 250,
-    "this_hour_searches": 0,
-    "checked_at": "2026-10-17T12:10:56+00:00",
+    "this_hour_searches": 1,
+    "checked_at": "2026-10-18T12:36:17+00:00",
     "error": null
   }
 }

@@ -1,15 +1,15 @@
 {
  "search_metadata": {
-  "id": "6ad365cc1fad36fb1feaf220",
+  "id": "6ad4bd3e827031cb7ed3db45",
   "status": "Success",
-  "json_endpoint": "https://serpapi.com/searches/qS5jaOvugLnq9nfSRhifNVNnIztUlP6Nb_-O3EkQhHQ/6ad365cc1fad36fb1feaf220.json",
-  "markdown_endpoint": "https://serpapi.com/searches/qS5jaOvugLnq9nfSRhifNVNnIztUlP6Nb_-O3EkQhHQ/6ad365cc1fad36fb1feaf220.md",
-  "created_at": "2026-10-17 12:10:52 UTC",
-  "processed_at": "2026-10-17 12:10:52 UTC",
+  "json_endpoint": "https://serpapi.com/searches/zfvs88Fnw4K1IOdcnSttSNuS9gnDn0B_JcHyRoN8AWE/6ad4bd3e827031cb7ed3db45.json",
+  "markdown_endpoint": "https://serpapi.com/searches/zfvs88Fnw4K1IOdcnSttSNuS9gnDn0B_JcHyRoN8AWE/6ad4bd3e827031cb7ed3db45.md",
+  "created_at": "2026-10-18 12:36:14 UTC",
+  "processed_at": "2026-10-18 12:36:14 UTC",
   "google_flights_url": "https://www.google.com/travel/flights?hl=en&gl=br&curr=EUR&tfs=CBwQAhooEgoyMDI2LTEwLTE4KAA6AkxBOgJBVmoHCAESA0NER3IHCAESA0dSVUABSANwAZgBAg&tfu=EgIIAQ",
-  "raw_html_file": "https://serpapi.com/searches/qS5jaOvugLnq9nfSRhifNVNnIztUlP6Nb_-O3EkQhHQ/6ad365cc1fad36fb1feaf220.html",
-  "prettify_html_file": "https://serpapi.com/searches/qS5jaOvugLnq9nfSRhifNVNnIztUlP6Nb_-O3EkQhHQ/6ad365cc1fad36fb1feaf220.prettify",
-  "total_time_taken": 1.99
+  "raw_html_file": "https://serpapi.com/searches/zfvs88Fnw4K1IOdcnSttSNuS9gnDn0B_JcHyRoN8AWE/6ad4bd3e827031cb7ed3db45.html",
+  "prettify_html_file": "https://serpapi.com/searches/zfvs88Fnw4K1IOdcnSttSNuS9gnDn0B_JcHyRoN8AWE/6ad4bd3e827031cb7ed3db45.prettify",
+  "total_time_taken": 1.19
  },
  "search_parameters": {
   "engine": "google_flights",
@@ -33,49 +33,6 @@
      "departure_airport": {
       "name": "Aéroport de Paris-Charles de Gaulle",
       "id": "CDG",
-      "time": "2026-10-18 10:35"
-     },
-     "arrival_airport": {
-      "name": "São Paulo/Guarulhos–Governor André Franco Montoro International Airport",
-      "id": "GRU",
-      "time": "2026-10-18 17:20"
-     },
-     "duration": 705,
-     "airplane": "Airbus A350",
-     "airline": "Air France",
-     "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AF.png",
-     "travel_class": "Business Class",
-     "flight_number": "AF 460",
-     "extensions": [
-      "Individual suite",
-      "In-seat power & USB outlets",
-      "On-demand video",
-      "Carbon emissions estimate: 2050 kg"
-     ]
-    }
-   ],
-   "total_duration": 705,
-   "carbon_emissions": {
-    "this_flight": 2050000,
-    "typical_for_this_route": 2077000,
-    "difference_percent": -1
-   },
-   "price": 7238,
-   "type": "One way",
-   "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AF.png",
-   "extensions": [
-    "1 checked bag up to 32 kg included",
-    "Full refund for cancellations",
-    "Free change, possible fare difference"
-   ],
-   "booking_token": "WyJDalJJTVVkWmFrOUVWa2s0VURoQlNHdFFVMEZDUnkwdExTMHRMUzB0TFhCcVltTmxOa0ZCUVVGQlIzSlVXbU13VEZGWE1rTkJFZ1ZCUmpRMk1Cb0xDTWlXTEJBQ0dnTkZWVkk0SEhDWTBURT0iLFtbIkNERyIsIjIwMjYtMTAtMTgiLCJHUlUiLG51bGwsIkFGIiwiNDYwIl1dXQ=="
-  },
-  {
-   "flights": [
-    {
-     "departure_airport": {
-      "name": "Aéroport de Paris-Charles de Gaulle",
-      "id": "CDG",
       "time": "2026-10-18 23:35"
      },
      "arrival_airport": {
@@ -87,25 +44,25 @@
      "airplane": "Boeing 777",
      "airline": "Air France",
      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AF.png",
-     "travel_class": "Business Class",
+     "travel_class": "First Class",
      "flight_number": "AF 454",
      "extensions": [
-      "Lie flat seat",
+      "Individual suite",
       "Free Wi-Fi",
       "In-seat power & USB outlets",
       "On-demand video",
-      "Carbon emissions estimate: 2558 kg"
+      "Carbon emissions estimate: 3198 kg"
      ],
      "overnight": true
     }
    ],
    "total_duration": 700,
    "carbon_emissions": {
-    "this_flight": 2558000,
-    "typical_for_this_route": 2077000,
-    "difference_percent": 23
+    "this_flight": 3198000,
+    "typical_for_this_route": 2059000,
+    "difference_percent": 55
    },
-   "price": 7238,
+   "price": 12757,
    "type": "One way",
    "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AF.png",
    "extensions": [
@@ -113,7 +70,7 @@
     "Full refund for cancellations",
     "Free change, possible fare difference"
    ],
-   "booking_token": "WyJDalJJTVVkWmFrOUVWa2s0VURoQlNHdFFVMEZDUnkwdExTMHRMUzB0TFhCcVltTmxOa0ZCUVVGQlIzSlVXbU13VEZGWE1rTkJFZ1ZCUmpRMU5Cb0xDTWlXTEJBQ0dnTkZWVkk0SEhDWTBURT0iLFtbIkNERyIsIjIwMjYtMTAtMTgiLCJHUlUiLG51bGwsIkFGIiwiNDU0Il1dXQ=="
+   "booking_token": "WyJDalJJUzJkV2MwTmZVMVpZWVdOQlNWSjZZMUZDUnkwdExTMHRkblJpWjNBeU55MXVNa0ZCUVVGQlIzSlZkbFE0UTJvM1drOUJFZ1ZCUmpRMU5Cb0xDS1R1VFJBQ0dnTkZWVkk0SEhEUHZWYz0iLFtbIkNERyIsIjIwMjYtMTAtMTgiLCJHUlUiLG51bGwsIkFGIiwiNDU0Il1dXQ=="
   }
  ],
  "airports": [
