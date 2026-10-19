@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T12:36:14+00:00",
+  "generated_at": "2026-10-19T15:35:18+00:00",
   "currency": "EUR",
   "monitors": [
     {
@@ -17,49 +17,8 @@
     {
       "id": "m1788494926035",
       "route": "cdg → gru (executiva)",
-      "query": {
-        "departure_id": "CDG",
-        "arrival_id": "GRU",
-        "outbound_date": "2026-10-18",
-        "return_date": null,
-        "type": 2,
-        "travel_class": 3,
-        "stops": 1
-      },
-      "cabin": "executiva",
-      "cheapest": {
-        "price": 12757,
-        "airline": "Air France",
-        "flight_numbers": [
-          "AF 454"
-        ],
-        "depart": "2026-10-18 23:35",
-        "arrive": "2026-10-19 06:15",
-        "from": "CDG",
-        "to": "GRU",
-        "stops": 0,
-        "duration_min": 700,
-        "travel_class": "First Class"
-      },
-      "by_airline": [
-        {
-          "price": 12757,
-          "airline": "Air France",
-          "flight_numbers": [
-            "AF 454"
-          ],
-          "depart": "2026-10-18 23:35",
-          "arrive": "2026-10-19 06:15",
-          "from": "CDG",
-          "to": "GRU",
-          "stops": 0,
-          "duration_min": 700,
-          "travel_class": "First Class"
-        }
-      ],
-      "options_count": 1,
-      "price_insights": null,
-      "error": null
+      "cheapest": null,
+      "error": "data de ida já passou"
     },
     {
       "id": "m1788635527614",
@@ -71,14 +30,14 @@
   "serpapi_account": {
     "plan_name": "Free Plan",
     "searches_per_month": 250,
-    "plan_searches_left": 209,
+    "plan_searches_left": 208,
     "extra_credits": 0,
-    "total_searches_left": 209,
-    "this_month_usage": 41,
+    "total_searches_left": 208,
+    "this_month_usage": 42,
     "plan_renewal_date": "2026-11-03",
     "account_rate_limit_per_hour": 250,
-    "this_hour_searches": 1,
-    "checked_at": "2026-10-18T12:36:17+00:00",
+    "this_hour_searches": 0,
+    "checked_at": "2026-10-19T15:35:18+00:00",
     "error": null
   }
 }
