@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-10-21T13:47:17+00:00",
+  "currency": "EUR",
+  "monitors": [
+    {
+      "id": "m1",
+      "route": "GRU → NYC (executiva)",
+      "cheapest": null,
+      "error": "data de ida já passou"
+    },
+    {
+      "id": "m6",
+      "route": "GRU ⇄ CDG (executiva)",
+      "cheapest": null,
+      "error": "data de ida já passou"
+    },
+    {
+      "id": "m1788494926035",
+      "route": "cdg → gru (executiva)",
+      "cheapest": null,
+      "error": "data de ida já passou"
+    },
+    {
+      "id": "m1788635527614",
+      "route": "cdg → gru (executiva)",
+      "cheapest": null,
+      "error": "data de ida já passou"
+    }
+  ],
+  "serpapi_account": {
+    "plan_name": "Free Plan",
+    "searches_per_month": 250,
+    "plan_searches_left": 208,
+    "extra_credits": 0,
+    "total_searches_left": 208,
+    "this_month_usage": 42,
+    "plan_renewal_date": "2026-11-03",
+    "account_rate_limit_per_hour": 250,
+    "this_hour_searches": 0,
+    "checked_at": "2026-10-21T13:47:17+00:00",
+    "error": null
+  }
+}
