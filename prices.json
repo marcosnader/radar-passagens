@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T12:40:10+00:00",
+  "generated_at": "2026-10-25T13:10:51+00:00",
   "currency": "EUR",
   "monitors": [
     {
@@ -30,14 +30,14 @@
   "serpapi_account": {
     "plan_name": "Free Plan",
     "searches_per_month": 250,
-    "plan_searches_left": 208,
+    "plan_searches_left": 207,
     "extra_credits": 0,
-    "total_searches_left": 208,
-    "this_month_usage": 42,
+    "total_searches_left": 207,
+    "this_month_usage": 43,
     "plan_renewal_date": "2026-11-03",
     "account_rate_limit_per_hour": 250,
     "this_hour_searches": 0,
-    "checked_at": "2026-10-24T12:40:10+00:00",
+    "checked_at": "2026-10-25T13:10:52+00:00",
     "error": null
   }
 }
