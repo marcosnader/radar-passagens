@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T15:01:57+00:00",
+  "generated_at": "2026-10-31T14:30:54+00:00",
   "currency": "EUR",
   "monitors": [
     {
@@ -37,7 +37,7 @@
     "plan_renewal_date": "2026-11-03",
     "account_rate_limit_per_hour": 250,
     "this_hour_searches": 0,
-    "checked_at": "2026-10-30T15:01:57+00:00",
+    "checked_at": "2026-10-31T14:30:54+00:00",
     "error": null
   }
 }
